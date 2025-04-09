@@ -1,0 +1,5 @@
+streamlit
+pandas
+pandasai
+vertexai
+google-cloud-aiplatform==1.80.0

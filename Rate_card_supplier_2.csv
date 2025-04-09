@@ -1,0 +1,2126 @@
+Role Code,Role Name,Tier,Priority,Region,Country,City,GOVO/GOGO Hourly Rate [USD],Monthly Billable Hours
+A1B8785,Analog/Mixed Signal,L1,High,APAC,India,Bangalore,$27.00,180.00
+A2B8786,Analog/Mixed Signal,L2,High,APAC,India,Bangalore,$33.00,180.00
+A3B8787,Analog/Mixed Signal,L3,High,APAC,India,Bangalore,$36.00,180.00
+A4B8788,Analog/Mixed Signal,L4,High,APAC,India,Bangalore,$40.00,180.00
+A5B8789,Analog/Mixed Signal,L5,High,APAC,India,Bangalore,$44.00,180.00
+A1T7000,Analog/Mixed Signal,L1,High,APAC,Taiwan,Taiwan - All,$40.00,160.00
+A2T7001,Analog/Mixed Signal,L2,High,APAC,Taiwan,Taiwan - All,$45.00,160.00
+A3T7002,Analog/Mixed Signal,L3,High,APAC,Taiwan,Taiwan - All,$50.00,160.00
+A4T7003,Analog/Mixed Signal,L4,High,APAC,Taiwan,Taiwan - All,$56.00,160.00
+A5T7004,Analog/Mixed Signal,L5,High,APAC,Taiwan,Taiwan - All,$65.00,160.00
+A1C7085,Analog/Mixed Signal,L1,High,NA,United States,California,$110.00,160.00
+A2C7086,Analog/Mixed Signal,L2,High,NA,United States,California,$130.00,160.00
+A3C7087,Analog/Mixed Signal,L3,High,NA,United States,California,$155.00,160.00
+A4C7088,Analog/Mixed Signal,L4,High,NA,United States,California,$175.00,160.00
+A5C7089,Analog/Mixed Signal,L5,High,NA,United States,California,$195.00,160.00
+A1B7935,Analog/Mixed Signal,L1,Low,EMEA,Belgium,Belgium - All,NA,160.00
+A2B7936,Analog/Mixed Signal,L2,Low,EMEA,Belgium,Belgium - All,NA,160.00
+A3B7937,Analog/Mixed Signal,L3,Low,EMEA,Belgium,Belgium - All,$110.00,160.00
+A4B7938,Analog/Mixed Signal,L4,Low,EMEA,Belgium,Belgium - All,$110.00,160.00
+A5B7939,Analog/Mixed Signal,L5,Low,EMEA,Belgium,Belgium - All,$110.00,160.00
+A1C8615,Analog/Mixed Signal,L1,Low,LatAm,Chile,Chile - All,$110.00,NA
+A2C8616,Analog/Mixed Signal,L2,Low,LatAm,Chile,Chile - All,$110.00,NA
+A3C8617,Analog/Mixed Signal,L3,Low,LatAm,Chile,Chile - All,$110.00,NA
+A4C8618,Analog/Mixed Signal,L4,Low,LatAm,Chile,Chile - All,$110.00,NA
+A5C8619,Analog/Mixed Signal,L5,Low,LatAm,Chile,Chile - All,$110.00,NA
+A1F8020,Analog/Mixed Signal,L1,Low,EMEA,France,France - All,$110.00,160.00
+A2F8021,Analog/Mixed Signal,L2,Low,EMEA,France,France - All,$110.00,160.00
+A3F8022,Analog/Mixed Signal,L3,Low,EMEA,France,France - All,$110.00,160.00
+A4F8023,Analog/Mixed Signal,L4,Low,EMEA,France,France - All,$110.00,160.00
+A5F8024,Analog/Mixed Signal,L5,Low,EMEA,France,France - All,$110.00,160.00
+A1M8700,Analog/Mixed Signal,L1,Low,NA,Mexico,Mexico - All,$110.00,160.00
+A2M8701,Analog/Mixed Signal,L2,Low,NA,Mexico,Mexico - All,$110.00,160.00
+A3M8702,Analog/Mixed Signal,L3,Low,NA,Mexico,Mexico - All,$110.00,160.00
+A4M8703,Analog/Mixed Signal,L4,Low,NA,Mexico,Mexico - All,$110.00,160.00
+A5M8704,Analog/Mixed Signal,L5,Low,NA,Mexico,Mexico - All,$110.00,160.00
+A1N8105,Analog/Mixed Signal,L1,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+A2N8106,Analog/Mixed Signal,L2,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+A3N8107,Analog/Mixed Signal,L3,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+A4N8108,Analog/Mixed Signal,L4,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+A5N8109,Analog/Mixed Signal,L5,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+A1P8190,Analog/Mixed Signal,L1,Low,EMEA,Portugal,Portugal - All,NA,160.00
+A2P8191,Analog/Mixed Signal,L2,Low,EMEA,Portugal,Portugal - All,NA,160.00
+A3P8192,Analog/Mixed Signal,L3,Low,EMEA,Portugal,Portugal - All,NA,160.00
+A4P8193,Analog/Mixed Signal,L4,Low,EMEA,Portugal,Portugal - All,NA,160.00
+A5P8194,Analog/Mixed Signal,L5,Low,EMEA,Portugal,Portugal - All,NA,160.00
+A1R8445,Analog/Mixed Signal,L1,Low,EMEA,Romania,Romania - All,NA,160.00
+A2R8446,Analog/Mixed Signal,L2,Low,EMEA,Romania,Romania - All,NA,160.00
+A3R8447,Analog/Mixed Signal,L3,Low,EMEA,Romania,Romania - All,NA,160.00
+A4R8448,Analog/Mixed Signal,L4,Low,EMEA,Romania,Romania - All,NA,160.00
+A5R8449,Analog/Mixed Signal,L5,Low,EMEA,Romania,Romania - All,NA,160.00
+A1S8275,Analog/Mixed Signal,L1,Low,EMEA,Spain,Spain - All,NA,160.00
+A2S8276,Analog/Mixed Signal,L2,Low,EMEA,Spain,Spain - All,NA,160.00
+A3S8277,Analog/Mixed Signal,L3,Low,EMEA,Spain,Spain - All,NA,160.00
+A4S8278,Analog/Mixed Signal,L4,Low,EMEA,Spain,Spain - All,NA,160.00
+A5S8279,Analog/Mixed Signal,L5,Low,EMEA,Spain,Spain - All,NA,160.00
+A1U8530,Analog/Mixed Signal,L1,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+A2U8531,Analog/Mixed Signal,L2,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+A3U8532,Analog/Mixed Signal,L3,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+A4U8533,Analog/Mixed Signal,L4,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+A5U8534,Analog/Mixed Signal,L5,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+A1U8360,Analog/Mixed Signal,L1,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+A2U8361,Analog/Mixed Signal,L2,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+A3U8362,Analog/Mixed Signal,L3,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+A4U8363,Analog/Mixed Signal,L4,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+A5U8364,Analog/Mixed Signal,L5,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+A1N7170,Analog/Mixed Signal,L1,Low,NA,United States,New York,$110.00,160.00
+A2N7171,Analog/Mixed Signal,L2,Low,NA,United States,New York,$130.00,160.00
+A3N7172,Analog/Mixed Signal,L3,Low,NA,United States,New York,$155.00,160.00
+A4N7173,Analog/Mixed Signal,L4,Low,NA,United States,New York,$175.00,160.00
+A5N7174,Analog/Mixed Signal,L5,Low,NA,United States,New York,$195.00,160.00
+A1T7340,Analog/Mixed Signal,L1,Low,NA,Canada,Toronto,$98.00,160.00
+A2T7341,Analog/Mixed Signal,L2,Low,NA,Canada,Toronto,$115.00,160.00
+A3T7342,Analog/Mixed Signal,L3,Low,NA,Canada,Toronto,$130.00,160.00
+A4T7343,Analog/Mixed Signal,L4,Low,NA,Canada,Toronto,$145.00,160.00
+A5T7344,Analog/Mixed Signal,L5,Low,NA,Canada,Toronto,$165.00,160.00
+A1B9040,Analog/Mixed Signal,L1,Medium,LatAm,Brazil,Brazil,NA,NA
+A2B9041,Analog/Mixed Signal,L2,Medium,LatAm,Brazil,Brazil,NA,NA
+A3B9042,Analog/Mixed Signal,L3,Medium,LatAm,Brazil,Brazil,NA,NA
+A4B9043,Analog/Mixed Signal,L4,Medium,LatAm,Brazil,Brazil,NA,NA
+A5B9044,Analog/Mixed Signal,L5,Medium,LatAm,Brazil,Brazil,NA,NA
+A1G8870,Analog/Mixed Signal,L1,Medium,EMEA,Germany,Germany - All,NA,160.00
+A2G8871,Analog/Mixed Signal,L2,Medium,EMEA,Germany,Germany - All,NA,160.00
+A3G8872,Analog/Mixed Signal,L3,Medium,EMEA,Germany,Germany - All,NA,160.00
+A4G8873,Analog/Mixed Signal,L4,Medium,EMEA,Germany,Germany - All,NA,160.00
+A5G8874,Analog/Mixed Signal,L5,Medium,EMEA,Germany,Germany - All,NA,160.00
+A1C7510,Analog/Mixed Signal,L1,Medium,APAC,India,Chennai,$27.00,180.00
+A2C7511,Analog/Mixed Signal,L2,Medium,APAC,India,Chennai,$33.00,180.00
+A3C7512,Analog/Mixed Signal,L3,Medium,APAC,India,Chennai,$36.00,180.00
+A4C7513,Analog/Mixed Signal,L4,Medium,APAC,India,Chennai,$40.00,180.00
+A5C7514,Analog/Mixed Signal,L5,Medium,APAC,India,Chennai,$44.00,180.00
+A1H7595,Analog/Mixed Signal,L1,Medium,APAC,India,Hyderabad,$27.00,180.00
+A2H7596,Analog/Mixed Signal,L2,Medium,APAC,India,Hyderabad,$33.00,180.00
+A3H7597,Analog/Mixed Signal,L3,Medium,APAC,India,Hyderabad,$36.00,180.00
+A4H7598,Analog/Mixed Signal,L4,Medium,APAC,India,Hyderabad,$40.00,180.00
+A5H7599,Analog/Mixed Signal,L5,Medium,APAC,India,Hyderabad,$44.00,180.00
+A1M7680,Analog/Mixed Signal,L1,Medium,APAC,India,Mumbai,$27.00,180.00
+A2M7681,Analog/Mixed Signal,L2,Medium,APAC,India,Mumbai,$33.00,180.00
+A3M7682,Analog/Mixed Signal,L3,Medium,APAC,India,Mumbai,$36.00,180.00
+A4M7683,Analog/Mixed Signal,L4,Medium,APAC,India,Mumbai,$40.00,180.00
+A5M7684,Analog/Mixed Signal,L5,Medium,APAC,India,Mumbai,$44.00,180.00
+A1N7765,Analog/Mixed Signal,L1,Medium,APAC,India,New Delhi,$27.00,180.00
+A2N7766,Analog/Mixed Signal,L2,Medium,APAC,India,New Delhi,$33.00,180.00
+A3N7767,Analog/Mixed Signal,L3,Medium,APAC,India,New Delhi,$36.00,180.00
+A4N7768,Analog/Mixed Signal,L4,Medium,APAC,India,New Delhi,$40.00,180.00
+A5N7769,Analog/Mixed Signal,L5,Medium,APAC,India,New Delhi,$44.00,180.00
+A1P7850,Analog/Mixed Signal,L1,Medium,APAC,India,Pune,$27.00,180.00
+A2P7851,Analog/Mixed Signal,L2,Medium,APAC,India,Pune,$33.00,180.00
+A3P7852,Analog/Mixed Signal,L3,Medium,APAC,India,Pune,$36.00,180.00
+A4P7853,Analog/Mixed Signal,L4,Medium,APAC,India,Pune,$40.00,180.00
+A5P7854,Analog/Mixed Signal,L5,Medium,APAC,India,Pune,$44.00,180.00
+A1P8955,Analog/Mixed Signal,L1,Medium,EMEA,Poland,Poland - All,NA,160.00
+A2P8956,Analog/Mixed Signal,L2,Medium,EMEA,Poland,Poland - All,NA,160.00
+A3P8957,Analog/Mixed Signal,L3,Medium,EMEA,Poland,Poland - All,NA,160.00
+A4P8958,Analog/Mixed Signal,L4,Medium,EMEA,Poland,Poland - All,NA,160.00
+A5P8959,Analog/Mixed Signal,L5,Medium,EMEA,Poland,Poland - All,NA,160.00
+A1T7255,Analog/Mixed Signal,L1,Medium,NA,United States,Texas,$102.00,160.00
+A2T7256,Analog/Mixed Signal,L2,Medium,NA,United States,Texas,$120.00,160.00
+A3T7257,Analog/Mixed Signal,L3,Medium,NA,United States,Texas,$150.00,160.00
+A4T7258,Analog/Mixed Signal,L4,Medium,NA,United States,Texas,$165.00,160.00
+A5T7259,Analog/Mixed Signal,L5,Medium,NA,United States,Texas,$180.00,160.00
+A1U7425,Analog/Mixed Signal,L1,Medium,NA,United States,US - Other,$102.00,160.00
+A2U7426,Analog/Mixed Signal,L2,Medium,NA,United States,US - Other,$120.00,160.00
+A3U7427,Analog/Mixed Signal,L3,Medium,NA,United States,US - Other,$150.00,160.00
+A4U7428,Analog/Mixed Signal,L4,Medium,NA,United States,US - Other,$165.00,160.00
+A5U7429,Analog/Mixed Signal,L5,Medium,NA,United States,US - Other,$180.00,160.00
+A1B8790,ASIC/FPGA Design,L1,High,APAC,India,Bangalore,$27.00,180.00
+A2B8791,ASIC/FPGA Design,L2,High,APAC,India,Bangalore,$33.00,180.00
+A3B8792,ASIC/FPGA Design,L3,High,APAC,India,Bangalore,$36.00,180.00
+A4B8793,ASIC/FPGA Design,L4,High,APAC,India,Bangalore,$40.00,180.00
+A5B8794,ASIC/FPGA Design,L5,High,APAC,India,Bangalore,$44.00,180.00
+A1T7005,ASIC/FPGA Design,L1,High,APAC,Taiwan,Taiwan - All,$44.00,160.00
+A2T7006,ASIC/FPGA Design,L2,High,APAC,Taiwan,Taiwan - All,$48.00,160.00
+A3T7007,ASIC/FPGA Design,L3,High,APAC,Taiwan,Taiwan - All,$55.00,160.00
+A4T7008,ASIC/FPGA Design,L4,High,APAC,Taiwan,Taiwan - All,$68.00,160.00
+A5T7009,ASIC/FPGA Design,L5,High,APAC,Taiwan,Taiwan - All,$75.00,160.00
+A1C7090,ASIC/FPGA Design,L1,High,NA,United States,California,$110.00,160.00
+A2C7091,ASIC/FPGA Design,L2,High,NA,United States,California,$130.00,160.00
+A3C7092,ASIC/FPGA Design,L3,High,NA,United States,California,$155.00,160.00
+A4C7093,ASIC/FPGA Design,L4,High,NA,United States,California,$175.00,160.00
+A5C7094,ASIC/FPGA Design,L5,High,NA,United States,California,$195.00,160.00
+A1B7940,ASIC/FPGA Design,L1,Low,EMEA,Belgium,Belgium - All,NA,160.00
+A2B7941,ASIC/FPGA Design,L2,Low,EMEA,Belgium,Belgium - All,NA,160.00
+A3B7942,ASIC/FPGA Design,L3,Low,EMEA,Belgium,Belgium - All,NA,160.00
+A4B7943,ASIC/FPGA Design,L4,Low,EMEA,Belgium,Belgium - All,NA,160.00
+A5B7944,ASIC/FPGA Design,L5,Low,EMEA,Belgium,Belgium - All,NA,160.00
+A1C8620,ASIC/FPGA Design,L1,Low,LatAm,Chile,Chile - All,NA,160.00
+A2C8621,ASIC/FPGA Design,L2,Low,LatAm,Chile,Chile - All,NA,160.00
+A3C8622,ASIC/FPGA Design,L3,Low,LatAm,Chile,Chile - All,NA,160.00
+A4C8623,ASIC/FPGA Design,L4,Low,LatAm,Chile,Chile - All,NA,160.00
+A5C8624,ASIC/FPGA Design,L5,Low,LatAm,Chile,Chile - All,NA,160.00
+A1F8025,ASIC/FPGA Design,L1,Low,EMEA,France,France - All,NA,160.00
+A2F8026,ASIC/FPGA Design,L2,Low,EMEA,France,France - All,NA,160.00
+A3F8027,ASIC/FPGA Design,L3,Low,EMEA,France,France - All,NA,160.00
+A4F8028,ASIC/FPGA Design,L4,Low,EMEA,France,France - All,NA,160.00
+A5F8029,ASIC/FPGA Design,L5,Low,EMEA,France,France - All,NA,160.00
+A1M8705,ASIC/FPGA Design,L1,Low,NA,Mexico,Mexico - All,NA,160.00
+A2M8706,ASIC/FPGA Design,L2,Low,NA,Mexico,Mexico - All,NA,160.00
+A3M8707,ASIC/FPGA Design,L3,Low,NA,Mexico,Mexico - All,NA,160.00
+A4M8708,ASIC/FPGA Design,L4,Low,NA,Mexico,Mexico - All,NA,160.00
+A5M8709,ASIC/FPGA Design,L5,Low,NA,Mexico,Mexico - All,NA,160.00
+A1N8110,ASIC/FPGA Design,L1,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+A2N8111,ASIC/FPGA Design,L2,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+A3N8112,ASIC/FPGA Design,L3,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+A4N8113,ASIC/FPGA Design,L4,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+A5N8114,ASIC/FPGA Design,L5,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+A1P8195,ASIC/FPGA Design,L1,Low,EMEA,Portugal,Portugal - All,NA,160.00
+A2P8196,ASIC/FPGA Design,L2,Low,EMEA,Portugal,Portugal - All,NA,160.00
+A3P8197,ASIC/FPGA Design,L3,Low,EMEA,Portugal,Portugal - All,NA,160.00
+A4P8198,ASIC/FPGA Design,L4,Low,EMEA,Portugal,Portugal - All,NA,160.00
+A5P8199,ASIC/FPGA Design,L5,Low,EMEA,Portugal,Portugal - All,NA,160.00
+A1R8450,ASIC/FPGA Design,L1,Low,EMEA,Romania,Romania - All,NA,160.00
+A2R8451,ASIC/FPGA Design,L2,Low,EMEA,Romania,Romania - All,NA,160.00
+A3R8452,ASIC/FPGA Design,L3,Low,EMEA,Romania,Romania - All,NA,160.00
+A4R8453,ASIC/FPGA Design,L4,Low,EMEA,Romania,Romania - All,NA,160.00
+A5R8454,ASIC/FPGA Design,L5,Low,EMEA,Romania,Romania - All,NA,160.00
+A1S8280,ASIC/FPGA Design,L1,Low,EMEA,Spain,Spain - All,NA,160.00
+A2S8281,ASIC/FPGA Design,L2,Low,EMEA,Spain,Spain - All,NA,160.00
+A3S8282,ASIC/FPGA Design,L3,Low,EMEA,Spain,Spain - All,NA,160.00
+A4S8283,ASIC/FPGA Design,L4,Low,EMEA,Spain,Spain - All,NA,160.00
+A5S8284,ASIC/FPGA Design,L5,Low,EMEA,Spain,Spain - All,NA,160.00
+A1U8535,ASIC/FPGA Design,L1,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+A2U8536,ASIC/FPGA Design,L2,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+A3U8537,ASIC/FPGA Design,L3,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+A4U8538,ASIC/FPGA Design,L4,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+A5U8539,ASIC/FPGA Design,L5,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+A1U8365,ASIC/FPGA Design,L1,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+A2U8366,ASIC/FPGA Design,L2,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+A3U8367,ASIC/FPGA Design,L3,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+A4U8368,ASIC/FPGA Design,L4,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+A5U8369,ASIC/FPGA Design,L5,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+A1N7175,ASIC/FPGA Design,L1,Low,NA,United States,New York,$110.00,160.00
+A2N7176,ASIC/FPGA Design,L2,Low,NA,United States,New York,$130.00,160.00
+A3N7177,ASIC/FPGA Design,L3,Low,NA,United States,New York,$155.00,160.00
+A4N7178,ASIC/FPGA Design,L4,Low,NA,United States,New York,$175.00,160.00
+A5N7179,ASIC/FPGA Design,L5,Low,NA,United States,New York,$195.00,160.00
+A1T7345,ASIC/FPGA Design,L1,Low,NA,Canada,Toronto,$98.00,160.00
+A2T7346,ASIC/FPGA Design,L2,Low,NA,Canada,Toronto,$115.00,160.00
+A3T7347,ASIC/FPGA Design,L3,Low,NA,Canada,Toronto,$130.00,160.00
+A4T7348,ASIC/FPGA Design,L4,Low,NA,Canada,Toronto,$145.00,160.00
+A5T7349,ASIC/FPGA Design,L5,Low,NA,Canada,Toronto,$165.00,160.00
+A1B9045,ASIC/FPGA Design,L1,Medium,LatAm,Brazil,Brazil,NA,160.00
+A2B9046,ASIC/FPGA Design,L2,Medium,LatAm,Brazil,Brazil,NA,160.00
+A3B9047,ASIC/FPGA Design,L3,Medium,LatAm,Brazil,Brazil,NA,160.00
+A4B9048,ASIC/FPGA Design,L4,Medium,LatAm,Brazil,Brazil,NA,160.00
+A5B9049,ASIC/FPGA Design,L5,Medium,LatAm,Brazil,Brazil,NA,160.00
+A1G8875,ASIC/FPGA Design,L1,Medium,EMEA,Germany,Germany - All,NA,160.00
+A2G8876,ASIC/FPGA Design,L2,Medium,EMEA,Germany,Germany - All,NA,160.00
+A3G8877,ASIC/FPGA Design,L3,Medium,EMEA,Germany,Germany - All,NA,160.00
+A4G8878,ASIC/FPGA Design,L4,Medium,EMEA,Germany,Germany - All,NA,160.00
+A5G8879,ASIC/FPGA Design,L5,Medium,EMEA,Germany,Germany - All,NA,160.00
+A1C7515,ASIC/FPGA Design,L1,Medium,APAC,India,Chennai,$27.00,180.00
+A2C7516,ASIC/FPGA Design,L2,Medium,APAC,India,Chennai,$33.00,180.00
+A3C7517,ASIC/FPGA Design,L3,Medium,APAC,India,Chennai,$36.00,180.00
+A4C7518,ASIC/FPGA Design,L4,Medium,APAC,India,Chennai,$40.00,180.00
+A5C7519,ASIC/FPGA Design,L5,Medium,APAC,India,Chennai,$44.00,180.00
+A1H7600,ASIC/FPGA Design,L1,Medium,APAC,India,Hyderabad,$27.00,180.00
+A2H7601,ASIC/FPGA Design,L2,Medium,APAC,India,Hyderabad,$33.00,180.00
+A3H7602,ASIC/FPGA Design,L3,Medium,APAC,India,Hyderabad,$36.00,180.00
+A4H7603,ASIC/FPGA Design,L4,Medium,APAC,India,Hyderabad,$40.00,180.00
+A5H7604,ASIC/FPGA Design,L5,Medium,APAC,India,Hyderabad,$44.00,180.00
+A1M7685,ASIC/FPGA Design,L1,Medium,APAC,India,Mumbai,$27.00,180.00
+A2M7686,ASIC/FPGA Design,L2,Medium,APAC,India,Mumbai,$33.00,180.00
+A3M7687,ASIC/FPGA Design,L3,Medium,APAC,India,Mumbai,$36.00,180.00
+A4M7688,ASIC/FPGA Design,L4,Medium,APAC,India,Mumbai,$40.00,180.00
+A5M7689,ASIC/FPGA Design,L5,Medium,APAC,India,Mumbai,$44.00,180.00
+A1N7770,ASIC/FPGA Design,L1,Medium,APAC,India,New Delhi,$27.00,180.00
+A2N7771,ASIC/FPGA Design,L2,Medium,APAC,India,New Delhi,$33.00,180.00
+A3N7772,ASIC/FPGA Design,L3,Medium,APAC,India,New Delhi,$36.00,180.00
+A4N7773,ASIC/FPGA Design,L4,Medium,APAC,India,New Delhi,$40.00,180.00
+A5N7774,ASIC/FPGA Design,L5,Medium,APAC,India,New Delhi,$44.00,180.00
+A1P7855,ASIC/FPGA Design,L1,Medium,APAC,India,Pune,$27.00,180.00
+A2P7856,ASIC/FPGA Design,L2,Medium,APAC,India,Pune,$33.00,180.00
+A3P7857,ASIC/FPGA Design,L3,Medium,APAC,India,Pune,$36.00,180.00
+A4P7858,ASIC/FPGA Design,L4,Medium,APAC,India,Pune,$40.00,180.00
+A5P7859,ASIC/FPGA Design,L5,Medium,APAC,India,Pune,$44.00,180.00
+A1P8960,ASIC/FPGA Design,L1,Medium,EMEA,Poland,Poland - All,NA,160.00
+A2P8961,ASIC/FPGA Design,L2,Medium,EMEA,Poland,Poland - All,NA,160.00
+A3P8962,ASIC/FPGA Design,L3,Medium,EMEA,Poland,Poland - All,NA,160.00
+A4P8963,ASIC/FPGA Design,L4,Medium,EMEA,Poland,Poland - All,NA,160.00
+A5P8964,ASIC/FPGA Design,L5,Medium,EMEA,Poland,Poland - All,NA,160.00
+A1T7260,ASIC/FPGA Design,L1,Medium,NA,United States,Texas,$102.00,160.00
+A2T7261,ASIC/FPGA Design,L2,Medium,NA,United States,Texas,$120.00,160.00
+A3T7262,ASIC/FPGA Design,L3,Medium,NA,United States,Texas,$150.00,160.00
+A4T7263,ASIC/FPGA Design,L4,Medium,NA,United States,Texas,$165.00,160.00
+A5T7264,ASIC/FPGA Design,L5,Medium,NA,United States,Texas,$180.00,160.00
+A1U7430,ASIC/FPGA Design,L1,Medium,NA,United States,US - Other,$102.00,160.00
+A2U7431,ASIC/FPGA Design,L2,Medium,NA,United States,US - Other,$120.00,160.00
+A3U7432,ASIC/FPGA Design,L3,Medium,NA,United States,US - Other,$150.00,160.00
+A4U7433,ASIC/FPGA Design,L4,Medium,NA,United States,US - Other,$165.00,160.00
+A5U7434,ASIC/FPGA Design,L5,Medium,NA,United States,US - Other,$180.00,160.00
+C1B8795,Custom Layout,L1,High,APAC,India,Bangalore,$27.00,180.00
+C2B8796,Custom Layout,L2,High,APAC,India,Bangalore,$33.00,180.00
+C3B8797,Custom Layout,L3,High,APAC,India,Bangalore,$36.00,180.00
+C4B8798,Custom Layout,L4,High,APAC,India,Bangalore,$40.00,180.00
+C5B8799,Custom Layout,L5,High,APAC,India,Bangalore,$44.00,180.00
+C1T7010,Custom Layout,L1,High,APAC,Taiwan,Taiwan - All,$40.00,160.00
+C2T7011,Custom Layout,L2,High,APAC,Taiwan,Taiwan - All,$45.00,160.00
+C3T7012,Custom Layout,L3,High,APAC,Taiwan,Taiwan - All,$50.00,160.00
+C4T7013,Custom Layout,L4,High,APAC,Taiwan,Taiwan - All,$56.00,160.00
+C5T7014,Custom Layout,L5,High,APAC,Taiwan,Taiwan - All,$65.00,160.00
+C1C7095,Custom Layout,L1,High,NA,United States,California,$110.00,160.00
+C2C7096,Custom Layout,L2,High,NA,United States,California,$130.00,160.00
+C3C7097,Custom Layout,L3,High,NA,United States,California,$155.00,160.00
+C4C7098,Custom Layout,L4,High,NA,United States,California,$175.00,160.00
+C5C7099,Custom Layout,L5,High,NA,United States,California,$195.00,160.00
+C1B7945,Custom Layout,L1,Low,EMEA,Belgium,Belgium - All,NA,160.00
+C2B7946,Custom Layout,L2,Low,EMEA,Belgium,Belgium - All,NA,160.00
+C3B7947,Custom Layout,L3,Low,EMEA,Belgium,Belgium - All,NA,160.00
+C4B7948,Custom Layout,L4,Low,EMEA,Belgium,Belgium - All,NA,160.00
+C5B7949,Custom Layout,L5,Low,EMEA,Belgium,Belgium - All,NA,160.00
+C1C8625,Custom Layout,L1,Low,LatAm,Chile,Chile - All,$33.00,NA
+C2C8626,Custom Layout,L2,Low,LatAm,Chile,Chile - All,$33.00,NA
+C3C8627,Custom Layout,L3,Low,LatAm,Chile,Chile - All,$33.00,NA
+C4C8628,Custom Layout,L4,Low,LatAm,Chile,Chile - All,$33.00,NA
+C5C8629,Custom Layout,L5,Low,LatAm,Chile,Chile - All,$33.00,NA
+C1F8030,Custom Layout,L1,Low,EMEA,France,France - All,$33.00,160.00
+C2F8031,Custom Layout,L2,Low,EMEA,France,France - All,$33.00,160.00
+C3F8032,Custom Layout,L3,Low,EMEA,France,France - All,$33.00,160.00
+C4F8033,Custom Layout,L4,Low,EMEA,France,France - All,$33.00,160.00
+C5F8034,Custom Layout,L5,Low,EMEA,France,France - All,$33.00,160.00
+C1M8710,Custom Layout,L1,Low,NA,Mexico,Mexico - All,$33.00,160.00
+C2M8711,Custom Layout,L2,Low,NA,Mexico,Mexico - All,NA,160.00
+C3M8712,Custom Layout,L3,Low,NA,Mexico,Mexico - All,NA,160.00
+C4M8713,Custom Layout,L4,Low,NA,Mexico,Mexico - All,NA,160.00
+C5M8714,Custom Layout,L5,Low,NA,Mexico,Mexico - All,NA,160.00
+C1N8115,Custom Layout,L1,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+C2N8116,Custom Layout,L2,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+C3N8117,Custom Layout,L3,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+C4N8118,Custom Layout,L4,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+C5N8119,Custom Layout,L5,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+C1P8200,Custom Layout,L1,Low,EMEA,Portugal,Portugal - All,NA,160.00
+C2P8201,Custom Layout,L2,Low,EMEA,Portugal,Portugal - All,NA,160.00
+C3P8202,Custom Layout,L3,Low,EMEA,Portugal,Portugal - All,NA,160.00
+C4P8203,Custom Layout,L4,Low,EMEA,Portugal,Portugal - All,NA,160.00
+C5P8204,Custom Layout,L5,Low,EMEA,Portugal,Portugal - All,NA,160.00
+C1R8455,Custom Layout,L1,Low,EMEA,Romania,Romania - All,NA,160.00
+C2R8456,Custom Layout,L2,Low,EMEA,Romania,Romania - All,NA,160.00
+C3R8457,Custom Layout,L3,Low,EMEA,Romania,Romania - All,NA,160.00
+C4R8458,Custom Layout,L4,Low,EMEA,Romania,Romania - All,NA,160.00
+C5R8459,Custom Layout,L5,Low,EMEA,Romania,Romania - All,NA,160.00
+C1S8285,Custom Layout,L1,Low,EMEA,Spain,Spain - All,NA,160.00
+C2S8286,Custom Layout,L2,Low,EMEA,Spain,Spain - All,NA,160.00
+C3S8287,Custom Layout,L3,Low,EMEA,Spain,Spain - All,NA,160.00
+C4S8288,Custom Layout,L4,Low,EMEA,Spain,Spain - All,NA,160.00
+C5S8289,Custom Layout,L5,Low,EMEA,Spain,Spain - All,NA,160.00
+C1U8540,Custom Layout,L1,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+C2U8541,Custom Layout,L2,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+C3U8542,Custom Layout,L3,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+C4U8543,Custom Layout,L4,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+C5U8544,Custom Layout,L5,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+C1U8370,Custom Layout,L1,Low,EMEA,United Kingdom,United Kingdom - All,$85.00,160.00
+C2U8371,Custom Layout,L2,Low,EMEA,United Kingdom,United Kingdom - All,$100.00,160.00
+C3U8372,Custom Layout,L3,Low,EMEA,United Kingdom,United Kingdom - All,$110.00,160.00
+C4U8373,Custom Layout,L4,Low,EMEA,United Kingdom,United Kingdom - All,$120.00,160.00
+C5U8374,Custom Layout,L5,Low,EMEA,United Kingdom,United Kingdom - All,$140.00,160.00
+C1N7180,Custom Layout,L1,Low,NA,United States,New York,$110.00,160.00
+C2N7181,Custom Layout,L2,Low,NA,United States,New York,$130.00,160.00
+C3N7182,Custom Layout,L3,Low,NA,United States,New York,$155.00,160.00
+C4N7183,Custom Layout,L4,Low,NA,United States,New York,$175.00,160.00
+C5N7184,Custom Layout,L5,Low,NA,United States,New York,$195.00,160.00
+C1T7350,Custom Layout,L1,Low,NA,Canada,Toronto,$98.00,160.00
+C2T7351,Custom Layout,L2,Low,NA,Canada,Toronto,$115.00,160.00
+C3T7352,Custom Layout,L3,Low,NA,Canada,Toronto,$130.00,160.00
+C4T7353,Custom Layout,L4,Low,NA,Canada,Toronto,$145.00,160.00
+C5T7354,Custom Layout,L5,Low,NA,Canada,Toronto,$165.00,160.00
+C1B9050,Custom Layout,L1,Medium,LatAm,Brazil,Brazil,NA,160.00
+C2B9051,Custom Layout,L2,Medium,LatAm,Brazil,Brazil,NA,160.00
+C3B9052,Custom Layout,L3,Medium,LatAm,Brazil,Brazil,NA,160.00
+C4B9053,Custom Layout,L4,Medium,LatAm,Brazil,Brazil,NA,160.00
+C5B9054,Custom Layout,L5,Medium,LatAm,Brazil,Brazil,NA,160.00
+C1G8880,Custom Layout,L1,Medium,EMEA,Germany,Germany - All,NA,160.00
+C2G8881,Custom Layout,L2,Medium,EMEA,Germany,Germany - All,NA,160.00
+C3G8882,Custom Layout,L3,Medium,EMEA,Germany,Germany - All,NA,160.00
+C4G8883,Custom Layout,L4,Medium,EMEA,Germany,Germany - All,NA,160.00
+C5G8884,Custom Layout,L5,Medium,EMEA,Germany,Germany - All,NA,160.00
+C1C7520,Custom Layout,L1,Medium,APAC,India,Chennai,$27.00,180.00
+C2C7521,Custom Layout,L2,Medium,APAC,India,Chennai,$33.00,180.00
+C3C7522,Custom Layout,L3,Medium,APAC,India,Chennai,$36.00,180.00
+C4C7523,Custom Layout,L4,Medium,APAC,India,Chennai,$40.00,180.00
+C5C7524,Custom Layout,L5,Medium,APAC,India,Chennai,$44.00,180.00
+C1H7605,Custom Layout,L1,Medium,APAC,India,Hyderabad,$27.00,180.00
+C2H7606,Custom Layout,L2,Medium,APAC,India,Hyderabad,$33.00,180.00
+C3H7607,Custom Layout,L3,Medium,APAC,India,Hyderabad,$36.00,180.00
+C4H7608,Custom Layout,L4,Medium,APAC,India,Hyderabad,$40.00,180.00
+C5H7609,Custom Layout,L5,Medium,APAC,India,Hyderabad,$44.00,180.00
+C1M7690,Custom Layout,L1,Medium,APAC,India,Mumbai,$27.00,180.00
+C2M7691,Custom Layout,L2,Medium,APAC,India,Mumbai,$33.00,180.00
+C3M7692,Custom Layout,L3,Medium,APAC,India,Mumbai,$36.00,180.00
+C4M7693,Custom Layout,L4,Medium,APAC,India,Mumbai,$40.00,180.00
+C5M7694,Custom Layout,L5,Medium,APAC,India,Mumbai,$44.00,180.00
+C1N7775,Custom Layout,L1,Medium,APAC,India,New Delhi,$27.00,180.00
+C2N7776,Custom Layout,L2,Medium,APAC,India,New Delhi,$33.00,180.00
+C3N7777,Custom Layout,L3,Medium,APAC,India,New Delhi,$36.00,180.00
+C4N7778,Custom Layout,L4,Medium,APAC,India,New Delhi,$40.00,180.00
+C5N7779,Custom Layout,L5,Medium,APAC,India,New Delhi,$44.00,180.00
+C1P7860,Custom Layout,L1,Medium,APAC,India,Pune,$27.00,180.00
+C2P7861,Custom Layout,L2,Medium,APAC,India,Pune,$33.00,180.00
+C3P7862,Custom Layout,L3,Medium,APAC,India,Pune,$36.00,180.00
+C4P7863,Custom Layout,L4,Medium,APAC,India,Pune,$40.00,180.00
+C5P7864,Custom Layout,L5,Medium,APAC,India,Pune,$44.00,180.00
+C1P8965,Custom Layout,L1,Medium,EMEA,Poland,Poland - All,NA,160.00
+C2P8966,Custom Layout,L2,Medium,EMEA,Poland,Poland - All,NA,160.00
+C3P8967,Custom Layout,L3,Medium,EMEA,Poland,Poland - All,NA,160.00
+C4P8968,Custom Layout,L4,Medium,EMEA,Poland,Poland - All,NA,160.00
+C5P8969,Custom Layout,L5,Medium,EMEA,Poland,Poland - All,NA,160.00
+C1T7265,Custom Layout,L1,Medium,NA,United States,Texas,$102.00,160.00
+C2T7266,Custom Layout,L2,Medium,NA,United States,Texas,$120.00,160.00
+C3T7267,Custom Layout,L3,Medium,NA,United States,Texas,$150.00,160.00
+C4T7268,Custom Layout,L4,Medium,NA,United States,Texas,$165.00,160.00
+C5T7269,Custom Layout,L5,Medium,NA,United States,Texas,$180.00,160.00
+C1U7435,Custom Layout,L1,Medium,NA,United States,US - Other,$102.00,160.00
+C2U7436,Custom Layout,L2,Medium,NA,United States,US - Other,$120.00,160.00
+C3U7437,Custom Layout,L3,Medium,NA,United States,US - Other,$150.00,160.00
+C4U7438,Custom Layout,L4,Medium,NA,United States,US - Other,$165.00,160.00
+C5U7439,Custom Layout,L5,Medium,NA,United States,US - Other,$180.00,160.00
+D1B8800,Design Automation/PDK/CAD,L1,High,APAC,India,Bangalore,$27.00,180.00
+D2B8801,Design Automation/PDK/CAD,L2,High,APAC,India,Bangalore,$33.00,180.00
+D3B8802,Design Automation/PDK/CAD,L3,High,APAC,India,Bangalore,$36.00,180.00
+D4B8803,Design Automation/PDK/CAD,L4,High,APAC,India,Bangalore,$40.00,180.00
+D5B8804,Design Automation/PDK/CAD,L5,High,APAC,India,Bangalore,$44.00,180.00
+D1T7015,Design Automation/PDK/CAD,L1,High,APAC,Taiwan,Taiwan - All,$40.00,160.00
+D2T7016,Design Automation/PDK/CAD,L2,High,APAC,Taiwan,Taiwan - All,$45.00,160.00
+D3T7017,Design Automation/PDK/CAD,L3,High,APAC,Taiwan,Taiwan - All,$50.00,160.00
+D4T7018,Design Automation/PDK/CAD,L4,High,APAC,Taiwan,Taiwan - All,$56.00,160.00
+D5T7019,Design Automation/PDK/CAD,L5,High,APAC,Taiwan,Taiwan - All,$65.00,160.00
+D1C7100,Design Automation/PDK/CAD,L1,High,NA,United States,California,$110.00,160.00
+D2C7101,Design Automation/PDK/CAD,L2,High,NA,United States,California,$130.00,160.00
+D3C7102,Design Automation/PDK/CAD,L3,High,NA,United States,California,$155.00,160.00
+D4C7103,Design Automation/PDK/CAD,L4,High,NA,United States,California,$175.00,160.00
+D5C7104,Design Automation/PDK/CAD,L5,High,NA,United States,California,$195.00,160.00
+D1B7950,Design Automation/PDK/CAD,L1,Low,EMEA,Belgium,Belgium - All,NA,160.00
+D2B7951,Design Automation/PDK/CAD,L2,Low,EMEA,Belgium,Belgium - All,NA,160.00
+D3B7952,Design Automation/PDK/CAD,L3,Low,EMEA,Belgium,Belgium - All,NA,160.00
+D4B7953,Design Automation/PDK/CAD,L4,Low,EMEA,Belgium,Belgium - All,NA,160.00
+D5B7954,Design Automation/PDK/CAD,L5,Low,EMEA,Belgium,Belgium - All,NA,160.00
+D1C8630,Design Automation/PDK/CAD,L1,Low,LatAm,Chile,Chile - All,NA,160.00
+D2C8631,Design Automation/PDK/CAD,L2,Low,LatAm,Chile,Chile - All,NA,160.00
+D3C8632,Design Automation/PDK/CAD,L3,Low,LatAm,Chile,Chile - All,NA,160.00
+D4C8633,Design Automation/PDK/CAD,L4,Low,LatAm,Chile,Chile - All,NA,160.00
+D5C8634,Design Automation/PDK/CAD,L5,Low,LatAm,Chile,Chile - All,NA,160.00
+D1F8035,Design Automation/PDK/CAD,L1,Low,EMEA,France,France - All,NA,160.00
+D2F8036,Design Automation/PDK/CAD,L2,Low,EMEA,France,France - All,NA,160.00
+D3F8037,Design Automation/PDK/CAD,L3,Low,EMEA,France,France - All,NA,160.00
+D4F8038,Design Automation/PDK/CAD,L4,Low,EMEA,France,France - All,NA,160.00
+D5F8039,Design Automation/PDK/CAD,L5,Low,EMEA,France,France - All,NA,160.00
+D1M8715,Design Automation/PDK/CAD,L1,Low,NA,Mexico,Mexico - All,NA,160.00
+D2M8716,Design Automation/PDK/CAD,L2,Low,NA,Mexico,Mexico - All,NA,160.00
+D3M8717,Design Automation/PDK/CAD,L3,Low,NA,Mexico,Mexico - All,NA,160.00
+D4M8718,Design Automation/PDK/CAD,L4,Low,NA,Mexico,Mexico - All,NA,160.00
+D5M8719,Design Automation/PDK/CAD,L5,Low,NA,Mexico,Mexico - All,NA,160.00
+D1N8120,Design Automation/PDK/CAD,L1,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+D2N8121,Design Automation/PDK/CAD,L2,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+D3N8122,Design Automation/PDK/CAD,L3,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+D4N8123,Design Automation/PDK/CAD,L4,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+D5N8124,Design Automation/PDK/CAD,L5,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+D1P8205,Design Automation/PDK/CAD,L1,Low,EMEA,Portugal,Portugal - All,NA,160.00
+D2P8206,Design Automation/PDK/CAD,L2,Low,EMEA,Portugal,Portugal - All,NA,160.00
+D3P8207,Design Automation/PDK/CAD,L3,Low,EMEA,Portugal,Portugal - All,NA,160.00
+D4P8208,Design Automation/PDK/CAD,L4,Low,EMEA,Portugal,Portugal - All,NA,160.00
+D5P8209,Design Automation/PDK/CAD,L5,Low,EMEA,Portugal,Portugal - All,NA,160.00
+D1R8460,Design Automation/PDK/CAD,L1,Low,EMEA,Romania,Romania - All,NA,160.00
+D2R8461,Design Automation/PDK/CAD,L2,Low,EMEA,Romania,Romania - All,NA,160.00
+D3R8462,Design Automation/PDK/CAD,L3,Low,EMEA,Romania,Romania - All,NA,160.00
+D4R8463,Design Automation/PDK/CAD,L4,Low,EMEA,Romania,Romania - All,NA,160.00
+D5R8464,Design Automation/PDK/CAD,L5,Low,EMEA,Romania,Romania - All,NA,160.00
+D1S8290,Design Automation/PDK/CAD,L1,Low,EMEA,Spain,Spain - All,NA,160.00
+D2S8291,Design Automation/PDK/CAD,L2,Low,EMEA,Spain,Spain - All,NA,160.00
+D3S8292,Design Automation/PDK/CAD,L3,Low,EMEA,Spain,Spain - All,NA,160.00
+D4S8293,Design Automation/PDK/CAD,L4,Low,EMEA,Spain,Spain - All,NA,160.00
+D5S8294,Design Automation/PDK/CAD,L5,Low,EMEA,Spain,Spain - All,NA,160.00
+D1U8545,Design Automation/PDK/CAD,L1,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+D2U8546,Design Automation/PDK/CAD,L2,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+D3U8547,Design Automation/PDK/CAD,L3,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+D4U8548,Design Automation/PDK/CAD,L4,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+D5U8549,Design Automation/PDK/CAD,L5,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+D1U8375,Design Automation/PDK/CAD,L1,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+D2U8376,Design Automation/PDK/CAD,L2,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+D3U8377,Design Automation/PDK/CAD,L3,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+D4U8378,Design Automation/PDK/CAD,L4,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+D5U8379,Design Automation/PDK/CAD,L5,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+D1N7185,Design Automation/PDK/CAD,L1,Low,NA,United States,New York,$110.00,160.00
+D2N7186,Design Automation/PDK/CAD,L2,Low,NA,United States,New York,$130.00,160.00
+D3N7187,Design Automation/PDK/CAD,L3,Low,NA,United States,New York,$155.00,160.00
+D4N7188,Design Automation/PDK/CAD,L4,Low,NA,United States,New York,$175.00,160.00
+D5N7189,Design Automation/PDK/CAD,L5,Low,NA,United States,New York,$195.00,160.00
+D1T7355,Design Automation/PDK/CAD,L1,Low,NA,Canada,Toronto,$98.00,160.00
+D2T7356,Design Automation/PDK/CAD,L2,Low,NA,Canada,Toronto,$115.00,160.00
+D3T7357,Design Automation/PDK/CAD,L3,Low,NA,Canada,Toronto,$130.00,160.00
+D4T7358,Design Automation/PDK/CAD,L4,Low,NA,Canada,Toronto,$145.00,160.00
+D5T7359,Design Automation/PDK/CAD,L5,Low,NA,Canada,Toronto,$165.00,160.00
+D1B9055,Design Automation/PDK/CAD,L1,Medium,LatAm,Brazil,Brazil,NA,NA
+D2B9056,Design Automation/PDK/CAD,L2,Medium,LatAm,Brazil,Brazil,NA,NA
+D3B9057,Design Automation/PDK/CAD,L3,Medium,LatAm,Brazil,Brazil,NA,NA
+D4B9058,Design Automation/PDK/CAD,L4,Medium,LatAm,Brazil,Brazil,NA,NA
+D5B9059,Design Automation/PDK/CAD,L5,Medium,LatAm,Brazil,Brazil,NA,NA
+D1G8885,Design Automation/PDK/CAD,L1,Medium,EMEA,Germany,Germany - All,NA,160.00
+D2G8886,Design Automation/PDK/CAD,L2,Medium,EMEA,Germany,Germany - All,NA,160.00
+D3G8887,Design Automation/PDK/CAD,L3,Medium,EMEA,Germany,Germany - All,NA,160.00
+D4G8888,Design Automation/PDK/CAD,L4,Medium,EMEA,Germany,Germany - All,NA,160.00
+D5G8889,Design Automation/PDK/CAD,L5,Medium,EMEA,Germany,Germany - All,NA,160.00
+D1C7525,Design Automation/PDK/CAD,L1,Medium,APAC,India,Chennai,$27.00,180.00
+D2C7526,Design Automation/PDK/CAD,L2,Medium,APAC,India,Chennai,$33.00,180.00
+D3C7527,Design Automation/PDK/CAD,L3,Medium,APAC,India,Chennai,$36.00,180.00
+D4C7528,Design Automation/PDK/CAD,L4,Medium,APAC,India,Chennai,$40.00,180.00
+D5C7529,Design Automation/PDK/CAD,L5,Medium,APAC,India,Chennai,$44.00,180.00
+D1H7610,Design Automation/PDK/CAD,L1,Medium,APAC,India,Hyderabad,$27.00,180.00
+D2H7611,Design Automation/PDK/CAD,L2,Medium,APAC,India,Hyderabad,$33.00,180.00
+D3H7612,Design Automation/PDK/CAD,L3,Medium,APAC,India,Hyderabad,$36.00,180.00
+D4H7613,Design Automation/PDK/CAD,L4,Medium,APAC,India,Hyderabad,$40.00,180.00
+D5H7614,Design Automation/PDK/CAD,L5,Medium,APAC,India,Hyderabad,$44.00,180.00
+D1M7695,Design Automation/PDK/CAD,L1,Medium,APAC,India,Mumbai,$27.00,180.00
+D2M7696,Design Automation/PDK/CAD,L2,Medium,APAC,India,Mumbai,$33.00,180.00
+D3M7697,Design Automation/PDK/CAD,L3,Medium,APAC,India,Mumbai,$36.00,180.00
+D4M7698,Design Automation/PDK/CAD,L4,Medium,APAC,India,Mumbai,$40.00,180.00
+D5M7699,Design Automation/PDK/CAD,L5,Medium,APAC,India,Mumbai,$44.00,180.00
+D1N7780,Design Automation/PDK/CAD,L1,Medium,APAC,India,New Delhi,$27.00,180.00
+D2N7781,Design Automation/PDK/CAD,L2,Medium,APAC,India,New Delhi,$33.00,180.00
+D3N7782,Design Automation/PDK/CAD,L3,Medium,APAC,India,New Delhi,$36.00,180.00
+D4N7783,Design Automation/PDK/CAD,L4,Medium,APAC,India,New Delhi,$40.00,180.00
+D5N7784,Design Automation/PDK/CAD,L5,Medium,APAC,India,New Delhi,$44.00,180.00
+D1P7865,Design Automation/PDK/CAD,L1,Medium,APAC,India,Pune,$27.00,180.00
+D2P7866,Design Automation/PDK/CAD,L2,Medium,APAC,India,Pune,$33.00,180.00
+D3P7867,Design Automation/PDK/CAD,L3,Medium,APAC,India,Pune,$36.00,180.00
+D4P7868,Design Automation/PDK/CAD,L4,Medium,APAC,India,Pune,$40.00,180.00
+D5P7869,Design Automation/PDK/CAD,L5,Medium,APAC,India,Pune,$44.00,180.00
+D1P8970,Design Automation/PDK/CAD,L1,Medium,EMEA,Poland,Poland - All,NA,160.00
+D2P8971,Design Automation/PDK/CAD,L2,Medium,EMEA,Poland,Poland - All,NA,160.00
+D3P8972,Design Automation/PDK/CAD,L3,Medium,EMEA,Poland,Poland - All,NA,160.00
+D4P8973,Design Automation/PDK/CAD,L4,Medium,EMEA,Poland,Poland - All,NA,160.00
+D5P8974,Design Automation/PDK/CAD,L5,Medium,EMEA,Poland,Poland - All,NA,160.00
+D1T7270,Design Automation/PDK/CAD,L1,Medium,NA,United States,Texas,$102.00,160.00
+D2T7271,Design Automation/PDK/CAD,L2,Medium,NA,United States,Texas,$120.00,160.00
+D3T7272,Design Automation/PDK/CAD,L3,Medium,NA,United States,Texas,$150.00,160.00
+D4T7273,Design Automation/PDK/CAD,L4,Medium,NA,United States,Texas,$165.00,160.00
+D5T7274,Design Automation/PDK/CAD,L5,Medium,NA,United States,Texas,$180.00,160.00
+D1U7440,Design Automation/PDK/CAD,L1,Medium,NA,United States,US - Other,$102.00,160.00
+D2U7441,Design Automation/PDK/CAD,L2,Medium,NA,United States,US - Other,$120.00,160.00
+D3U7442,Design Automation/PDK/CAD,L3,Medium,NA,United States,US - Other,$150.00,160.00
+D4U7443,Design Automation/PDK/CAD,L4,Medium,NA,United States,US - Other,$165.00,160.00
+D5U7444,Design Automation/PDK/CAD,L5,Medium,NA,United States,US - Other,$180.00,160.00
+D1B8805,Design Engineer/RTL/Mixed Signal Verification,L1,High,APAC,India,Bangalore,$27.00,180.00
+D2B8806,Design Engineer/RTL/Mixed Signal Verification,L2,High,APAC,India,Bangalore,$33.00,180.00
+D3B8807,Design Engineer/RTL/Mixed Signal Verification,L3,High,APAC,India,Bangalore,$36.00,180.00
+D4B8808,Design Engineer/RTL/Mixed Signal Verification,L4,High,APAC,India,Bangalore,$40.00,180.00
+D5B8809,Design Engineer/RTL/Mixed Signal Verification,L5,High,APAC,India,Bangalore,$44.00,180.00
+D1T7020,Design Engineer/RTL/Mixed Signal Verification,L1,High,APAC,Taiwan,Taiwan - All,$40.00,160.00
+D2T7021,Design Engineer/RTL/Mixed Signal Verification,L2,High,APAC,Taiwan,Taiwan - All,$45.00,160.00
+D3T7022,Design Engineer/RTL/Mixed Signal Verification,L3,High,APAC,Taiwan,Taiwan - All,$50.00,160.00
+D4T7023,Design Engineer/RTL/Mixed Signal Verification,L4,High,APAC,Taiwan,Taiwan - All,$56.00,160.00
+D5T7024,Design Engineer/RTL/Mixed Signal Verification,L5,High,APAC,Taiwan,Taiwan - All,$65.00,160.00
+D1C7105,Design Engineer/RTL/Mixed Signal Verification,L1,High,NA,United States,California,$110.00,160.00
+D2C7106,Design Engineer/RTL/Mixed Signal Verification,L2,High,NA,United States,California,$130.00,160.00
+D3C7107,Design Engineer/RTL/Mixed Signal Verification,L3,High,NA,United States,California,$155.00,160.00
+D4C7108,Design Engineer/RTL/Mixed Signal Verification,L4,High,NA,United States,California,$175.00,160.00
+D5C7109,Design Engineer/RTL/Mixed Signal Verification,L5,High,NA,United States,California,$195.00,160.00
+D1B7955,Design Engineer/RTL/Mixed Signal Verification,L1,Low,EMEA,Belgium,Belgium - All,NA,160.00
+D2B7956,Design Engineer/RTL/Mixed Signal Verification,L2,Low,EMEA,Belgium,Belgium - All,NA,160.00
+D3B7957,Design Engineer/RTL/Mixed Signal Verification,L3,Low,EMEA,Belgium,Belgium - All,NA,160.00
+D4B7958,Design Engineer/RTL/Mixed Signal Verification,L4,Low,EMEA,Belgium,Belgium - All,NA,160.00
+D5B7959,Design Engineer/RTL/Mixed Signal Verification,L5,Low,EMEA,Belgium,Belgium - All,NA,160.00
+D1C8635,Design Engineer/RTL/Mixed Signal Verification,L1,Low,LatAm,Chile,Chile - All,NA,160.00
+D2C8636,Design Engineer/RTL/Mixed Signal Verification,L2,Low,LatAm,Chile,Chile - All,NA,160.00
+D3C8637,Design Engineer/RTL/Mixed Signal Verification,L3,Low,LatAm,Chile,Chile - All,NA,160.00
+D4C8638,Design Engineer/RTL/Mixed Signal Verification,L4,Low,LatAm,Chile,Chile - All,NA,160.00
+D5C8639,Design Engineer/RTL/Mixed Signal Verification,L5,Low,LatAm,Chile,Chile - All,NA,160.00
+D1F8040,Design Engineer/RTL/Mixed Signal Verification,L1,Low,EMEA,France,France - All,NA,160.00
+D2F8041,Design Engineer/RTL/Mixed Signal Verification,L2,Low,EMEA,France,France - All,NA,160.00
+D3F8042,Design Engineer/RTL/Mixed Signal Verification,L3,Low,EMEA,France,France - All,NA,160.00
+D4F8043,Design Engineer/RTL/Mixed Signal Verification,L4,Low,EMEA,France,France - All,NA,160.00
+D5F8044,Design Engineer/RTL/Mixed Signal Verification,L5,Low,EMEA,France,France - All,NA,160.00
+D1M8720,Design Engineer/RTL/Mixed Signal Verification,L1,Low,NA,Mexico,Mexico - All,NA,160.00
+D2M8721,Design Engineer/RTL/Mixed Signal Verification,L2,Low,NA,Mexico,Mexico - All,NA,160.00
+D3M8722,Design Engineer/RTL/Mixed Signal Verification,L3,Low,NA,Mexico,Mexico - All,NA,160.00
+D4M8723,Design Engineer/RTL/Mixed Signal Verification,L4,Low,NA,Mexico,Mexico - All,NA,160.00
+D5M8724,Design Engineer/RTL/Mixed Signal Verification,L5,Low,NA,Mexico,Mexico - All,NA,160.00
+D1N8125,Design Engineer/RTL/Mixed Signal Verification,L1,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+D2N8126,Design Engineer/RTL/Mixed Signal Verification,L2,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+D3N8127,Design Engineer/RTL/Mixed Signal Verification,L3,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+D4N8128,Design Engineer/RTL/Mixed Signal Verification,L4,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+D5N8129,Design Engineer/RTL/Mixed Signal Verification,L5,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+D1P8210,Design Engineer/RTL/Mixed Signal Verification,L1,Low,EMEA,Portugal,Portugal - All,NA,160.00
+D2P8211,Design Engineer/RTL/Mixed Signal Verification,L2,Low,EMEA,Portugal,Portugal - All,NA,160.00
+D3P8212,Design Engineer/RTL/Mixed Signal Verification,L3,Low,EMEA,Portugal,Portugal - All,NA,160.00
+D4P8213,Design Engineer/RTL/Mixed Signal Verification,L4,Low,EMEA,Portugal,Portugal - All,NA,160.00
+D5P8214,Design Engineer/RTL/Mixed Signal Verification,L5,Low,EMEA,Portugal,Portugal - All,NA,160.00
+D1R8465,Design Engineer/RTL/Mixed Signal Verification,L1,Low,EMEA,Romania,Romania - All,NA,160.00
+D2R8466,Design Engineer/RTL/Mixed Signal Verification,L2,Low,EMEA,Romania,Romania - All,NA,160.00
+D3R8467,Design Engineer/RTL/Mixed Signal Verification,L3,Low,EMEA,Romania,Romania - All,NA,160.00
+D4R8468,Design Engineer/RTL/Mixed Signal Verification,L4,Low,EMEA,Romania,Romania - All,NA,160.00
+D5R8469,Design Engineer/RTL/Mixed Signal Verification,L5,Low,EMEA,Romania,Romania - All,NA,160.00
+D1S8295,Design Engineer/RTL/Mixed Signal Verification,L1,Low,EMEA,Spain,Spain - All,NA,160.00
+D2S8296,Design Engineer/RTL/Mixed Signal Verification,L2,Low,EMEA,Spain,Spain - All,NA,160.00
+D3S8297,Design Engineer/RTL/Mixed Signal Verification,L3,Low,EMEA,Spain,Spain - All,NA,160.00
+D4S8298,Design Engineer/RTL/Mixed Signal Verification,L4,Low,EMEA,Spain,Spain - All,NA,160.00
+D5S8299,Design Engineer/RTL/Mixed Signal Verification,L5,Low,EMEA,Spain,Spain - All,NA,160.00
+D1U8550,Design Engineer/RTL/Mixed Signal Verification,L1,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+D2U8551,Design Engineer/RTL/Mixed Signal Verification,L2,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+D3U8552,Design Engineer/RTL/Mixed Signal Verification,L3,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+D4U8553,Design Engineer/RTL/Mixed Signal Verification,L4,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+D5U8554,Design Engineer/RTL/Mixed Signal Verification,L5,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+D1U8380,Design Engineer/RTL/Mixed Signal Verification,L1,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+D2U8381,Design Engineer/RTL/Mixed Signal Verification,L2,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+D3U8382,Design Engineer/RTL/Mixed Signal Verification,L3,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+D4U8383,Design Engineer/RTL/Mixed Signal Verification,L4,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+D5U8384,Design Engineer/RTL/Mixed Signal Verification,L5,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+D1N7190,Design Engineer/RTL/Mixed Signal Verification,L1,Low,NA,United States,New York,$110.00,160.00
+D2N7191,Design Engineer/RTL/Mixed Signal Verification,L2,Low,NA,United States,New York,$130.00,160.00
+D3N7192,Design Engineer/RTL/Mixed Signal Verification,L3,Low,NA,United States,New York,$155.00,160.00
+D4N7193,Design Engineer/RTL/Mixed Signal Verification,L4,Low,NA,United States,New York,$175.00,160.00
+D5N7194,Design Engineer/RTL/Mixed Signal Verification,L5,Low,NA,United States,New York,$195.00,160.00
+D1T7360,Design Engineer/RTL/Mixed Signal Verification,L1,Low,NA,Canada,Toronto,$98.00,160.00
+D2T7361,Design Engineer/RTL/Mixed Signal Verification,L2,Low,NA,Canada,Toronto,$115.00,160.00
+D3T7362,Design Engineer/RTL/Mixed Signal Verification,L3,Low,NA,Canada,Toronto,$130.00,160.00
+D4T7363,Design Engineer/RTL/Mixed Signal Verification,L4,Low,NA,Canada,Toronto,$145.00,160.00
+D5T7364,Design Engineer/RTL/Mixed Signal Verification,L5,Low,NA,Canada,Toronto,$165.00,160.00
+D1B9060,Design Engineer/RTL/Mixed Signal Verification,L1,Medium,LatAm,Brazil,Brazil,NA,160.00
+D2B9061,Design Engineer/RTL/Mixed Signal Verification,L2,Medium,LatAm,Brazil,Brazil,NA,160.00
+D3B9062,Design Engineer/RTL/Mixed Signal Verification,L3,Medium,LatAm,Brazil,Brazil,NA,160.00
+D4B9063,Design Engineer/RTL/Mixed Signal Verification,L4,Medium,LatAm,Brazil,Brazil,NA,160.00
+D5B9064,Design Engineer/RTL/Mixed Signal Verification,L5,Medium,LatAm,Brazil,Brazil,NA,160.00
+D1G8890,Design Engineer/RTL/Mixed Signal Verification,L1,Medium,EMEA,Germany,Germany - All,NA,160.00
+D2G8891,Design Engineer/RTL/Mixed Signal Verification,L2,Medium,EMEA,Germany,Germany - All,NA,160.00
+D3G8892,Design Engineer/RTL/Mixed Signal Verification,L3,Medium,EMEA,Germany,Germany - All,NA,160.00
+D4G8893,Design Engineer/RTL/Mixed Signal Verification,L4,Medium,EMEA,Germany,Germany - All,NA,160.00
+D5G8894,Design Engineer/RTL/Mixed Signal Verification,L5,Medium,EMEA,Germany,Germany - All,NA,160.00
+D1C7530,Design Engineer/RTL/Mixed Signal Verification,L1,Medium,APAC,India,Chennai,$27.00,180.00
+D2C7531,Design Engineer/RTL/Mixed Signal Verification,L2,Medium,APAC,India,Chennai,$33.00,180.00
+D3C7532,Design Engineer/RTL/Mixed Signal Verification,L3,Medium,APAC,India,Chennai,$36.00,180.00
+D4C7533,Design Engineer/RTL/Mixed Signal Verification,L4,Medium,APAC,India,Chennai,$40.00,180.00
+D5C7534,Design Engineer/RTL/Mixed Signal Verification,L5,Medium,APAC,India,Chennai,$44.00,180.00
+D1H7615,Design Engineer/RTL/Mixed Signal Verification,L1,Medium,APAC,India,Hyderabad,$27.00,180.00
+D2H7616,Design Engineer/RTL/Mixed Signal Verification,L2,Medium,APAC,India,Hyderabad,$33.00,180.00
+D3H7617,Design Engineer/RTL/Mixed Signal Verification,L3,Medium,APAC,India,Hyderabad,$36.00,180.00
+D4H7618,Design Engineer/RTL/Mixed Signal Verification,L4,Medium,APAC,India,Hyderabad,$40.00,180.00
+D5H7619,Design Engineer/RTL/Mixed Signal Verification,L5,Medium,APAC,India,Hyderabad,$44.00,180.00
+D1M7700,Design Engineer/RTL/Mixed Signal Verification,L1,Medium,APAC,India,Mumbai,$27.00,180.00
+D2M7701,Design Engineer/RTL/Mixed Signal Verification,L2,Medium,APAC,India,Mumbai,$33.00,180.00
+D3M7702,Design Engineer/RTL/Mixed Signal Verification,L3,Medium,APAC,India,Mumbai,$36.00,180.00
+D4M7703,Design Engineer/RTL/Mixed Signal Verification,L4,Medium,APAC,India,Mumbai,$40.00,180.00
+D5M7704,Design Engineer/RTL/Mixed Signal Verification,L5,Medium,APAC,India,Mumbai,$44.00,180.00
+D1N7785,Design Engineer/RTL/Mixed Signal Verification,L1,Medium,APAC,India,New Delhi,$27.00,180.00
+D2N7786,Design Engineer/RTL/Mixed Signal Verification,L2,Medium,APAC,India,New Delhi,$33.00,180.00
+D3N7787,Design Engineer/RTL/Mixed Signal Verification,L3,Medium,APAC,India,New Delhi,$36.00,180.00
+D4N7788,Design Engineer/RTL/Mixed Signal Verification,L4,Medium,APAC,India,New Delhi,$40.00,180.00
+D5N7789,Design Engineer/RTL/Mixed Signal Verification,L5,Medium,APAC,India,New Delhi,$44.00,180.00
+D1P7870,Design Engineer/RTL/Mixed Signal Verification,L1,Medium,APAC,India,Pune,$27.00,180.00
+D2P7871,Design Engineer/RTL/Mixed Signal Verification,L2,Medium,APAC,India,Pune,$33.00,180.00
+D3P7872,Design Engineer/RTL/Mixed Signal Verification,L3,Medium,APAC,India,Pune,$36.00,180.00
+D4P7873,Design Engineer/RTL/Mixed Signal Verification,L4,Medium,APAC,India,Pune,$40.00,180.00
+D5P7874,Design Engineer/RTL/Mixed Signal Verification,L5,Medium,APAC,India,Pune,$44.00,180.00
+D1P8975,Design Engineer/RTL/Mixed Signal Verification,L1,Medium,EMEA,Poland,Poland - All,NA,160.00
+D2P8976,Design Engineer/RTL/Mixed Signal Verification,L2,Medium,EMEA,Poland,Poland - All,NA,160.00
+D3P8977,Design Engineer/RTL/Mixed Signal Verification,L3,Medium,EMEA,Poland,Poland - All,NA,160.00
+D4P8978,Design Engineer/RTL/Mixed Signal Verification,L4,Medium,EMEA,Poland,Poland - All,NA,160.00
+D5P8979,Design Engineer/RTL/Mixed Signal Verification,L5,Medium,EMEA,Poland,Poland - All,NA,160.00
+D1T7275,Design Engineer/RTL/Mixed Signal Verification,L1,Medium,NA,United States,Texas,$102.00,160.00
+D2T7276,Design Engineer/RTL/Mixed Signal Verification,L2,Medium,NA,United States,Texas,$120.00,160.00
+D3T7277,Design Engineer/RTL/Mixed Signal Verification,L3,Medium,NA,United States,Texas,$150.00,160.00
+D4T7278,Design Engineer/RTL/Mixed Signal Verification,L4,Medium,NA,United States,Texas,$165.00,160.00
+D5T7279,Design Engineer/RTL/Mixed Signal Verification,L5,Medium,NA,United States,Texas,$180.00,160.00
+D1U7445,Design Engineer/RTL/Mixed Signal Verification,L1,Medium,NA,United States,US - Other,$102.00,160.00
+D2U7446,Design Engineer/RTL/Mixed Signal Verification,L2,Medium,NA,United States,US - Other,$120.00,160.00
+D3U7447,Design Engineer/RTL/Mixed Signal Verification,L3,Medium,NA,United States,US - Other,$150.00,160.00
+D4U7448,Design Engineer/RTL/Mixed Signal Verification,L4,Medium,NA,United States,US - Other,$165.00,160.00
+D5U7449,Design Engineer/RTL/Mixed Signal Verification,L5,Medium,NA,United States,US - Other,$180.00,160.00
+D1B8810,Design Verification,L1,High,APAC,India,Bangalore,$27.00,180.00
+D2B8811,Design Verification,L2,High,APAC,India,Bangalore,$33.00,180.00
+D3B8812,Design Verification,L3,High,APAC,India,Bangalore,$36.00,180.00
+D4B8813,Design Verification,L4,High,APAC,India,Bangalore,$40.00,180.00
+D5B8814,Design Verification,L5,High,APAC,India,Bangalore,$44.00,180.00
+D1T7025,Design Verification,L1,High,APAC,Taiwan,Taiwan - All,$40.00,160.00
+D2T7026,Design Verification,L2,High,APAC,Taiwan,Taiwan - All,$45.00,160.00
+D3T7027,Design Verification,L3,High,APAC,Taiwan,Taiwan - All,$50.00,160.00
+D4T7028,Design Verification,L4,High,APAC,Taiwan,Taiwan - All,$56.00,160.00
+D5T7029,Design Verification,L5,High,APAC,Taiwan,Taiwan - All,$65.00,160.00
+D1C7110,Design Verification,L1,High,NA,United States,California,$110.00,160.00
+D2C7111,Design Verification,L2,High,NA,United States,California,$130.00,160.00
+D3C7112,Design Verification,L3,High,NA,United States,California,$155.00,160.00
+D4C7113,Design Verification,L4,High,NA,United States,California,$175.00,160.00
+D5C7114,Design Verification,L5,High,NA,United States,California,$195.00,160.00
+D1B7960,Design Verification,L1,Low,EMEA,Belgium,Belgium - All,NA,160.00
+D2B7961,Design Verification,L2,Low,EMEA,Belgium,Belgium - All,NA,160.00
+D3B7962,Design Verification,L3,Low,EMEA,Belgium,Belgium - All,NA,160.00
+D4B7963,Design Verification,L4,Low,EMEA,Belgium,Belgium - All,NA,160.00
+D5B7964,Design Verification,L5,Low,EMEA,Belgium,Belgium - All,NA,160.00
+D1C8640,Design Verification,L1,Low,LatAm,Chile,Chile - All,NA,160.00
+D2C8641,Design Verification,L2,Low,LatAm,Chile,Chile - All,NA,160.00
+D3C8642,Design Verification,L3,Low,LatAm,Chile,Chile - All,NA,160.00
+D4C8643,Design Verification,L4,Low,LatAm,Chile,Chile - All,NA,160.00
+D5C8644,Design Verification,L5,Low,LatAm,Chile,Chile - All,NA,160.00
+D1F8045,Design Verification,L1,Low,EMEA,France,France - All,NA,160.00
+D2F8046,Design Verification,L2,Low,EMEA,France,France - All,NA,160.00
+D3F8047,Design Verification,L3,Low,EMEA,France,France - All,NA,160.00
+D4F8048,Design Verification,L4,Low,EMEA,France,France - All,NA,160.00
+D5F8049,Design Verification,L5,Low,EMEA,France,France - All,NA,160.00
+D1M8725,Design Verification,L1,Low,NA,Mexico,Mexico - All,NA,160.00
+D2M8726,Design Verification,L2,Low,NA,Mexico,Mexico - All,NA,160.00
+D3M8727,Design Verification,L3,Low,NA,Mexico,Mexico - All,NA,160.00
+D4M8728,Design Verification,L4,Low,NA,Mexico,Mexico - All,NA,160.00
+D5M8729,Design Verification,L5,Low,NA,Mexico,Mexico - All,NA,160.00
+D1N8130,Design Verification,L1,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+D2N8131,Design Verification,L2,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+D3N8132,Design Verification,L3,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+D4N8133,Design Verification,L4,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+D5N8134,Design Verification,L5,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+D1P8215,Design Verification,L1,Low,EMEA,Portugal,Portugal - All,NA,160.00
+D2P8216,Design Verification,L2,Low,EMEA,Portugal,Portugal - All,NA,160.00
+D3P8217,Design Verification,L3,Low,EMEA,Portugal,Portugal - All,NA,160.00
+D4P8218,Design Verification,L4,Low,EMEA,Portugal,Portugal - All,NA,160.00
+D5P8219,Design Verification,L5,Low,EMEA,Portugal,Portugal - All,NA,160.00
+D1R8470,Design Verification,L1,Low,EMEA,Romania,Romania - All,NA,160.00
+D2R8471,Design Verification,L2,Low,EMEA,Romania,Romania - All,NA,160.00
+D3R8472,Design Verification,L3,Low,EMEA,Romania,Romania - All,NA,160.00
+D4R8473,Design Verification,L4,Low,EMEA,Romania,Romania - All,NA,160.00
+D5R8474,Design Verification,L5,Low,EMEA,Romania,Romania - All,NA,160.00
+D1S8300,Design Verification,L1,Low,EMEA,Spain,Spain - All,NA,160.00
+D2S8301,Design Verification,L2,Low,EMEA,Spain,Spain - All,NA,160.00
+D3S8302,Design Verification,L3,Low,EMEA,Spain,Spain - All,NA,160.00
+D4S8303,Design Verification,L4,Low,EMEA,Spain,Spain - All,NA,160.00
+D5S8304,Design Verification,L5,Low,EMEA,Spain,Spain - All,NA,160.00
+D1U8555,Design Verification,L1,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+D2U8556,Design Verification,L2,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+D3U8557,Design Verification,L3,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+D4U8558,Design Verification,L4,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+D5U8559,Design Verification,L5,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+D1U8385,Design Verification,L1,Low,EMEA,United Kingdom,United Kingdom - All,$85.00,160.00
+D2U8386,Design Verification,L2,Low,EMEA,United Kingdom,United Kingdom - All,$100.00,160.00
+D3U8387,Design Verification,L3,Low,EMEA,United Kingdom,United Kingdom - All,$110.00,160.00
+D4U8388,Design Verification,L4,Low,EMEA,United Kingdom,United Kingdom - All,$120.00,160.00
+D5U8389,Design Verification,L5,Low,EMEA,United Kingdom,United Kingdom - All,$140.00,160.00
+D1N7195,Design Verification,L1,Low,NA,United States,New York,$110.00,160.00
+D2N7196,Design Verification,L2,Low,NA,United States,New York,$130.00,160.00
+D3N7197,Design Verification,L3,Low,NA,United States,New York,$155.00,160.00
+D4N7198,Design Verification,L4,Low,NA,United States,New York,$175.00,160.00
+D5N7199,Design Verification,L5,Low,NA,United States,New York,$195.00,160.00
+D1T7365,Design Verification,L1,Low,NA,Canada,Toronto,$98.00,160.00
+D2T7366,Design Verification,L2,Low,NA,Canada,Toronto,$115.00,160.00
+D3T7367,Design Verification,L3,Low,NA,Canada,Toronto,$130.00,160.00
+D4T7368,Design Verification,L4,Low,NA,Canada,Toronto,$145.00,160.00
+D5T7369,Design Verification,L5,Low,NA,Canada,Toronto,$165.00,160.00
+D1B9065,Design Verification,L1,Medium,LatAm,Brazil,Brazil,NA,160.00
+D2B9066,Design Verification,L2,Medium,LatAm,Brazil,Brazil,NA,160.00
+D3B9067,Design Verification,L3,Medium,LatAm,Brazil,Brazil,NA,160.00
+D4B9068,Design Verification,L4,Medium,LatAm,Brazil,Brazil,NA,160.00
+D5B9069,Design Verification,L5,Medium,LatAm,Brazil,Brazil,NA,160.00
+D1G8895,Design Verification,L1,Medium,EMEA,Germany,Germany - All,NA,160.00
+D2G8896,Design Verification,L2,Medium,EMEA,Germany,Germany - All,NA,160.00
+D3G8897,Design Verification,L3,Medium,EMEA,Germany,Germany - All,NA,160.00
+D4G8898,Design Verification,L4,Medium,EMEA,Germany,Germany - All,NA,160.00
+D5G8899,Design Verification,L5,Medium,EMEA,Germany,Germany - All,NA,160.00
+D1C7535,Design Verification,L1,Medium,APAC,India,Chennai,$27.00,180.00
+D2C7536,Design Verification,L2,Medium,APAC,India,Chennai,$33.00,180.00
+D3C7537,Design Verification,L3,Medium,APAC,India,Chennai,$36.00,180.00
+D4C7538,Design Verification,L4,Medium,APAC,India,Chennai,$40.00,180.00
+D5C7539,Design Verification,L5,Medium,APAC,India,Chennai,$44.00,180.00
+D1H7620,Design Verification,L1,Medium,APAC,India,Hyderabad,$27.00,180.00
+D2H7621,Design Verification,L2,Medium,APAC,India,Hyderabad,$33.00,180.00
+D3H7622,Design Verification,L3,Medium,APAC,India,Hyderabad,$36.00,180.00
+D4H7623,Design Verification,L4,Medium,APAC,India,Hyderabad,$40.00,180.00
+D5H7624,Design Verification,L5,Medium,APAC,India,Hyderabad,$44.00,180.00
+D1M7705,Design Verification,L1,Medium,APAC,India,Mumbai,$27.00,180.00
+D2M7706,Design Verification,L2,Medium,APAC,India,Mumbai,$33.00,180.00
+D3M7707,Design Verification,L3,Medium,APAC,India,Mumbai,$36.00,180.00
+D4M7708,Design Verification,L4,Medium,APAC,India,Mumbai,$40.00,180.00
+D5M7709,Design Verification,L5,Medium,APAC,India,Mumbai,$44.00,180.00
+D1N7790,Design Verification,L1,Medium,APAC,India,New Delhi,$27.00,180.00
+D2N7791,Design Verification,L2,Medium,APAC,India,New Delhi,$33.00,180.00
+D3N7792,Design Verification,L3,Medium,APAC,India,New Delhi,$36.00,180.00
+D4N7793,Design Verification,L4,Medium,APAC,India,New Delhi,$40.00,180.00
+D5N7794,Design Verification,L5,Medium,APAC,India,New Delhi,$44.00,180.00
+D1P7875,Design Verification,L1,Medium,APAC,India,Pune,$27.00,180.00
+D2P7876,Design Verification,L2,Medium,APAC,India,Pune,$33.00,180.00
+D3P7877,Design Verification,L3,Medium,APAC,India,Pune,$36.00,180.00
+D4P7878,Design Verification,L4,Medium,APAC,India,Pune,$40.00,180.00
+D5P7879,Design Verification,L5,Medium,APAC,India,Pune,$44.00,180.00
+D1P8980,Design Verification,L1,Medium,EMEA,Poland,Poland - All,NA,160.00
+D2P8981,Design Verification,L2,Medium,EMEA,Poland,Poland - All,NA,160.00
+D3P8982,Design Verification,L3,Medium,EMEA,Poland,Poland - All,NA,160.00
+D4P8983,Design Verification,L4,Medium,EMEA,Poland,Poland - All,NA,160.00
+D5P8984,Design Verification,L5,Medium,EMEA,Poland,Poland - All,NA,160.00
+D1T7280,Design Verification,L1,Medium,NA,United States,Texas,$102.00,160.00
+D2T7281,Design Verification,L2,Medium,NA,United States,Texas,$120.00,160.00
+D3T7282,Design Verification,L3,Medium,NA,United States,Texas,$150.00,160.00
+D4T7283,Design Verification,L4,Medium,NA,United States,Texas,$165.00,160.00
+D5T7284,Design Verification,L5,Medium,NA,United States,Texas,$180.00,160.00
+D1U7450,Design Verification,L1,Medium,NA,United States,US - Other,$102.00,160.00
+D2U7451,Design Verification,L2,Medium,NA,United States,US - Other,$120.00,160.00
+D3U7452,Design Verification,L3,Medium,NA,United States,US - Other,$150.00,160.00
+D4U7453,Design Verification,L4,Medium,NA,United States,US - Other,$165.00,160.00
+D5U7454,Design Verification,L5,Medium,NA,United States,US - Other,$180.00,160.00
+D1B8820,DFT/STA,L1,High,APAC,India,Bangalore,$27.00,180.00
+D2B8821,DFT/STA,L2,High,APAC,India,Bangalore,$33.00,180.00
+D3B8822,DFT/STA,L3,High,APAC,India,Bangalore,$36.00,180.00
+D4B8823,DFT/STA,L4,High,APAC,India,Bangalore,$40.00,180.00
+D5B8824,DFT/STA,L5,High,APAC,India,Bangalore,$44.00,180.00
+D1T7035,DFT/STA,L1,High,APAC,Taiwan,Taiwan - All,$44.00,160.00
+D2T7036,DFT/STA,L2,High,APAC,Taiwan,Taiwan - All,$48.00,160.00
+D3T7037,DFT/STA,L3,High,APAC,Taiwan,Taiwan - All,$55.00,160.00
+D4T7038,DFT/STA,L4,High,APAC,Taiwan,Taiwan - All,$68.00,160.00
+D5T7039,DFT/STA,L5,High,APAC,Taiwan,Taiwan - All,$75.00,160.00
+D1C7120,DFT/STA,L1,High,NA,United States,California,$110.00,160.00
+D2C7121,DFT/STA,L2,High,NA,United States,California,$130.00,160.00
+D3C7122,DFT/STA,L3,High,NA,United States,California,$155.00,160.00
+D4C7123,DFT/STA,L4,High,NA,United States,California,$175.00,160.00
+D5C7124,DFT/STA,L5,High,NA,United States,California,$195.00,160.00
+D1B7970,DFT/STA,L1,Low,EMEA,Belgium,Belgium - All,NA,160.00
+D2B7971,DFT/STA,L2,Low,EMEA,Belgium,Belgium - All,NA,160.00
+D3B7972,DFT/STA,L3,Low,EMEA,Belgium,Belgium - All,NA,160.00
+D4B7973,DFT/STA,L4,Low,EMEA,Belgium,Belgium - All,NA,160.00
+D5B7974,DFT/STA,L5,Low,EMEA,Belgium,Belgium - All,NA,160.00
+D1C8650,DFT/STA,L1,Low,LatAm,Chile,Chile - All,NA,160.00
+D2C8651,DFT/STA,L2,Low,LatAm,Chile,Chile - All,NA,160.00
+D3C8652,DFT/STA,L3,Low,LatAm,Chile,Chile - All,NA,160.00
+D4C8653,DFT/STA,L4,Low,LatAm,Chile,Chile - All,NA,160.00
+D5C8654,DFT/STA,L5,Low,LatAm,Chile,Chile - All,NA,160.00
+D1F8055,DFT/STA,L1,Low,EMEA,France,France - All,NA,160.00
+D2F8056,DFT/STA,L2,Low,EMEA,France,France - All,NA,160.00
+D3F8057,DFT/STA,L3,Low,EMEA,France,France - All,NA,160.00
+D4F8058,DFT/STA,L4,Low,EMEA,France,France - All,NA,160.00
+D5F8059,DFT/STA,L5,Low,EMEA,France,France - All,NA,160.00
+D1M8735,DFT/STA,L1,Low,NA,Mexico,Mexico - All,NA,160.00
+D2M8736,DFT/STA,L2,Low,NA,Mexico,Mexico - All,NA,160.00
+D3M8737,DFT/STA,L3,Low,NA,Mexico,Mexico - All,NA,160.00
+D4M8738,DFT/STA,L4,Low,NA,Mexico,Mexico - All,NA,160.00
+D5M8739,DFT/STA,L5,Low,NA,Mexico,Mexico - All,NA,160.00
+D1N8140,DFT/STA,L1,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+D2N8141,DFT/STA,L2,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+D3N8142,DFT/STA,L3,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+D4N8143,DFT/STA,L4,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+D5N8144,DFT/STA,L5,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+D1P8225,DFT/STA,L1,Low,EMEA,Portugal,Portugal - All,NA,160.00
+D2P8226,DFT/STA,L2,Low,EMEA,Portugal,Portugal - All,NA,160.00
+D3P8227,DFT/STA,L3,Low,EMEA,Portugal,Portugal - All,NA,160.00
+D4P8228,DFT/STA,L4,Low,EMEA,Portugal,Portugal - All,NA,160.00
+D5P8229,DFT/STA,L5,Low,EMEA,Portugal,Portugal - All,NA,160.00
+D1R8480,DFT/STA,L1,Low,EMEA,Romania,Romania - All,NA,160.00
+D2R8481,DFT/STA,L2,Low,EMEA,Romania,Romania - All,NA,160.00
+D3R8482,DFT/STA,L3,Low,EMEA,Romania,Romania - All,NA,160.00
+D4R8483,DFT/STA,L4,Low,EMEA,Romania,Romania - All,NA,160.00
+D5R8484,DFT/STA,L5,Low,EMEA,Romania,Romania - All,NA,160.00
+D1S8310,DFT/STA,L1,Low,EMEA,Spain,Spain - All,NA,160.00
+D2S8311,DFT/STA,L2,Low,EMEA,Spain,Spain - All,NA,160.00
+D3S8312,DFT/STA,L3,Low,EMEA,Spain,Spain - All,NA,160.00
+D4S8313,DFT/STA,L4,Low,EMEA,Spain,Spain - All,NA,160.00
+D5S8314,DFT/STA,L5,Low,EMEA,Spain,Spain - All,NA,160.00
+D1U8565,DFT/STA,L1,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+D2U8566,DFT/STA,L2,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+D3U8567,DFT/STA,L3,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+D4U8568,DFT/STA,L4,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+D5U8569,DFT/STA,L5,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+D1U8395,DFT/STA,L1,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+D2U8396,DFT/STA,L2,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+D3U8397,DFT/STA,L3,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+D4U8398,DFT/STA,L4,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+D5U8399,DFT/STA,L5,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+D1N7205,DFT/STA,L1,Low,NA,United States,New York,$110.00,160.00
+D2N7206,DFT/STA,L2,Low,NA,United States,New York,$130.00,160.00
+D3N7207,DFT/STA,L3,Low,NA,United States,New York,$155.00,160.00
+D4N7208,DFT/STA,L4,Low,NA,United States,New York,$175.00,160.00
+D5N7209,DFT/STA,L5,Low,NA,United States,New York,$195.00,160.00
+D1T7375,DFT/STA,L1,Low,NA,Canada,Toronto,$98.00,160.00
+D2T7376,DFT/STA,L2,Low,NA,Canada,Toronto,$115.00,160.00
+D3T7377,DFT/STA,L3,Low,NA,Canada,Toronto,$130.00,160.00
+D4T7378,DFT/STA,L4,Low,NA,Canada,Toronto,$145.00,160.00
+D5T7379,DFT/STA,L5,Low,NA,Canada,Toronto,$165.00,160.00
+D1B9075,DFT/STA,L1,Medium,LatAm,Brazil,Brazil,NA,160.00
+D2B9076,DFT/STA,L2,Medium,LatAm,Brazil,Brazil,NA,160.00
+D3B9077,DFT/STA,L3,Medium,LatAm,Brazil,Brazil,NA,160.00
+D4B9078,DFT/STA,L4,Medium,LatAm,Brazil,Brazil,NA,160.00
+D5B9079,DFT/STA,L5,Medium,LatAm,Brazil,Brazil,NA,160.00
+D1G8905,DFT/STA,L1,Medium,EMEA,Germany,Germany - All,NA,160.00
+D2G8906,DFT/STA,L2,Medium,EMEA,Germany,Germany - All,NA,160.00
+D3G8907,DFT/STA,L3,Medium,EMEA,Germany,Germany - All,NA,160.00
+D4G8908,DFT/STA,L4,Medium,EMEA,Germany,Germany - All,NA,160.00
+D5G8909,DFT/STA,L5,Medium,EMEA,Germany,Germany - All,NA,160.00
+D1C7545,DFT/STA,L1,Medium,APAC,India,Chennai,$27.00,180.00
+D2C7546,DFT/STA,L2,Medium,APAC,India,Chennai,$33.00,180.00
+D3C7547,DFT/STA,L3,Medium,APAC,India,Chennai,$36.00,180.00
+D4C7548,DFT/STA,L4,Medium,APAC,India,Chennai,$40.00,180.00
+D5C7549,DFT/STA,L5,Medium,APAC,India,Chennai,$44.00,180.00
+D1H7630,DFT/STA,L1,Medium,APAC,India,Hyderabad,$27.00,180.00
+D2H7631,DFT/STA,L2,Medium,APAC,India,Hyderabad,$33.00,180.00
+D3H7632,DFT/STA,L3,Medium,APAC,India,Hyderabad,$36.00,180.00
+D4H7633,DFT/STA,L4,Medium,APAC,India,Hyderabad,$40.00,180.00
+D5H7634,DFT/STA,L5,Medium,APAC,India,Hyderabad,$44.00,180.00
+D1M7715,DFT/STA,L1,Medium,APAC,India,Mumbai,$27.00,180.00
+D2M7716,DFT/STA,L2,Medium,APAC,India,Mumbai,$33.00,180.00
+D3M7717,DFT/STA,L3,Medium,APAC,India,Mumbai,$36.00,180.00
+D4M7718,DFT/STA,L4,Medium,APAC,India,Mumbai,$40.00,180.00
+D5M7719,DFT/STA,L5,Medium,APAC,India,Mumbai,$44.00,180.00
+D1N7800,DFT/STA,L1,Medium,APAC,India,New Delhi,$27.00,180.00
+D2N7801,DFT/STA,L2,Medium,APAC,India,New Delhi,$33.00,180.00
+D3N7802,DFT/STA,L3,Medium,APAC,India,New Delhi,$36.00,180.00
+D4N7803,DFT/STA,L4,Medium,APAC,India,New Delhi,$40.00,180.00
+D5N7804,DFT/STA,L5,Medium,APAC,India,New Delhi,$44.00,180.00
+D1P7885,DFT/STA,L1,Medium,APAC,India,Pune,$27.00,180.00
+D2P7886,DFT/STA,L2,Medium,APAC,India,Pune,$33.00,180.00
+D3P7887,DFT/STA,L3,Medium,APAC,India,Pune,$36.00,180.00
+D4P7888,DFT/STA,L4,Medium,APAC,India,Pune,$40.00,180.00
+D5P7889,DFT/STA,L5,Medium,APAC,India,Pune,$44.00,180.00
+D1P8990,DFT/STA,L1,Medium,EMEA,Poland,Poland - All,NA,160.00
+D2P8991,DFT/STA,L2,Medium,EMEA,Poland,Poland - All,NA,160.00
+D3P8992,DFT/STA,L3,Medium,EMEA,Poland,Poland - All,NA,160.00
+D4P8993,DFT/STA,L4,Medium,EMEA,Poland,Poland - All,NA,160.00
+D5P8994,DFT/STA,L5,Medium,EMEA,Poland,Poland - All,NA,160.00
+D1T7290,DFT/STA,L1,Medium,NA,United States,Texas,$102.00,160.00
+D2T7291,DFT/STA,L2,Medium,NA,United States,Texas,$120.00,160.00
+D3T7292,DFT/STA,L3,Medium,NA,United States,Texas,$150.00,160.00
+D4T7293,DFT/STA,L4,Medium,NA,United States,Texas,$165.00,160.00
+D5T7294,DFT/STA,L5,Medium,NA,United States,Texas,$180.00,160.00
+D1U7460,DFT/STA,L1,Medium,NA,United States,US - Other,$102.00,160.00
+D2U7461,DFT/STA,L2,Medium,NA,United States,US - Other,$120.00,160.00
+D3U7462,DFT/STA,L3,Medium,NA,United States,US - Other,$150.00,160.00
+D4U7463,DFT/STA,L4,Medium,NA,United States,US - Other,$165.00,160.00
+D5U7464,DFT/STA,L5,Medium,NA,United States,US - Other,$180.00,160.00
+E1B8850,Emulation/Prototyping,L1,High,APAC,India,Bangalore,$27.00,180.00
+E2B8851,Emulation/Prototyping,L2,High,APAC,India,Bangalore,$33.00,180.00
+E3B8852,Emulation/Prototyping,L3,High,APAC,India,Bangalore,$36.00,180.00
+E4B8853,Emulation/Prototyping,L4,High,APAC,India,Bangalore,$40.00,180.00
+E5B8854,Emulation/Prototyping,L5,High,APAC,India,Bangalore,$44.00,180.00
+E1T7065,Emulation/Prototyping,L1,High,APAC,Taiwan,Taiwan - All,$44.00,160.00
+E2T7066,Emulation/Prototyping,L2,High,APAC,Taiwan,Taiwan - All,$48.00,160.00
+E3T7067,Emulation/Prototyping,L3,High,APAC,Taiwan,Taiwan - All,$55.00,160.00
+E4T7068,Emulation/Prototyping,L4,High,APAC,Taiwan,Taiwan - All,$68.00,160.00
+E5T7069,Emulation/Prototyping,L5,High,APAC,Taiwan,Taiwan - All,$75.00,160.00
+E1C7150,Emulation/Prototyping,L1,High,NA,United States,California,$110.00,160.00
+E2C7151,Emulation/Prototyping,L2,High,NA,United States,California,$130.00,160.00
+E3C7152,Emulation/Prototyping,L3,High,NA,United States,California,$155.00,160.00
+E4C7153,Emulation/Prototyping,L4,High,NA,United States,California,$175.00,160.00
+E5C7154,Emulation/Prototyping,L5,High,NA,United States,California,$195.00,160.00
+E1B8000,Emulation/Prototyping,L1,Low,EMEA,Belgium,Belgium - All,NA,160.00
+E2B8001,Emulation/Prototyping,L2,Low,EMEA,Belgium,Belgium - All,NA,160.00
+E3B8002,Emulation/Prototyping,L3,Low,EMEA,Belgium,Belgium - All,NA,160.00
+E4B8003,Emulation/Prototyping,L4,Low,EMEA,Belgium,Belgium - All,NA,160.00
+E5B8004,Emulation/Prototyping,L5,Low,EMEA,Belgium,Belgium - All,NA,160.00
+E1C8680,Emulation/Prototyping,L1,Low,LatAm,Chile,Chile - All,NA,160.00
+E2C8681,Emulation/Prototyping,L2,Low,LatAm,Chile,Chile - All,NA,160.00
+E3C8682,Emulation/Prototyping,L3,Low,LatAm,Chile,Chile - All,NA,160.00
+E4C8683,Emulation/Prototyping,L4,Low,LatAm,Chile,Chile - All,NA,160.00
+E5C8684,Emulation/Prototyping,L5,Low,LatAm,Chile,Chile - All,NA,160.00
+E1F8085,Emulation/Prototyping,L1,Low,EMEA,France,France - All,NA,160.00
+E2F8086,Emulation/Prototyping,L2,Low,EMEA,France,France - All,NA,160.00
+E3F8087,Emulation/Prototyping,L3,Low,EMEA,France,France - All,NA,160.00
+E4F8088,Emulation/Prototyping,L4,Low,EMEA,France,France - All,NA,160.00
+E5F8089,Emulation/Prototyping,L5,Low,EMEA,France,France - All,NA,160.00
+E1M8765,Emulation/Prototyping,L1,Low,NA,Mexico,Mexico - All,NA,160.00
+E2M8766,Emulation/Prototyping,L2,Low,NA,Mexico,Mexico - All,NA,160.00
+E3M8767,Emulation/Prototyping,L3,Low,NA,Mexico,Mexico - All,NA,160.00
+E4M8768,Emulation/Prototyping,L4,Low,NA,Mexico,Mexico - All,NA,160.00
+E5M8769,Emulation/Prototyping,L5,Low,NA,Mexico,Mexico - All,NA,160.00
+E1N8170,Emulation/Prototyping,L1,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+E2N8171,Emulation/Prototyping,L2,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+E3N8172,Emulation/Prototyping,L3,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+E4N8173,Emulation/Prototyping,L4,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+E5N8174,Emulation/Prototyping,L5,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+E1P8255,Emulation/Prototyping,L1,Low,EMEA,Portugal,Portugal - All,NA,160.00
+E2P8256,Emulation/Prototyping,L2,Low,EMEA,Portugal,Portugal - All,NA,160.00
+E3P8257,Emulation/Prototyping,L3,Low,EMEA,Portugal,Portugal - All,NA,160.00
+E4P8258,Emulation/Prototyping,L4,Low,EMEA,Portugal,Portugal - All,NA,160.00
+E5P8259,Emulation/Prototyping,L5,Low,EMEA,Portugal,Portugal - All,NA,160.00
+E1R8510,Emulation/Prototyping,L1,Low,EMEA,Romania,Romania - All,NA,160.00
+E2R8511,Emulation/Prototyping,L2,Low,EMEA,Romania,Romania - All,NA,160.00
+E3R8512,Emulation/Prototyping,L3,Low,EMEA,Romania,Romania - All,NA,160.00
+E4R8513,Emulation/Prototyping,L4,Low,EMEA,Romania,Romania - All,NA,160.00
+E5R8514,Emulation/Prototyping,L5,Low,EMEA,Romania,Romania - All,NA,160.00
+E1S8340,Emulation/Prototyping,L1,Low,EMEA,Spain,Spain - All,NA,160.00
+E2S8341,Emulation/Prototyping,L2,Low,EMEA,Spain,Spain - All,NA,160.00
+E3S8342,Emulation/Prototyping,L3,Low,EMEA,Spain,Spain - All,NA,160.00
+E4S8343,Emulation/Prototyping,L4,Low,EMEA,Spain,Spain - All,NA,160.00
+E5S8344,Emulation/Prototyping,L5,Low,EMEA,Spain,Spain - All,NA,160.00
+E1U8595,Emulation/Prototyping,L1,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+E2U8596,Emulation/Prototyping,L2,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+E3U8597,Emulation/Prototyping,L3,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+E4U8598,Emulation/Prototyping,L4,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+E5U8599,Emulation/Prototyping,L5,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+E1U8425,Emulation/Prototyping,L1,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+E2U8426,Emulation/Prototyping,L2,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+E3U8427,Emulation/Prototyping,L3,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+E4U8428,Emulation/Prototyping,L4,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+E5U8429,Emulation/Prototyping,L5,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+E1N7235,Emulation/Prototyping,L1,Low,NA,United States,New York,$110.00,160.00
+E2N7236,Emulation/Prototyping,L2,Low,NA,United States,New York,$130.00,160.00
+E3N7237,Emulation/Prototyping,L3,Low,NA,United States,New York,$155.00,160.00
+E4N7238,Emulation/Prototyping,L4,Low,NA,United States,New York,$175.00,160.00
+E5N7239,Emulation/Prototyping,L5,Low,NA,United States,New York,$195.00,160.00
+E1T7405,Emulation/Prototyping,L1,Low,NA,Canada,Toronto,$98.00,160.00
+E2T7406,Emulation/Prototyping,L2,Low,NA,Canada,Toronto,$115.00,160.00
+E3T7407,Emulation/Prototyping,L3,Low,NA,Canada,Toronto,$130.00,160.00
+E4T7408,Emulation/Prototyping,L4,Low,NA,Canada,Toronto,$145.00,160.00
+E5T7409,Emulation/Prototyping,L5,Low,NA,Canada,Toronto,$165.00,160.00
+E1B9105,Emulation/Prototyping,L1,Medium,LatAm,Brazil,Brazil,NA,160.00
+E2B9106,Emulation/Prototyping,L2,Medium,LatAm,Brazil,Brazil,NA,160.00
+E3B9107,Emulation/Prototyping,L3,Medium,LatAm,Brazil,Brazil,NA,160.00
+E4B9108,Emulation/Prototyping,L4,Medium,LatAm,Brazil,Brazil,NA,160.00
+E5B9109,Emulation/Prototyping,L5,Medium,LatAm,Brazil,Brazil,NA,160.00
+E1G8935,Emulation/Prototyping,L1,Medium,EMEA,Germany,Germany - All,NA,160.00
+E2G8936,Emulation/Prototyping,L2,Medium,EMEA,Germany,Germany - All,NA,160.00
+E3G8937,Emulation/Prototyping,L3,Medium,EMEA,Germany,Germany - All,NA,160.00
+E4G8938,Emulation/Prototyping,L4,Medium,EMEA,Germany,Germany - All,NA,160.00
+E5G8939,Emulation/Prototyping,L5,Medium,EMEA,Germany,Germany - All,NA,160.00
+E1C7575,Emulation/Prototyping,L1,Medium,APAC,India,Chennai,$27.00,180.00
+E2C7576,Emulation/Prototyping,L2,Medium,APAC,India,Chennai,$33.00,180.00
+E3C7577,Emulation/Prototyping,L3,Medium,APAC,India,Chennai,$36.00,180.00
+E4C7578,Emulation/Prototyping,L4,Medium,APAC,India,Chennai,$40.00,180.00
+E5C7579,Emulation/Prototyping,L5,Medium,APAC,India,Chennai,$44.00,180.00
+E1H7660,Emulation/Prototyping,L1,Medium,APAC,India,Hyderabad,$27.00,180.00
+E2H7661,Emulation/Prototyping,L2,Medium,APAC,India,Hyderabad,$33.00,180.00
+E3H7662,Emulation/Prototyping,L3,Medium,APAC,India,Hyderabad,$36.00,180.00
+E4H7663,Emulation/Prototyping,L4,Medium,APAC,India,Hyderabad,$40.00,180.00
+E5H7664,Emulation/Prototyping,L5,Medium,APAC,India,Hyderabad,$44.00,180.00
+E1M7745,Emulation/Prototyping,L1,Medium,APAC,India,Mumbai,$27.00,180.00
+E2M7746,Emulation/Prototyping,L2,Medium,APAC,India,Mumbai,$33.00,180.00
+E3M7747,Emulation/Prototyping,L3,Medium,APAC,India,Mumbai,$36.00,180.00
+E4M7748,Emulation/Prototyping,L4,Medium,APAC,India,Mumbai,$40.00,180.00
+E5M7749,Emulation/Prototyping,L5,Medium,APAC,India,Mumbai,$44.00,180.00
+E1N7830,Emulation/Prototyping,L1,Medium,APAC,India,New Delhi,$27.00,180.00
+E2N7831,Emulation/Prototyping,L2,Medium,APAC,India,New Delhi,$33.00,180.00
+E3N7832,Emulation/Prototyping,L3,Medium,APAC,India,New Delhi,$36.00,180.00
+E4N7833,Emulation/Prototyping,L4,Medium,APAC,India,New Delhi,$40.00,180.00
+E5N7834,Emulation/Prototyping,L5,Medium,APAC,India,New Delhi,$44.00,180.00
+E1P7915,Emulation/Prototyping,L1,Medium,APAC,India,Pune,$27.00,180.00
+E2P7916,Emulation/Prototyping,L2,Medium,APAC,India,Pune,$33.00,180.00
+E3P7917,Emulation/Prototyping,L3,Medium,APAC,India,Pune,$36.00,180.00
+E4P7918,Emulation/Prototyping,L4,Medium,APAC,India,Pune,$40.00,180.00
+E5P7919,Emulation/Prototyping,L5,Medium,APAC,India,Pune,$44.00,180.00
+E1P9020,Emulation/Prototyping,L1,Medium,EMEA,Poland,Poland - All,NA,160.00
+E2P9021,Emulation/Prototyping,L2,Medium,EMEA,Poland,Poland - All,NA,160.00
+E3P9022,Emulation/Prototyping,L3,Medium,EMEA,Poland,Poland - All,NA,160.00
+E4P9023,Emulation/Prototyping,L4,Medium,EMEA,Poland,Poland - All,NA,160.00
+E5P9024,Emulation/Prototyping,L5,Medium,EMEA,Poland,Poland - All,NA,160.00
+E1T7320,Emulation/Prototyping,L1,Medium,NA,United States,Texas,$102.00,160.00
+E2T7321,Emulation/Prototyping,L2,Medium,NA,United States,Texas,$120.00,160.00
+E3T7322,Emulation/Prototyping,L3,Medium,NA,United States,Texas,$150.00,160.00
+E4T7323,Emulation/Prototyping,L4,Medium,NA,United States,Texas,$165.00,160.00
+E5T7324,Emulation/Prototyping,L5,Medium,NA,United States,Texas,$180.00,160.00
+E1U7490,Emulation/Prototyping,L1,Medium,NA,United States,US - Other,$102.00,160.00
+E2U7491,Emulation/Prototyping,L2,Medium,NA,United States,US - Other,$120.00,160.00
+E3U7492,Emulation/Prototyping,L3,Medium,NA,United States,US - Other,$150.00,160.00
+E4U7493,Emulation/Prototyping,L4,Medium,NA,United States,US - Other,$165.00,160.00
+E5U7494,Emulation/Prototyping,L5,Medium,NA,United States,US - Other,$180.00,160.00
+F1B8830,Firmware/Driver Development,L1,High,APAC,India,Bangalore,$27.00,180.00
+F2B8831,Firmware/Driver Development,L2,High,APAC,India,Bangalore,$33.00,180.00
+F3B8832,Firmware/Driver Development,L3,High,APAC,India,Bangalore,$36.00,180.00
+F4B8833,Firmware/Driver Development,L4,High,APAC,India,Bangalore,$40.00,180.00
+F5B8834,Firmware/Driver Development,L5,High,APAC,India,Bangalore,$44.00,180.00
+F1T7045,Firmware/Driver Development,L1,High,APAC,Taiwan,Taiwan - All,$44.00,160.00
+F2T7046,Firmware/Driver Development,L2,High,APAC,Taiwan,Taiwan - All,$48.00,160.00
+F3T7047,Firmware/Driver Development,L3,High,APAC,Taiwan,Taiwan - All,$55.00,160.00
+F4T7048,Firmware/Driver Development,L4,High,APAC,Taiwan,Taiwan - All,$68.00,160.00
+F5T7049,Firmware/Driver Development,L5,High,APAC,Taiwan,Taiwan - All,$75.00,160.00
+F1C7130,Firmware/Driver Development,L1,High,NA,United States,California,$110.00,160.00
+F2C7131,Firmware/Driver Development,L2,High,NA,United States,California,$130.00,160.00
+F3C7132,Firmware/Driver Development,L3,High,NA,United States,California,$155.00,160.00
+F4C7133,Firmware/Driver Development,L4,High,NA,United States,California,$175.00,160.00
+F5C7134,Firmware/Driver Development,L5,High,NA,United States,California,$195.00,160.00
+F1B7980,Firmware/Driver Development,L1,Low,EMEA,Belgium,Belgium - All,NA,160.00
+F2B7981,Firmware/Driver Development,L2,Low,EMEA,Belgium,Belgium - All,NA,160.00
+F3B7982,Firmware/Driver Development,L3,Low,EMEA,Belgium,Belgium - All,NA,160.00
+F4B7983,Firmware/Driver Development,L4,Low,EMEA,Belgium,Belgium - All,NA,160.00
+F5B7984,Firmware/Driver Development,L5,Low,EMEA,Belgium,Belgium - All,NA,160.00
+F1C8660,Firmware/Driver Development,L1,Low,LatAm,Chile,Chile - All,NA,160.00
+F2C8661,Firmware/Driver Development,L2,Low,LatAm,Chile,Chile - All,NA,160.00
+F3C8662,Firmware/Driver Development,L3,Low,LatAm,Chile,Chile - All,NA,160.00
+F4C8663,Firmware/Driver Development,L4,Low,LatAm,Chile,Chile - All,NA,160.00
+F5C8664,Firmware/Driver Development,L5,Low,LatAm,Chile,Chile - All,NA,160.00
+F1F8065,Firmware/Driver Development,L1,Low,EMEA,France,France - All,$93.00,160.00
+F2F8066,Firmware/Driver Development,L2,Low,EMEA,France,France - All,$106.12,160.00
+F3F8067,Firmware/Driver Development,L3,Low,EMEA,France,France - All,$123.10,160.00
+F4F8068,Firmware/Driver Development,L4,Low,EMEA,France,France - All,$150.39,160.00
+F5F8069,Firmware/Driver Development,L5,Low,EMEA,France,France - All,$178.35,160.00
+F1M8745,Firmware/Driver Development,L1,Low,NA,Mexico,Mexico - All,NA,160.00
+F2M8746,Firmware/Driver Development,L2,Low,NA,Mexico,Mexico - All,NA,160.00
+F3M8747,Firmware/Driver Development,L3,Low,NA,Mexico,Mexico - All,NA,160.00
+F4M8748,Firmware/Driver Development,L4,Low,NA,Mexico,Mexico - All,NA,160.00
+F5M8749,Firmware/Driver Development,L5,Low,NA,Mexico,Mexico - All,NA,160.00
+F1N8150,Firmware/Driver Development,L1,Low,EMEA,Netherlands,Netherlands - All,$75.00,160.00
+F2N8151,Firmware/Driver Development,L2,Low,EMEA,Netherlands,Netherlands - All,$85.00,160.00
+F3N8152,Firmware/Driver Development,L3,Low,EMEA,Netherlands,Netherlands - All,$100.00,160.00
+F4N8153,Firmware/Driver Development,L4,Low,EMEA,Netherlands,Netherlands - All,$120.00,160.00
+F5N8154,Firmware/Driver Development,L5,Low,EMEA,Netherlands,Netherlands - All,$130.00,160.00
+F1P8235,Firmware/Driver Development,L1,Low,EMEA,Portugal,Portugal - All,NA,160.00
+F2P8236,Firmware/Driver Development,L2,Low,EMEA,Portugal,Portugal - All,NA,160.00
+F3P8237,Firmware/Driver Development,L3,Low,EMEA,Portugal,Portugal - All,NA,160.00
+F4P8238,Firmware/Driver Development,L4,Low,EMEA,Portugal,Portugal - All,NA,160.00
+F5P8239,Firmware/Driver Development,L5,Low,EMEA,Portugal,Portugal - All,NA,160.00
+F1R8490,Firmware/Driver Development,L1,Low,EMEA,Romania,Romania - All,NA,160.00
+F2R8491,Firmware/Driver Development,L2,Low,EMEA,Romania,Romania - All,NA,160.00
+F3R8492,Firmware/Driver Development,L3,Low,EMEA,Romania,Romania - All,NA,160.00
+F4R8493,Firmware/Driver Development,L4,Low,EMEA,Romania,Romania - All,NA,160.00
+F5R8494,Firmware/Driver Development,L5,Low,EMEA,Romania,Romania - All,NA,160.00
+F1S8320,Firmware/Driver Development,L1,Low,EMEA,Spain,Spain - All,NA,160.00
+F2S8321,Firmware/Driver Development,L2,Low,EMEA,Spain,Spain - All,NA,160.00
+F3S8322,Firmware/Driver Development,L3,Low,EMEA,Spain,Spain - All,NA,160.00
+F4S8323,Firmware/Driver Development,L4,Low,EMEA,Spain,Spain - All,NA,160.00
+F5S8324,Firmware/Driver Development,L5,Low,EMEA,Spain,Spain - All,NA,160.00
+F1U8575,Firmware/Driver Development,L1,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+F2U8576,Firmware/Driver Development,L2,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+F3U8577,Firmware/Driver Development,L3,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+F4U8578,Firmware/Driver Development,L4,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+F5U8579,Firmware/Driver Development,L5,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+F1U8405,Firmware/Driver Development,L1,Low,EMEA,United Kingdom,United Kingdom - All,$85.00,160.00
+F2U8406,Firmware/Driver Development,L2,Low,EMEA,United Kingdom,United Kingdom - All,$100.00,160.00
+F3U8407,Firmware/Driver Development,L3,Low,EMEA,United Kingdom,United Kingdom - All,$110.00,160.00
+F4U8408,Firmware/Driver Development,L4,Low,EMEA,United Kingdom,United Kingdom - All,$120.00,160.00
+F5U8409,Firmware/Driver Development,L5,Low,EMEA,United Kingdom,United Kingdom - All,$140.00,160.00
+F1N7215,Firmware/Driver Development,L1,Low,NA,United States,New York,$110.00,160.00
+F2N7216,Firmware/Driver Development,L2,Low,NA,United States,New York,$130.00,160.00
+F3N7217,Firmware/Driver Development,L3,Low,NA,United States,New York,$155.00,160.00
+F4N7218,Firmware/Driver Development,L4,Low,NA,United States,New York,$175.00,160.00
+F5N7219,Firmware/Driver Development,L5,Low,NA,United States,New York,$195.00,160.00
+F1T7385,Firmware/Driver Development,L1,Low,NA,Canada,Toronto,$98.00,160.00
+F2T7386,Firmware/Driver Development,L2,Low,NA,Canada,Toronto,$115.00,160.00
+F3T7387,Firmware/Driver Development,L3,Low,NA,Canada,Toronto,$130.00,160.00
+F4T7388,Firmware/Driver Development,L4,Low,NA,Canada,Toronto,$145.00,160.00
+F5T7389,Firmware/Driver Development,L5,Low,NA,Canada,Toronto,$165.00,160.00
+F1B9085,Firmware/Driver Development,L1,Medium,LatAm,Brazil,Brazil,NA,160.00
+F2B9086,Firmware/Driver Development,L2,Medium,LatAm,Brazil,Brazil,NA,160.00
+F3B9087,Firmware/Driver Development,L3,Medium,LatAm,Brazil,Brazil,NA,160.00
+F4B9088,Firmware/Driver Development,L4,Medium,LatAm,Brazil,Brazil,NA,160.00
+F5B9089,Firmware/Driver Development,L5,Medium,LatAm,Brazil,Brazil,NA,160.00
+F1G8915,Firmware/Driver Development,L1,Medium,EMEA,Germany,Germany - All,$84.84,160.00
+F2G8916,Firmware/Driver Development,L2,Medium,EMEA,Germany,Germany - All,$96.05,160.00
+F3G8917,Firmware/Driver Development,L3,Medium,EMEA,Germany,Germany - All,$104.69,160.00
+F4G8918,Firmware/Driver Development,L4,Medium,EMEA,Germany,Germany - All,$120.11,160.00
+F5G8919,Firmware/Driver Development,L5,Medium,EMEA,Germany,Germany - All,$136.58,160.00
+F1C7555,Firmware/Driver Development,L1,Medium,APAC,India,Chennai,$27.00,180.00
+F2C7556,Firmware/Driver Development,L2,Medium,APAC,India,Chennai,$33.00,180.00
+F3C7557,Firmware/Driver Development,L3,Medium,APAC,India,Chennai,$36.00,180.00
+F4C7558,Firmware/Driver Development,L4,Medium,APAC,India,Chennai,$40.00,180.00
+F5C7559,Firmware/Driver Development,L5,Medium,APAC,India,Chennai,$44.00,180.00
+F1H7640,Firmware/Driver Development,L1,Medium,APAC,India,Hyderabad,$27.00,180.00
+F2H7641,Firmware/Driver Development,L2,Medium,APAC,India,Hyderabad,$33.00,180.00
+F3H7642,Firmware/Driver Development,L3,Medium,APAC,India,Hyderabad,$36.00,180.00
+F4H7643,Firmware/Driver Development,L4,Medium,APAC,India,Hyderabad,$40.00,180.00
+F5H7644,Firmware/Driver Development,L5,Medium,APAC,India,Hyderabad,$44.00,180.00
+F1M7725,Firmware/Driver Development,L1,Medium,APAC,India,Mumbai,$27.00,180.00
+F2M7726,Firmware/Driver Development,L2,Medium,APAC,India,Mumbai,$33.00,180.00
+F3M7727,Firmware/Driver Development,L3,Medium,APAC,India,Mumbai,$36.00,180.00
+F4M7728,Firmware/Driver Development,L4,Medium,APAC,India,Mumbai,$40.00,180.00
+F5M7729,Firmware/Driver Development,L5,Medium,APAC,India,Mumbai,$44.00,180.00
+F1N7810,Firmware/Driver Development,L1,Medium,APAC,India,New Delhi,$27.00,180.00
+F2N7811,Firmware/Driver Development,L2,Medium,APAC,India,New Delhi,$33.00,180.00
+F3N7812,Firmware/Driver Development,L3,Medium,APAC,India,New Delhi,$36.00,180.00
+F4N7813,Firmware/Driver Development,L4,Medium,APAC,India,New Delhi,$40.00,180.00
+F5N7814,Firmware/Driver Development,L5,Medium,APAC,India,New Delhi,$44.00,180.00
+F1P7895,Firmware/Driver Development,L1,Medium,APAC,India,Pune,$27.00,180.00
+F2P7896,Firmware/Driver Development,L2,Medium,APAC,India,Pune,$33.00,180.00
+F3P7897,Firmware/Driver Development,L3,Medium,APAC,India,Pune,$36.00,180.00
+F4P7898,Firmware/Driver Development,L4,Medium,APAC,India,Pune,$40.00,180.00
+F5P7899,Firmware/Driver Development,L5,Medium,APAC,India,Pune,$44.00,180.00
+F1P9000,Firmware/Driver Development,L1,Medium,EMEA,Poland,Poland - All,NA,160.00
+F2P9001,Firmware/Driver Development,L2,Medium,EMEA,Poland,Poland - All,NA,160.00
+F3P9002,Firmware/Driver Development,L3,Medium,EMEA,Poland,Poland - All,NA,160.00
+F4P9003,Firmware/Driver Development,L4,Medium,EMEA,Poland,Poland - All,NA,160.00
+F5P9004,Firmware/Driver Development,L5,Medium,EMEA,Poland,Poland - All,NA,160.00
+F1T7300,Firmware/Driver Development,L1,Medium,NA,United States,Texas,$102.00,160.00
+F2T7301,Firmware/Driver Development,L2,Medium,NA,United States,Texas,$120.00,160.00
+F3T7302,Firmware/Driver Development,L3,Medium,NA,United States,Texas,$150.00,160.00
+F4T7303,Firmware/Driver Development,L4,Medium,NA,United States,Texas,$165.00,160.00
+F5T7304,Firmware/Driver Development,L5,Medium,NA,United States,Texas,$180.00,160.00
+F1U7470,Firmware/Driver Development,L1,Medium,NA,United States,US - Other,$102.00,160.00
+F2U7471,Firmware/Driver Development,L2,Medium,NA,United States,US - Other,$120.00,160.00
+F3U7472,Firmware/Driver Development,L3,Medium,NA,United States,US - Other,$150.00,160.00
+F4U7473,Firmware/Driver Development,L4,Medium,NA,United States,US - Other,$165.00,160.00
+F5U7474,Firmware/Driver Development,L5,Medium,NA,United States,US - Other,$180.00,160.00
+F1B8815,Formal Design Verification,L1,High,APAC,India,Bangalore,$27.00,180.00
+F2B8816,Formal Design Verification,L2,High,APAC,India,Bangalore,$33.00,180.00
+F3B8817,Formal Design Verification,L3,High,APAC,India,Bangalore,$36.00,180.00
+F4B8818,Formal Design Verification,L4,High,APAC,India,Bangalore,$40.00,180.00
+F5B8819,Formal Design Verification,L5,High,APAC,India,Bangalore,$44.00,180.00
+F1T7030,Formal Design Verification,L1,High,APAC,Taiwan,Taiwan - All,$40.00,160.00
+F2T7031,Formal Design Verification,L2,High,APAC,Taiwan,Taiwan - All,$45.00,160.00
+F3T7032,Formal Design Verification,L3,High,APAC,Taiwan,Taiwan - All,$50.00,160.00
+F4T7033,Formal Design Verification,L4,High,APAC,Taiwan,Taiwan - All,$56.00,160.00
+F5T7034,Formal Design Verification,L5,High,APAC,Taiwan,Taiwan - All,$65.00,160.00
+F1C7115,Formal Design Verification,L1,High,NA,United States,California,$110.00,160.00
+F2C7116,Formal Design Verification,L2,High,NA,United States,California,$130.00,160.00
+F3C7117,Formal Design Verification,L3,High,NA,United States,California,$155.00,160.00
+F4C7118,Formal Design Verification,L4,High,NA,United States,California,$175.00,160.00
+F5C7119,Formal Design Verification,L5,High,NA,United States,California,$195.00,160.00
+F1B7965,Formal Design Verification,L1,Low,EMEA,Belgium,Belgium - All,NA,160.00
+F2B7966,Formal Design Verification,L2,Low,EMEA,Belgium,Belgium - All,NA,160.00
+F3B7967,Formal Design Verification,L3,Low,EMEA,Belgium,Belgium - All,NA,160.00
+F4B7968,Formal Design Verification,L4,Low,EMEA,Belgium,Belgium - All,NA,160.00
+F5B7969,Formal Design Verification,L5,Low,EMEA,Belgium,Belgium - All,NA,160.00
+F1C8645,Formal Design Verification,L1,Low,LatAm,Chile,Chile - All,NA,160.00
+F2C8646,Formal Design Verification,L2,Low,LatAm,Chile,Chile - All,NA,160.00
+F3C8647,Formal Design Verification,L3,Low,LatAm,Chile,Chile - All,NA,160.00
+F4C8648,Formal Design Verification,L4,Low,LatAm,Chile,Chile - All,NA,160.00
+F5C8649,Formal Design Verification,L5,Low,LatAm,Chile,Chile - All,NA,160.00
+F1F8050,Formal Design Verification,L1,Low,EMEA,France,France - All,NA,160.00
+F2F8051,Formal Design Verification,L2,Low,EMEA,France,France - All,NA,160.00
+F3F8052,Formal Design Verification,L3,Low,EMEA,France,France - All,NA,160.00
+F4F8053,Formal Design Verification,L4,Low,EMEA,France,France - All,NA,160.00
+F5F8054,Formal Design Verification,L5,Low,EMEA,France,France - All,NA,160.00
+F1M8730,Formal Design Verification,L1,Low,NA,Mexico,Mexico - All,NA,160.00
+F2M8731,Formal Design Verification,L2,Low,NA,Mexico,Mexico - All,NA,160.00
+F3M8732,Formal Design Verification,L3,Low,NA,Mexico,Mexico - All,NA,160.00
+F4M8733,Formal Design Verification,L4,Low,NA,Mexico,Mexico - All,NA,160.00
+F5M8734,Formal Design Verification,L5,Low,NA,Mexico,Mexico - All,NA,160.00
+F1N8135,Formal Design Verification,L1,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+F2N8136,Formal Design Verification,L2,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+F3N8137,Formal Design Verification,L3,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+F4N8138,Formal Design Verification,L4,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+F5N8139,Formal Design Verification,L5,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+F1P8220,Formal Design Verification,L1,Low,EMEA,Portugal,Portugal - All,NA,160.00
+F2P8221,Formal Design Verification,L2,Low,EMEA,Portugal,Portugal - All,NA,160.00
+F3P8222,Formal Design Verification,L3,Low,EMEA,Portugal,Portugal - All,NA,160.00
+F4P8223,Formal Design Verification,L4,Low,EMEA,Portugal,Portugal - All,NA,160.00
+F5P8224,Formal Design Verification,L5,Low,EMEA,Portugal,Portugal - All,NA,160.00
+F1R8475,Formal Design Verification,L1,Low,EMEA,Romania,Romania - All,NA,160.00
+F2R8476,Formal Design Verification,L2,Low,EMEA,Romania,Romania - All,NA,160.00
+F3R8477,Formal Design Verification,L3,Low,EMEA,Romania,Romania - All,NA,160.00
+F4R8478,Formal Design Verification,L4,Low,EMEA,Romania,Romania - All,NA,160.00
+F5R8479,Formal Design Verification,L5,Low,EMEA,Romania,Romania - All,NA,160.00
+F1S8305,Formal Design Verification,L1,Low,EMEA,Spain,Spain - All,NA,160.00
+F2S8306,Formal Design Verification,L2,Low,EMEA,Spain,Spain - All,NA,160.00
+F3S8307,Formal Design Verification,L3,Low,EMEA,Spain,Spain - All,NA,160.00
+F4S8308,Formal Design Verification,L4,Low,EMEA,Spain,Spain - All,NA,160.00
+F5S8309,Formal Design Verification,L5,Low,EMEA,Spain,Spain - All,NA,160.00
+F1U8560,Formal Design Verification,L1,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+F2U8561,Formal Design Verification,L2,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+F3U8562,Formal Design Verification,L3,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+F4U8563,Formal Design Verification,L4,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+F5U8564,Formal Design Verification,L5,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+F1U8390,Formal Design Verification,L1,Low,EMEA,United Kingdom,United Kingdom - All,$85.00,160.00
+F2U8391,Formal Design Verification,L2,Low,EMEA,United Kingdom,United Kingdom - All,$100.00,160.00
+F3U8392,Formal Design Verification,L3,Low,EMEA,United Kingdom,United Kingdom - All,$110.00,160.00
+F4U8393,Formal Design Verification,L4,Low,EMEA,United Kingdom,United Kingdom - All,$120.00,160.00
+F5U8394,Formal Design Verification,L5,Low,EMEA,United Kingdom,United Kingdom - All,$140.00,160.00
+F1N7200,Formal Design Verification,L1,Low,NA,United States,New York,$110.00,160.00
+F2N7201,Formal Design Verification,L2,Low,NA,United States,New York,$130.00,160.00
+F3N7202,Formal Design Verification,L3,Low,NA,United States,New York,$155.00,160.00
+F4N7203,Formal Design Verification,L4,Low,NA,United States,New York,$175.00,160.00
+F5N7204,Formal Design Verification,L5,Low,NA,United States,New York,$195.00,160.00
+F1T7370,Formal Design Verification,L1,Low,NA,Canada,Toronto,$98.00,160.00
+F2T7371,Formal Design Verification,L2,Low,NA,Canada,Toronto,$115.00,160.00
+F3T7372,Formal Design Verification,L3,Low,NA,Canada,Toronto,$130.00,160.00
+F4T7373,Formal Design Verification,L4,Low,NA,Canada,Toronto,$145.00,160.00
+F5T7374,Formal Design Verification,L5,Low,NA,Canada,Toronto,$165.00,160.00
+F1B9070,Formal Design Verification,L1,Medium,LatAm,Brazil,Brazil,NA,160.00
+F2B9071,Formal Design Verification,L2,Medium,LatAm,Brazil,Brazil,NA,160.00
+F3B9072,Formal Design Verification,L3,Medium,LatAm,Brazil,Brazil,NA,160.00
+F4B9073,Formal Design Verification,L4,Medium,LatAm,Brazil,Brazil,NA,160.00
+F5B9074,Formal Design Verification,L5,Medium,LatAm,Brazil,Brazil,NA,160.00
+F1G8900,Formal Design Verification,L1,Medium,EMEA,Germany,Germany - All,NA,160.00
+F2G8901,Formal Design Verification,L2,Medium,EMEA,Germany,Germany - All,NA,160.00
+F3G8902,Formal Design Verification,L3,Medium,EMEA,Germany,Germany - All,NA,160.00
+F4G8903,Formal Design Verification,L4,Medium,EMEA,Germany,Germany - All,NA,160.00
+F5G8904,Formal Design Verification,L5,Medium,EMEA,Germany,Germany - All,NA,160.00
+F1C7540,Formal Design Verification,L1,Medium,APAC,India,Chennai,$27.00,180.00
+F2C7541,Formal Design Verification,L2,Medium,APAC,India,Chennai,$33.00,180.00
+F3C7542,Formal Design Verification,L3,Medium,APAC,India,Chennai,$36.00,180.00
+F4C7543,Formal Design Verification,L4,Medium,APAC,India,Chennai,$40.00,180.00
+F5C7544,Formal Design Verification,L5,Medium,APAC,India,Chennai,$44.00,180.00
+F1H7625,Formal Design Verification,L1,Medium,APAC,India,Hyderabad,$27.00,180.00
+F2H7626,Formal Design Verification,L2,Medium,APAC,India,Hyderabad,$33.00,180.00
+F3H7627,Formal Design Verification,L3,Medium,APAC,India,Hyderabad,$36.00,180.00
+F4H7628,Formal Design Verification,L4,Medium,APAC,India,Hyderabad,$40.00,180.00
+F5H7629,Formal Design Verification,L5,Medium,APAC,India,Hyderabad,$44.00,180.00
+F1M7710,Formal Design Verification,L1,Medium,APAC,India,Mumbai,$27.00,180.00
+F2M7711,Formal Design Verification,L2,Medium,APAC,India,Mumbai,$33.00,180.00
+F3M7712,Formal Design Verification,L3,Medium,APAC,India,Mumbai,$36.00,180.00
+F4M7713,Formal Design Verification,L4,Medium,APAC,India,Mumbai,$40.00,180.00
+F5M7714,Formal Design Verification,L5,Medium,APAC,India,Mumbai,$44.00,180.00
+F1N7795,Formal Design Verification,L1,Medium,APAC,India,New Delhi,$27.00,180.00
+F2N7796,Formal Design Verification,L2,Medium,APAC,India,New Delhi,$33.00,180.00
+F3N7797,Formal Design Verification,L3,Medium,APAC,India,New Delhi,$36.00,180.00
+F4N7798,Formal Design Verification,L4,Medium,APAC,India,New Delhi,$40.00,180.00
+F5N7799,Formal Design Verification,L5,Medium,APAC,India,New Delhi,$44.00,180.00
+F1P7880,Formal Design Verification,L1,Medium,APAC,India,Pune,$27.00,180.00
+F2P7881,Formal Design Verification,L2,Medium,APAC,India,Pune,$33.00,180.00
+F3P7882,Formal Design Verification,L3,Medium,APAC,India,Pune,$36.00,180.00
+F4P7883,Formal Design Verification,L4,Medium,APAC,India,Pune,$40.00,180.00
+F5P7884,Formal Design Verification,L5,Medium,APAC,India,Pune,$44.00,180.00
+F1P8985,Formal Design Verification,L1,Medium,EMEA,Poland,Poland - All,NA,160.00
+F2P8986,Formal Design Verification,L2,Medium,EMEA,Poland,Poland - All,NA,160.00
+F3P8987,Formal Design Verification,L3,Medium,EMEA,Poland,Poland - All,NA,160.00
+F4P8988,Formal Design Verification,L4,Medium,EMEA,Poland,Poland - All,NA,160.00
+F5P8989,Formal Design Verification,L5,Medium,EMEA,Poland,Poland - All,NA,160.00
+F1T7285,Formal Design Verification,L1,Medium,NA,United States,Texas,$102.00,160.00
+F2T7286,Formal Design Verification,L2,Medium,NA,United States,Texas,$120.00,160.00
+F3T7287,Formal Design Verification,L3,Medium,NA,United States,Texas,$150.00,160.00
+F4T7288,Formal Design Verification,L4,Medium,NA,United States,Texas,$165.00,160.00
+F5T7289,Formal Design Verification,L5,Medium,NA,United States,Texas,$180.00,160.00
+F1U7455,Formal Design Verification,L1,Medium,NA,United States,US - Other,$102.00,160.00
+F2U7456,Formal Design Verification,L2,Medium,NA,United States,US - Other,$120.00,160.00
+F3U7457,Formal Design Verification,L3,Medium,NA,United States,US - Other,$150.00,160.00
+F4U7458,Formal Design Verification,L4,Medium,NA,United States,US - Other,$165.00,160.00
+F5U7459,Formal Design Verification,L5,Medium,NA,United States,US - Other,$180.00,160.00
+P1B8835,Package Design,L1,High,APAC,India,Bangalore,$27.00,180.00
+P2B8836,Package Design,L2,High,APAC,India,Bangalore,$33.00,180.00
+P3B8837,Package Design,L3,High,APAC,India,Bangalore,$36.00,180.00
+P4B8838,Package Design,L4,High,APAC,India,Bangalore,$40.00,180.00
+P5B8839,Package Design,L5,High,APAC,India,Bangalore,$44.00,180.00
+P1T7050,Package Design,L1,High,APAC,Taiwan,Taiwan - All,$40.00,160.00
+P2T7051,Package Design,L2,High,APAC,Taiwan,Taiwan - All,$45.00,160.00
+P3T7052,Package Design,L3,High,APAC,Taiwan,Taiwan - All,$50.00,160.00
+P4T7053,Package Design,L4,High,APAC,Taiwan,Taiwan - All,$56.00,160.00
+P5T7054,Package Design,L5,High,APAC,Taiwan,Taiwan - All,$65.00,160.00
+P1C7135,Package Design,L1,High,NA,United States,California,$110.00,160.00
+P2C7136,Package Design,L2,High,NA,United States,California,$130.00,160.00
+P3C7137,Package Design,L3,High,NA,United States,California,$155.00,160.00
+P4C7138,Package Design,L4,High,NA,United States,California,$175.00,160.00
+P5C7139,Package Design,L5,High,NA,United States,California,$195.00,160.00
+P1B7985,Package Design,L1,Low,EMEA,Belgium,Belgium - All,NA,160.00
+P2B7986,Package Design,L2,Low,EMEA,Belgium,Belgium - All,NA,160.00
+P3B7987,Package Design,L3,Low,EMEA,Belgium,Belgium - All,NA,160.00
+P4B7988,Package Design,L4,Low,EMEA,Belgium,Belgium - All,NA,160.00
+P5B7989,Package Design,L5,Low,EMEA,Belgium,Belgium - All,NA,160.00
+P1C8665,Package Design,L1,Low,LatAm,Chile,Chile - All,NA,160.00
+P2C8666,Package Design,L2,Low,LatAm,Chile,Chile - All,NA,160.00
+P3C8667,Package Design,L3,Low,LatAm,Chile,Chile - All,NA,160.00
+P4C8668,Package Design,L4,Low,LatAm,Chile,Chile - All,NA,160.00
+P5C8669,Package Design,L5,Low,LatAm,Chile,Chile - All,NA,160.00
+P1F8070,Package Design,L1,Low,EMEA,France,France - All,NA,160.00
+P2F8071,Package Design,L2,Low,EMEA,France,France - All,NA,160.00
+P3F8072,Package Design,L3,Low,EMEA,France,France - All,NA,160.00
+P4F8073,Package Design,L4,Low,EMEA,France,France - All,NA,160.00
+P5F8074,Package Design,L5,Low,EMEA,France,France - All,NA,160.00
+P1M8750,Package Design,L1,Low,NA,Mexico,Mexico - All,NA,160.00
+P2M8751,Package Design,L2,Low,NA,Mexico,Mexico - All,NA,160.00
+P3M8752,Package Design,L3,Low,NA,Mexico,Mexico - All,NA,160.00
+P4M8753,Package Design,L4,Low,NA,Mexico,Mexico - All,NA,160.00
+P5M8754,Package Design,L5,Low,NA,Mexico,Mexico - All,NA,160.00
+P1N8155,Package Design,L1,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+P2N8156,Package Design,L2,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+P3N8157,Package Design,L3,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+P4N8158,Package Design,L4,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+P5N8159,Package Design,L5,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+P1P8240,Package Design,L1,Low,EMEA,Portugal,Portugal - All,NA,160.00
+P2P8241,Package Design,L2,Low,EMEA,Portugal,Portugal - All,NA,160.00
+P3P8242,Package Design,L3,Low,EMEA,Portugal,Portugal - All,NA,160.00
+P4P8243,Package Design,L4,Low,EMEA,Portugal,Portugal - All,NA,160.00
+P5P8244,Package Design,L5,Low,EMEA,Portugal,Portugal - All,NA,160.00
+P1R8495,Package Design,L1,Low,EMEA,Romania,Romania - All,NA,160.00
+P2R8496,Package Design,L2,Low,EMEA,Romania,Romania - All,NA,160.00
+P3R8497,Package Design,L3,Low,EMEA,Romania,Romania - All,NA,160.00
+P4R8498,Package Design,L4,Low,EMEA,Romania,Romania - All,NA,160.00
+P5R8499,Package Design,L5,Low,EMEA,Romania,Romania - All,NA,160.00
+P1S8325,Package Design,L1,Low,EMEA,Spain,Spain - All,NA,160.00
+P2S8326,Package Design,L2,Low,EMEA,Spain,Spain - All,NA,160.00
+P3S8327,Package Design,L3,Low,EMEA,Spain,Spain - All,NA,160.00
+P4S8328,Package Design,L4,Low,EMEA,Spain,Spain - All,NA,160.00
+P5S8329,Package Design,L5,Low,EMEA,Spain,Spain - All,NA,160.00
+P1U8580,Package Design,L1,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+P2U8581,Package Design,L2,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+P3U8582,Package Design,L3,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+P4U8583,Package Design,L4,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+P5U8584,Package Design,L5,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+P1U8410,Package Design,L1,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+P2U8411,Package Design,L2,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+P3U8412,Package Design,L3,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+P4U8413,Package Design,L4,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+P5U8414,Package Design,L5,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+P1N7220,Package Design,L1,Low,NA,United States,New York,$110.00,160.00
+P2N7221,Package Design,L2,Low,NA,United States,New York,$130.00,160.00
+P3N7222,Package Design,L3,Low,NA,United States,New York,$155.00,160.00
+P4N7223,Package Design,L4,Low,NA,United States,New York,$175.00,160.00
+P5N7224,Package Design,L5,Low,NA,United States,New York,$195.00,160.00
+P1T7390,Package Design,L1,Low,NA,Canada,Toronto,NA,160.00
+P2T7391,Package Design,L2,Low,NA,Canada,Toronto,NA,160.00
+P3T7392,Package Design,L3,Low,NA,Canada,Toronto,NA,160.00
+P4T7393,Package Design,L4,Low,NA,Canada,Toronto,NA,160.00
+P5T7394,Package Design,L5,Low,NA,Canada,Toronto,NA,160.00
+P1B9090,Package Design,L1,Medium,LatAm,Brazil,Brazil,NA,160.00
+P2B9091,Package Design,L2,Medium,LatAm,Brazil,Brazil,NA,160.00
+P3B9092,Package Design,L3,Medium,LatAm,Brazil,Brazil,NA,160.00
+P4B9093,Package Design,L4,Medium,LatAm,Brazil,Brazil,NA,160.00
+P5B9094,Package Design,L5,Medium,LatAm,Brazil,Brazil,NA,160.00
+P1G8920,Package Design,L1,Medium,EMEA,Germany,Germany - All,NA,160.00
+P2G8921,Package Design,L2,Medium,EMEA,Germany,Germany - All,NA,160.00
+P3G8922,Package Design,L3,Medium,EMEA,Germany,Germany - All,NA,160.00
+P4G8923,Package Design,L4,Medium,EMEA,Germany,Germany - All,NA,160.00
+P5G8924,Package Design,L5,Medium,EMEA,Germany,Germany - All,NA,160.00
+P1C7560,Package Design,L1,Medium,APAC,India,Chennai,$27.00,180.00
+P2C7561,Package Design,L2,Medium,APAC,India,Chennai,$33.00,180.00
+P3C7562,Package Design,L3,Medium,APAC,India,Chennai,$36.00,180.00
+P4C7563,Package Design,L4,Medium,APAC,India,Chennai,$40.00,180.00
+P5C7564,Package Design,L5,Medium,APAC,India,Chennai,$44.00,180.00
+P1H7645,Package Design,L1,Medium,APAC,India,Hyderabad,$27.00,180.00
+P2H7646,Package Design,L2,Medium,APAC,India,Hyderabad,$33.00,180.00
+P3H7647,Package Design,L3,Medium,APAC,India,Hyderabad,$36.00,180.00
+P4H7648,Package Design,L4,Medium,APAC,India,Hyderabad,$40.00,180.00
+P5H7649,Package Design,L5,Medium,APAC,India,Hyderabad,$44.00,180.00
+P1M7730,Package Design,L1,Medium,APAC,India,Mumbai,$27.00,180.00
+P2M7731,Package Design,L2,Medium,APAC,India,Mumbai,$33.00,180.00
+P3M7732,Package Design,L3,Medium,APAC,India,Mumbai,$36.00,180.00
+P4M7733,Package Design,L4,Medium,APAC,India,Mumbai,$40.00,180.00
+P5M7734,Package Design,L5,Medium,APAC,India,Mumbai,$44.00,180.00
+P1N7815,Package Design,L1,Medium,APAC,India,New Delhi,$27.00,180.00
+P2N7816,Package Design,L2,Medium,APAC,India,New Delhi,$33.00,180.00
+P3N7817,Package Design,L3,Medium,APAC,India,New Delhi,$36.00,180.00
+P4N7818,Package Design,L4,Medium,APAC,India,New Delhi,$40.00,180.00
+P5N7819,Package Design,L5,Medium,APAC,India,New Delhi,$44.00,180.00
+P1P7900,Package Design,L1,Medium,APAC,India,Pune,$27.00,180.00
+P2P7901,Package Design,L2,Medium,APAC,India,Pune,$33.00,180.00
+P3P7902,Package Design,L3,Medium,APAC,India,Pune,$36.00,180.00
+P4P7903,Package Design,L4,Medium,APAC,India,Pune,$40.00,180.00
+P5P7904,Package Design,L5,Medium,APAC,India,Pune,$44.00,180.00
+P1P9005,Package Design,L1,Medium,EMEA,Poland,Poland - All,NA,160.00
+P2P9006,Package Design,L2,Medium,EMEA,Poland,Poland - All,NA,160.00
+P3P9007,Package Design,L3,Medium,EMEA,Poland,Poland - All,NA,160.00
+P4P9008,Package Design,L4,Medium,EMEA,Poland,Poland - All,NA,160.00
+P5P9009,Package Design,L5,Medium,EMEA,Poland,Poland - All,NA,160.00
+P1T7305,Package Design,L1,Medium,NA,United States,Texas,$102.00,160.00
+P2T7306,Package Design,L2,Medium,NA,United States,Texas,$120.00,160.00
+P3T7307,Package Design,L3,Medium,NA,United States,Texas,$150.00,160.00
+P4T7308,Package Design,L4,Medium,NA,United States,Texas,$165.00,160.00
+P5T7309,Package Design,L5,Medium,NA,United States,Texas,$180.00,160.00
+P1U7475,Package Design,L1,Medium,NA,United States,US - Other,$102.00,160.00
+P2U7476,Package Design,L2,Medium,NA,United States,US - Other,$120.00,160.00
+P3U7477,Package Design,L3,Medium,NA,United States,US - Other,$150.00,160.00
+P4U7478,Package Design,L4,Medium,NA,United States,US - Other,$165.00,160.00
+P5U7479,Package Design,L5,Medium,NA,United States,US - Other,$180.00,160.00
+P1B8840,Physical Design/Signoff,L1,High,APAC,India,Bangalore,$27.00,180.00
+P2B8841,Physical Design/Signoff,L2,High,APAC,India,Bangalore,$33.00,180.00
+P3B8842,Physical Design/Signoff,L3,High,APAC,India,Bangalore,$36.00,180.00
+P4B8843,Physical Design/Signoff,L4,High,APAC,India,Bangalore,$40.00,180.00
+P5B8844,Physical Design/Signoff,L5,High,APAC,India,Bangalore,$44.00,180.00
+P1T7055,Physical Design/Signoff,L1,High,APAC,Taiwan,Taiwan - All,$44.00,160.00
+P2T7056,Physical Design/Signoff,L2,High,APAC,Taiwan,Taiwan - All,$48.00,160.00
+P3T7057,Physical Design/Signoff,L3,High,APAC,Taiwan,Taiwan - All,$55.00,160.00
+P4T7058,Physical Design/Signoff,L4,High,APAC,Taiwan,Taiwan - All,$68.00,160.00
+P5T7059,Physical Design/Signoff,L5,High,APAC,Taiwan,Taiwan - All,$75.00,160.00
+P1C7140,Physical Design/Signoff,L1,High,NA,United States,California,$110.00,160.00
+P2C7141,Physical Design/Signoff,L2,High,NA,United States,California,$130.00,160.00
+P3C7142,Physical Design/Signoff,L3,High,NA,United States,California,$155.00,160.00
+P4C7143,Physical Design/Signoff,L4,High,NA,United States,California,$175.00,160.00
+P5C7144,Physical Design/Signoff,L5,High,NA,United States,California,$195.00,160.00
+P1B7990,Physical Design/Signoff,L1,Low,EMEA,Belgium,Belgium - All,NA,160.00
+P2B7991,Physical Design/Signoff,L2,Low,EMEA,Belgium,Belgium - All,NA,160.00
+P3B7992,Physical Design/Signoff,L3,Low,EMEA,Belgium,Belgium - All,NA,160.00
+P4B7993,Physical Design/Signoff,L4,Low,EMEA,Belgium,Belgium - All,NA,160.00
+P5B7994,Physical Design/Signoff,L5,Low,EMEA,Belgium,Belgium - All,NA,160.00
+P1C8670,Physical Design/Signoff,L1,Low,LatAm,Chile,Chile - All,NA,160.00
+P2C8671,Physical Design/Signoff,L2,Low,LatAm,Chile,Chile - All,NA,160.00
+P3C8672,Physical Design/Signoff,L3,Low,LatAm,Chile,Chile - All,NA,160.00
+P4C8673,Physical Design/Signoff,L4,Low,LatAm,Chile,Chile - All,NA,160.00
+P5C8674,Physical Design/Signoff,L5,Low,LatAm,Chile,Chile - All,NA,160.00
+P1F8075,Physical Design/Signoff,L1,Low,EMEA,France,France - All,NA,160.00
+P2F8076,Physical Design/Signoff,L2,Low,EMEA,France,France - All,NA,160.00
+P3F8077,Physical Design/Signoff,L3,Low,EMEA,France,France - All,NA,160.00
+P4F8078,Physical Design/Signoff,L4,Low,EMEA,France,France - All,NA,160.00
+P5F8079,Physical Design/Signoff,L5,Low,EMEA,France,France - All,NA,160.00
+P1M8755,Physical Design/Signoff,L1,Low,NA,Mexico,Mexico - All,NA,160.00
+P2M8756,Physical Design/Signoff,L2,Low,NA,Mexico,Mexico - All,NA,160.00
+P3M8757,Physical Design/Signoff,L3,Low,NA,Mexico,Mexico - All,NA,160.00
+P4M8758,Physical Design/Signoff,L4,Low,NA,Mexico,Mexico - All,NA,160.00
+P5M8759,Physical Design/Signoff,L5,Low,NA,Mexico,Mexico - All,NA,160.00
+P1N8160,Physical Design/Signoff,L1,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+P2N8161,Physical Design/Signoff,L2,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+P3N8162,Physical Design/Signoff,L3,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+P4N8163,Physical Design/Signoff,L4,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+P5N8164,Physical Design/Signoff,L5,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+P1P8245,Physical Design/Signoff,L1,Low,EMEA,Portugal,Portugal - All,NA,160.00
+P2P8246,Physical Design/Signoff,L2,Low,EMEA,Portugal,Portugal - All,NA,160.00
+P3P8247,Physical Design/Signoff,L3,Low,EMEA,Portugal,Portugal - All,NA,160.00
+P4P8248,Physical Design/Signoff,L4,Low,EMEA,Portugal,Portugal - All,NA,160.00
+P5P8249,Physical Design/Signoff,L5,Low,EMEA,Portugal,Portugal - All,NA,160.00
+P1R8500,Physical Design/Signoff,L1,Low,EMEA,Romania,Romania - All,NA,160.00
+P2R8501,Physical Design/Signoff,L2,Low,EMEA,Romania,Romania - All,NA,160.00
+P3R8502,Physical Design/Signoff,L3,Low,EMEA,Romania,Romania - All,NA,160.00
+P4R8503,Physical Design/Signoff,L4,Low,EMEA,Romania,Romania - All,NA,160.00
+P5R8504,Physical Design/Signoff,L5,Low,EMEA,Romania,Romania - All,NA,160.00
+P1S8330,Physical Design/Signoff,L1,Low,EMEA,Spain,Spain - All,NA,160.00
+P2S8331,Physical Design/Signoff,L2,Low,EMEA,Spain,Spain - All,NA,160.00
+P3S8332,Physical Design/Signoff,L3,Low,EMEA,Spain,Spain - All,NA,160.00
+P4S8333,Physical Design/Signoff,L4,Low,EMEA,Spain,Spain - All,NA,160.00
+P5S8334,Physical Design/Signoff,L5,Low,EMEA,Spain,Spain - All,NA,160.00
+P1U8585,Physical Design/Signoff,L1,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+P2U8586,Physical Design/Signoff,L2,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+P3U8587,Physical Design/Signoff,L3,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+P4U8588,Physical Design/Signoff,L4,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+P5U8589,Physical Design/Signoff,L5,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+P1U8415,Physical Design/Signoff,L1,Low,EMEA,United Kingdom,United Kingdom - All,$85.00,160.00
+P2U8416,Physical Design/Signoff,L2,Low,EMEA,United Kingdom,United Kingdom - All,$100.00,160.00
+P3U8417,Physical Design/Signoff,L3,Low,EMEA,United Kingdom,United Kingdom - All,$110.00,160.00
+P4U8418,Physical Design/Signoff,L4,Low,EMEA,United Kingdom,United Kingdom - All,$120.00,160.00
+P5U8419,Physical Design/Signoff,L5,Low,EMEA,United Kingdom,United Kingdom - All,$140.00,160.00
+P1N7225,Physical Design/Signoff,L1,Low,NA,United States,New York,$110.00,160.00
+P2N7226,Physical Design/Signoff,L2,Low,NA,United States,New York,$130.00,160.00
+P3N7227,Physical Design/Signoff,L3,Low,NA,United States,New York,$155.00,160.00
+P4N7228,Physical Design/Signoff,L4,Low,NA,United States,New York,$175.00,160.00
+P5N7229,Physical Design/Signoff,L5,Low,NA,United States,New York,$195.00,160.00
+P1T7395,Physical Design/Signoff,L1,Low,NA,Canada,Toronto,$98.00,160.00
+P2T7396,Physical Design/Signoff,L2,Low,NA,Canada,Toronto,$115.00,160.00
+P3T7397,Physical Design/Signoff,L3,Low,NA,Canada,Toronto,$130.00,160.00
+P4T7398,Physical Design/Signoff,L4,Low,NA,Canada,Toronto,$145.00,160.00
+P5T7399,Physical Design/Signoff,L5,Low,NA,Canada,Toronto,$165.00,160.00
+P1B9095,Physical Design/Signoff,L1,Medium,LatAm,Brazil,Brazil,NA,160.00
+P2B9096,Physical Design/Signoff,L2,Medium,LatAm,Brazil,Brazil,NA,160.00
+P3B9097,Physical Design/Signoff,L3,Medium,LatAm,Brazil,Brazil,NA,160.00
+P4B9098,Physical Design/Signoff,L4,Medium,LatAm,Brazil,Brazil,NA,160.00
+P5B9099,Physical Design/Signoff,L5,Medium,LatAm,Brazil,Brazil,NA,160.00
+P1G8925,Physical Design/Signoff,L1,Medium,EMEA,Germany,Germany - All,NA,160.00
+P2G8926,Physical Design/Signoff,L2,Medium,EMEA,Germany,Germany - All,NA,160.00
+P3G8927,Physical Design/Signoff,L3,Medium,EMEA,Germany,Germany - All,NA,160.00
+P4G8928,Physical Design/Signoff,L4,Medium,EMEA,Germany,Germany - All,NA,160.00
+P5G8929,Physical Design/Signoff,L5,Medium,EMEA,Germany,Germany - All,NA,160.00
+P1C7565,Physical Design/Signoff,L1,Medium,APAC,India,Chennai,$27.00,180.00
+P2C7566,Physical Design/Signoff,L2,Medium,APAC,India,Chennai,$33.00,180.00
+P3C7567,Physical Design/Signoff,L3,Medium,APAC,India,Chennai,$36.00,180.00
+P4C7568,Physical Design/Signoff,L4,Medium,APAC,India,Chennai,$40.00,180.00
+P5C7569,Physical Design/Signoff,L5,Medium,APAC,India,Chennai,$44.00,180.00
+P1H7650,Physical Design/Signoff,L1,Medium,APAC,India,Hyderabad,$27.00,180.00
+P2H7651,Physical Design/Signoff,L2,Medium,APAC,India,Hyderabad,$33.00,180.00
+P3H7652,Physical Design/Signoff,L3,Medium,APAC,India,Hyderabad,$36.00,180.00
+P4H7653,Physical Design/Signoff,L4,Medium,APAC,India,Hyderabad,$40.00,180.00
+P5H7654,Physical Design/Signoff,L5,Medium,APAC,India,Hyderabad,$44.00,180.00
+P1M7735,Physical Design/Signoff,L1,Medium,APAC,India,Mumbai,$27.00,180.00
+P2M7736,Physical Design/Signoff,L2,Medium,APAC,India,Mumbai,$33.00,180.00
+P3M7737,Physical Design/Signoff,L3,Medium,APAC,India,Mumbai,$36.00,180.00
+P4M7738,Physical Design/Signoff,L4,Medium,APAC,India,Mumbai,$40.00,180.00
+P5M7739,Physical Design/Signoff,L5,Medium,APAC,India,Mumbai,$44.00,180.00
+P1N7820,Physical Design/Signoff,L1,Medium,APAC,India,New Delhi,$27.00,180.00
+P2N7821,Physical Design/Signoff,L2,Medium,APAC,India,New Delhi,$33.00,180.00
+P3N7822,Physical Design/Signoff,L3,Medium,APAC,India,New Delhi,$36.00,180.00
+P4N7823,Physical Design/Signoff,L4,Medium,APAC,India,New Delhi,$40.00,180.00
+P5N7824,Physical Design/Signoff,L5,Medium,APAC,India,New Delhi,$44.00,180.00
+P1P7905,Physical Design/Signoff,L1,Medium,APAC,India,Pune,$27.00,180.00
+P2P7906,Physical Design/Signoff,L2,Medium,APAC,India,Pune,$33.00,180.00
+P3P7907,Physical Design/Signoff,L3,Medium,APAC,India,Pune,$36.00,180.00
+P4P7908,Physical Design/Signoff,L4,Medium,APAC,India,Pune,$40.00,180.00
+P5P7909,Physical Design/Signoff,L5,Medium,APAC,India,Pune,$44.00,180.00
+P1P9010,Physical Design/Signoff,L1,Medium,EMEA,Poland,Poland - All,NA,160.00
+P2P9011,Physical Design/Signoff,L2,Medium,EMEA,Poland,Poland - All,NA,160.00
+P3P9012,Physical Design/Signoff,L3,Medium,EMEA,Poland,Poland - All,NA,160.00
+P4P9013,Physical Design/Signoff,L4,Medium,EMEA,Poland,Poland - All,NA,160.00
+P5P9014,Physical Design/Signoff,L5,Medium,EMEA,Poland,Poland - All,NA,160.00
+P1T7310,Physical Design/Signoff,L1,Medium,NA,United States,Texas,$102.00,160.00
+P2T7311,Physical Design/Signoff,L2,Medium,NA,United States,Texas,$120.00,160.00
+P3T7312,Physical Design/Signoff,L3,Medium,NA,United States,Texas,$150.00,160.00
+P4T7313,Physical Design/Signoff,L4,Medium,NA,United States,Texas,$165.00,160.00
+P5T7314,Physical Design/Signoff,L5,Medium,NA,United States,Texas,$180.00,160.00
+P1U7480,Physical Design/Signoff,L1,Medium,NA,United States,US - Other,$102.00,160.00
+P2U7481,Physical Design/Signoff,L2,Medium,NA,United States,US - Other,$120.00,160.00
+P3U7482,Physical Design/Signoff,L3,Medium,NA,United States,US - Other,$150.00,160.00
+P4U7483,Physical Design/Signoff,L4,Medium,NA,United States,US - Other,$165.00,160.00
+P5U7484,Physical Design/Signoff,L5,Medium,NA,United States,US - Other,$180.00,160.00
+P1B8845,Post Silicon Validation,L1,High,APAC,India,Bangalore,$27.00,180.00
+P2B8846,Post Silicon Validation,L2,High,APAC,India,Bangalore,$33.00,180.00
+P3B8847,Post Silicon Validation,L3,High,APAC,India,Bangalore,$36.00,180.00
+P4B8848,Post Silicon Validation,L4,High,APAC,India,Bangalore,$40.00,180.00
+P5B8849,Post Silicon Validation,L5,High,APAC,India,Bangalore,$44.00,180.00
+P1T7060,Post Silicon Validation,L1,High,APAC,Taiwan,Taiwan - All,$44.00,160.00
+P2T7061,Post Silicon Validation,L2,High,APAC,Taiwan,Taiwan - All,$48.00,160.00
+P3T7062,Post Silicon Validation,L3,High,APAC,Taiwan,Taiwan - All,$55.00,160.00
+P4T7063,Post Silicon Validation,L4,High,APAC,Taiwan,Taiwan - All,$68.00,160.00
+P5T7064,Post Silicon Validation,L5,High,APAC,Taiwan,Taiwan - All,$75.00,160.00
+P1C7145,Post Silicon Validation,L1,High,NA,United States,California,$110.00,160.00
+P2C7146,Post Silicon Validation,L2,High,NA,United States,California,$130.00,160.00
+P3C7147,Post Silicon Validation,L3,High,NA,United States,California,$155.00,160.00
+P4C7148,Post Silicon Validation,L4,High,NA,United States,California,$175.00,160.00
+P5C7149,Post Silicon Validation,L5,High,NA,United States,California,$195.00,160.00
+P1B7995,Post Silicon Validation,L1,Low,EMEA,Belgium,Belgium - All,NA,160.00
+P2B7996,Post Silicon Validation,L2,Low,EMEA,Belgium,Belgium - All,NA,160.00
+P3B7997,Post Silicon Validation,L3,Low,EMEA,Belgium,Belgium - All,NA,160.00
+P4B7998,Post Silicon Validation,L4,Low,EMEA,Belgium,Belgium - All,NA,160.00
+P5B7999,Post Silicon Validation,L5,Low,EMEA,Belgium,Belgium - All,NA,160.00
+P1C8675,Post Silicon Validation,L1,Low,LatAm,Chile,Chile - All,NA,160.00
+P2C8676,Post Silicon Validation,L2,Low,LatAm,Chile,Chile - All,NA,160.00
+P3C8677,Post Silicon Validation,L3,Low,LatAm,Chile,Chile - All,NA,160.00
+P4C8678,Post Silicon Validation,L4,Low,LatAm,Chile,Chile - All,NA,160.00
+P5C8679,Post Silicon Validation,L5,Low,LatAm,Chile,Chile - All,NA,160.00
+P1F8080,Post Silicon Validation,L1,Low,EMEA,France,France - All,NA,160.00
+P2F8081,Post Silicon Validation,L2,Low,EMEA,France,France - All,NA,160.00
+P3F8082,Post Silicon Validation,L3,Low,EMEA,France,France - All,NA,160.00
+P4F8083,Post Silicon Validation,L4,Low,EMEA,France,France - All,NA,160.00
+P5F8084,Post Silicon Validation,L5,Low,EMEA,France,France - All,NA,160.00
+P1M8760,Post Silicon Validation,L1,Low,NA,Mexico,Mexico - All,NA,160.00
+P2M8761,Post Silicon Validation,L2,Low,NA,Mexico,Mexico - All,NA,160.00
+P3M8762,Post Silicon Validation,L3,Low,NA,Mexico,Mexico - All,NA,160.00
+P4M8763,Post Silicon Validation,L4,Low,NA,Mexico,Mexico - All,NA,160.00
+P5M8764,Post Silicon Validation,L5,Low,NA,Mexico,Mexico - All,NA,160.00
+P1N8165,Post Silicon Validation,L1,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+P2N8166,Post Silicon Validation,L2,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+P3N8167,Post Silicon Validation,L3,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+P4N8168,Post Silicon Validation,L4,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+P5N8169,Post Silicon Validation,L5,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+P1P8250,Post Silicon Validation,L1,Low,EMEA,Portugal,Portugal - All,NA,160.00
+P2P8251,Post Silicon Validation,L2,Low,EMEA,Portugal,Portugal - All,NA,160.00
+P3P8252,Post Silicon Validation,L3,Low,EMEA,Portugal,Portugal - All,NA,160.00
+P4P8253,Post Silicon Validation,L4,Low,EMEA,Portugal,Portugal - All,NA,160.00
+P5P8254,Post Silicon Validation,L5,Low,EMEA,Portugal,Portugal - All,NA,160.00
+P1R8505,Post Silicon Validation,L1,Low,EMEA,Romania,Romania - All,NA,160.00
+P2R8506,Post Silicon Validation,L2,Low,EMEA,Romania,Romania - All,NA,160.00
+P3R8507,Post Silicon Validation,L3,Low,EMEA,Romania,Romania - All,NA,160.00
+P4R8508,Post Silicon Validation,L4,Low,EMEA,Romania,Romania - All,NA,160.00
+P5R8509,Post Silicon Validation,L5,Low,EMEA,Romania,Romania - All,NA,160.00
+P1S8335,Post Silicon Validation,L1,Low,EMEA,Spain,Spain - All,NA,160.00
+P2S8336,Post Silicon Validation,L2,Low,EMEA,Spain,Spain - All,NA,160.00
+P3S8337,Post Silicon Validation,L3,Low,EMEA,Spain,Spain - All,NA,160.00
+P4S8338,Post Silicon Validation,L4,Low,EMEA,Spain,Spain - All,NA,160.00
+P5S8339,Post Silicon Validation,L5,Low,EMEA,Spain,Spain - All,NA,160.00
+P1U8590,Post Silicon Validation,L1,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+P2U8591,Post Silicon Validation,L2,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+P3U8592,Post Silicon Validation,L3,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+P4U8593,Post Silicon Validation,L4,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+P5U8594,Post Silicon Validation,L5,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+P1U8420,Post Silicon Validation,L1,Low,EMEA,United Kingdom,United Kingdom - All,$85.00,160.00
+P2U8421,Post Silicon Validation,L2,Low,EMEA,United Kingdom,United Kingdom - All,$100.00,160.00
+P3U8422,Post Silicon Validation,L3,Low,EMEA,United Kingdom,United Kingdom - All,$110.00,160.00
+P4U8423,Post Silicon Validation,L4,Low,EMEA,United Kingdom,United Kingdom - All,$120.00,160.00
+P5U8424,Post Silicon Validation,L5,Low,EMEA,United Kingdom,United Kingdom - All,$140.00,160.00
+P1N7230,Post Silicon Validation,L1,Low,NA,United States,New York,$110.00,160.00
+P2N7231,Post Silicon Validation,L2,Low,NA,United States,New York,$130.00,160.00
+P3N7232,Post Silicon Validation,L3,Low,NA,United States,New York,$155.00,160.00
+P4N7233,Post Silicon Validation,L4,Low,NA,United States,New York,$175.00,160.00
+P5N7234,Post Silicon Validation,L5,Low,NA,United States,New York,$195.00,160.00
+P1T7400,Post Silicon Validation,L1,Low,NA,Canada,Toronto,NA,160.00
+P2T7401,Post Silicon Validation,L2,Low,NA,Canada,Toronto,NA,160.00
+P3T7402,Post Silicon Validation,L3,Low,NA,Canada,Toronto,NA,160.00
+P4T7403,Post Silicon Validation,L4,Low,NA,Canada,Toronto,NA,160.00
+P5T7404,Post Silicon Validation,L5,Low,NA,Canada,Toronto,NA,160.00
+P1B9100,Post Silicon Validation,L1,Medium,LatAm,Brazil,Brazil,NA,160.00
+P2B9101,Post Silicon Validation,L2,Medium,LatAm,Brazil,Brazil,NA,160.00
+P3B9102,Post Silicon Validation,L3,Medium,LatAm,Brazil,Brazil,NA,160.00
+P4B9103,Post Silicon Validation,L4,Medium,LatAm,Brazil,Brazil,NA,160.00
+P5B9104,Post Silicon Validation,L5,Medium,LatAm,Brazil,Brazil,NA,160.00
+P1G8930,Post Silicon Validation,L1,Medium,EMEA,Germany,Germany - All,NA,160.00
+P2G8931,Post Silicon Validation,L2,Medium,EMEA,Germany,Germany - All,NA,160.00
+P3G8932,Post Silicon Validation,L3,Medium,EMEA,Germany,Germany - All,NA,160.00
+P4G8933,Post Silicon Validation,L4,Medium,EMEA,Germany,Germany - All,NA,160.00
+P5G8934,Post Silicon Validation,L5,Medium,EMEA,Germany,Germany - All,NA,160.00
+P1C7570,Post Silicon Validation,L1,Medium,APAC,India,Chennai,$27.00,180.00
+P2C7571,Post Silicon Validation,L2,Medium,APAC,India,Chennai,$33.00,180.00
+P3C7572,Post Silicon Validation,L3,Medium,APAC,India,Chennai,$36.00,180.00
+P4C7573,Post Silicon Validation,L4,Medium,APAC,India,Chennai,$40.00,180.00
+P5C7574,Post Silicon Validation,L5,Medium,APAC,India,Chennai,$44.00,180.00
+P1H7655,Post Silicon Validation,L1,Medium,APAC,India,Hyderabad,$27.00,180.00
+P2H7656,Post Silicon Validation,L2,Medium,APAC,India,Hyderabad,$33.00,180.00
+P3H7657,Post Silicon Validation,L3,Medium,APAC,India,Hyderabad,$36.00,180.00
+P4H7658,Post Silicon Validation,L4,Medium,APAC,India,Hyderabad,$40.00,180.00
+P5H7659,Post Silicon Validation,L5,Medium,APAC,India,Hyderabad,$44.00,180.00
+P1M7740,Post Silicon Validation,L1,Medium,APAC,India,Mumbai,$27.00,180.00
+P2M7741,Post Silicon Validation,L2,Medium,APAC,India,Mumbai,$33.00,180.00
+P3M7742,Post Silicon Validation,L3,Medium,APAC,India,Mumbai,$36.00,180.00
+P4M7743,Post Silicon Validation,L4,Medium,APAC,India,Mumbai,$40.00,180.00
+P5M7744,Post Silicon Validation,L5,Medium,APAC,India,Mumbai,$44.00,180.00
+P1N7825,Post Silicon Validation,L1,Medium,APAC,India,New Delhi,$27.00,180.00
+P2N7826,Post Silicon Validation,L2,Medium,APAC,India,New Delhi,$33.00,180.00
+P3N7827,Post Silicon Validation,L3,Medium,APAC,India,New Delhi,$36.00,180.00
+P4N7828,Post Silicon Validation,L4,Medium,APAC,India,New Delhi,$40.00,180.00
+P5N7829,Post Silicon Validation,L5,Medium,APAC,India,New Delhi,$44.00,180.00
+P1P7910,Post Silicon Validation,L1,Medium,APAC,India,Pune,$27.00,180.00
+P2P7911,Post Silicon Validation,L2,Medium,APAC,India,Pune,$33.00,180.00
+P3P7912,Post Silicon Validation,L3,Medium,APAC,India,Pune,$36.00,180.00
+P4P7913,Post Silicon Validation,L4,Medium,APAC,India,Pune,$40.00,180.00
+P5P7914,Post Silicon Validation,L5,Medium,APAC,India,Pune,$44.00,180.00
+P1P9015,Post Silicon Validation,L1,Medium,EMEA,Poland,Poland - All,NA,160.00
+P2P9016,Post Silicon Validation,L2,Medium,EMEA,Poland,Poland - All,NA,160.00
+P3P9017,Post Silicon Validation,L3,Medium,EMEA,Poland,Poland - All,NA,160.00
+P4P9018,Post Silicon Validation,L4,Medium,EMEA,Poland,Poland - All,NA,160.00
+P5P9019,Post Silicon Validation,L5,Medium,EMEA,Poland,Poland - All,NA,160.00
+P1T7315,Post Silicon Validation,L1,Medium,NA,United States,Texas,$102.00,160.00
+P2T7316,Post Silicon Validation,L2,Medium,NA,United States,Texas,$120.00,160.00
+P3T7317,Post Silicon Validation,L3,Medium,NA,United States,Texas,$150.00,160.00
+P4T7318,Post Silicon Validation,L4,Medium,NA,United States,Texas,$165.00,160.00
+P5T7319,Post Silicon Validation,L5,Medium,NA,United States,Texas,$180.00,160.00
+P1U7485,Post Silicon Validation,L1,Medium,NA,United States,US - Other,$102.00,160.00
+P2U7486,Post Silicon Validation,L2,Medium,NA,United States,US - Other,$120.00,160.00
+P3U7487,Post Silicon Validation,L3,Medium,NA,United States,US - Other,$150.00,160.00
+P4U7488,Post Silicon Validation,L4,Medium,NA,United States,US - Other,$165.00,160.00
+P5U7489,Post Silicon Validation,L5,Medium,NA,United States,US - Other,$180.00,160.00
+R1B8825,RTL Design,L1,High,APAC,India,Bangalore,$27.00,180.00
+R2B8826,RTL Design,L2,High,APAC,India,Bangalore,$33.00,180.00
+R3B8827,RTL Design,L3,High,APAC,India,Bangalore,$36.00,180.00
+R4B8828,RTL Design,L4,High,APAC,India,Bangalore,$40.00,180.00
+R5B8829,RTL Design,L5,High,APAC,India,Bangalore,$44.00,180.00
+R1T7040,RTL Design,L1,High,APAC,Taiwan,Taiwan - All,$44.00,160.00
+R2T7041,RTL Design,L2,High,APAC,Taiwan,Taiwan - All,$48.00,160.00
+R3T7042,RTL Design,L3,High,APAC,Taiwan,Taiwan - All,$55.00,160.00
+R4T7043,RTL Design,L4,High,APAC,Taiwan,Taiwan - All,$68.00,160.00
+R5T7044,RTL Design,L5,High,APAC,Taiwan,Taiwan - All,$75.00,160.00
+R1C7125,RTL Design,L1,High,NA,United States,California,$110.00,160.00
+R2C7126,RTL Design,L2,High,NA,United States,California,$130.00,160.00
+R3C7127,RTL Design,L3,High,NA,United States,California,$155.00,160.00
+R4C7128,RTL Design,L4,High,NA,United States,California,$175.00,160.00
+R5C7129,RTL Design,L5,High,NA,United States,California,$195.00,160.00
+R1B7975,RTL Design,L1,Low,EMEA,Belgium,Belgium - All,NA,160.00
+R2B7976,RTL Design,L2,Low,EMEA,Belgium,Belgium - All,NA,160.00
+R3B7977,RTL Design,L3,Low,EMEA,Belgium,Belgium - All,NA,160.00
+R4B7978,RTL Design,L4,Low,EMEA,Belgium,Belgium - All,NA,160.00
+R5B7979,RTL Design,L5,Low,EMEA,Belgium,Belgium - All,NA,160.00
+R1C8655,RTL Design,L1,Low,LatAm,Chile,Chile - All,NA,160.00
+R2C8656,RTL Design,L2,Low,LatAm,Chile,Chile - All,NA,160.00
+R3C8657,RTL Design,L3,Low,LatAm,Chile,Chile - All,NA,160.00
+R4C8658,RTL Design,L4,Low,LatAm,Chile,Chile - All,NA,160.00
+R5C8659,RTL Design,L5,Low,LatAm,Chile,Chile - All,NA,160.00
+R1F8060,RTL Design,L1,Low,EMEA,France,France - All,NA,160.00
+R2F8061,RTL Design,L2,Low,EMEA,France,France - All,NA,160.00
+R3F8062,RTL Design,L3,Low,EMEA,France,France - All,NA,160.00
+R4F8063,RTL Design,L4,Low,EMEA,France,France - All,NA,160.00
+R5F8064,RTL Design,L5,Low,EMEA,France,France - All,NA,160.00
+R1M8740,RTL Design,L1,Low,NA,Mexico,Mexico - All,NA,160.00
+R2M8741,RTL Design,L2,Low,NA,Mexico,Mexico - All,NA,160.00
+R3M8742,RTL Design,L3,Low,NA,Mexico,Mexico - All,NA,160.00
+R4M8743,RTL Design,L4,Low,NA,Mexico,Mexico - All,NA,160.00
+R5M8744,RTL Design,L5,Low,NA,Mexico,Mexico - All,NA,160.00
+R1N8145,RTL Design,L1,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+R2N8146,RTL Design,L2,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+R3N8147,RTL Design,L3,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+R4N8148,RTL Design,L4,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+R5N8149,RTL Design,L5,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+R1P8230,RTL Design,L1,Low,EMEA,Portugal,Portugal - All,NA,160.00
+R2P8231,RTL Design,L2,Low,EMEA,Portugal,Portugal - All,NA,160.00
+R3P8232,RTL Design,L3,Low,EMEA,Portugal,Portugal - All,NA,160.00
+R4P8233,RTL Design,L4,Low,EMEA,Portugal,Portugal - All,NA,160.00
+R5P8234,RTL Design,L5,Low,EMEA,Portugal,Portugal - All,NA,160.00
+R1R8485,RTL Design,L1,Low,EMEA,Romania,Romania - All,NA,160.00
+R2R8486,RTL Design,L2,Low,EMEA,Romania,Romania - All,NA,160.00
+R3R8487,RTL Design,L3,Low,EMEA,Romania,Romania - All,NA,160.00
+R4R8488,RTL Design,L4,Low,EMEA,Romania,Romania - All,NA,160.00
+R5R8489,RTL Design,L5,Low,EMEA,Romania,Romania - All,NA,160.00
+R1S8315,RTL Design,L1,Low,EMEA,Spain,Spain - All,NA,160.00
+R2S8316,RTL Design,L2,Low,EMEA,Spain,Spain - All,NA,160.00
+R3S8317,RTL Design,L3,Low,EMEA,Spain,Spain - All,NA,160.00
+R4S8318,RTL Design,L4,Low,EMEA,Spain,Spain - All,NA,160.00
+R5S8319,RTL Design,L5,Low,EMEA,Spain,Spain - All,NA,160.00
+R1U8570,RTL Design,L1,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+R2U8571,RTL Design,L2,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+R3U8572,RTL Design,L3,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+R4U8573,RTL Design,L4,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+R5U8574,RTL Design,L5,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+R1U8400,RTL Design,L1,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+R2U8401,RTL Design,L2,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+R3U8402,RTL Design,L3,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+R4U8403,RTL Design,L4,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+R5U8404,RTL Design,L5,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+R1N7210,RTL Design,L1,Low,NA,United States,New York,$110.00,160.00
+R2N7211,RTL Design,L2,Low,NA,United States,New York,$130.00,160.00
+R3N7212,RTL Design,L3,Low,NA,United States,New York,$155.00,160.00
+R4N7213,RTL Design,L4,Low,NA,United States,New York,$175.00,160.00
+R5N7214,RTL Design,L5,Low,NA,United States,New York,$195.00,160.00
+R1T7380,RTL Design,L1,Low,NA,Canada,Toronto,$98.00,160.00
+R2T7381,RTL Design,L2,Low,NA,Canada,Toronto,$115.00,160.00
+R3T7382,RTL Design,L3,Low,NA,Canada,Toronto,$130.00,160.00
+R4T7383,RTL Design,L4,Low,NA,Canada,Toronto,$145.00,160.00
+R5T7384,RTL Design,L5,Low,NA,Canada,Toronto,$165.00,160.00
+R1B9080,RTL Design,L1,Medium,LatAm,Brazil,Brazil,NA,160.00
+R2B9081,RTL Design,L2,Medium,LatAm,Brazil,Brazil,NA,160.00
+R3B9082,RTL Design,L3,Medium,LatAm,Brazil,Brazil,NA,160.00
+R4B9083,RTL Design,L4,Medium,LatAm,Brazil,Brazil,NA,160.00
+R5B9084,RTL Design,L5,Medium,LatAm,Brazil,Brazil,NA,160.00
+R1G8910,RTL Design,L1,Medium,EMEA,Germany,Germany - All,NA,160.00
+R2G8911,RTL Design,L2,Medium,EMEA,Germany,Germany - All,NA,160.00
+R3G8912,RTL Design,L3,Medium,EMEA,Germany,Germany - All,NA,160.00
+R4G8913,RTL Design,L4,Medium,EMEA,Germany,Germany - All,NA,160.00
+R5G8914,RTL Design,L5,Medium,EMEA,Germany,Germany - All,NA,160.00
+R1C7550,RTL Design,L1,Medium,APAC,India,Chennai,$27.00,180.00
+R2C7551,RTL Design,L2,Medium,APAC,India,Chennai,$33.00,180.00
+R3C7552,RTL Design,L3,Medium,APAC,India,Chennai,$36.00,180.00
+R4C7553,RTL Design,L4,Medium,APAC,India,Chennai,$40.00,180.00
+R5C7554,RTL Design,L5,Medium,APAC,India,Chennai,$44.00,180.00
+R1H7635,RTL Design,L1,Medium,APAC,India,Hyderabad,$27.00,180.00
+R2H7636,RTL Design,L2,Medium,APAC,India,Hyderabad,$33.00,180.00
+R3H7637,RTL Design,L3,Medium,APAC,India,Hyderabad,$36.00,180.00
+R4H7638,RTL Design,L4,Medium,APAC,India,Hyderabad,$40.00,180.00
+R5H7639,RTL Design,L5,Medium,APAC,India,Hyderabad,$44.00,180.00
+R1M7720,RTL Design,L1,Medium,APAC,India,Mumbai,$27.00,180.00
+R2M7721,RTL Design,L2,Medium,APAC,India,Mumbai,$33.00,180.00
+R3M7722,RTL Design,L3,Medium,APAC,India,Mumbai,$36.00,180.00
+R4M7723,RTL Design,L4,Medium,APAC,India,Mumbai,$40.00,180.00
+R5M7724,RTL Design,L5,Medium,APAC,India,Mumbai,$44.00,180.00
+R1N7805,RTL Design,L1,Medium,APAC,India,New Delhi,$27.00,180.00
+R2N7806,RTL Design,L2,Medium,APAC,India,New Delhi,$33.00,180.00
+R3N7807,RTL Design,L3,Medium,APAC,India,New Delhi,$36.00,180.00
+R4N7808,RTL Design,L4,Medium,APAC,India,New Delhi,$40.00,180.00
+R5N7809,RTL Design,L5,Medium,APAC,India,New Delhi,$44.00,180.00
+R1P7890,RTL Design,L1,Medium,APAC,India,Pune,$27.00,180.00
+R2P7891,RTL Design,L2,Medium,APAC,India,Pune,$33.00,180.00
+R3P7892,RTL Design,L3,Medium,APAC,India,Pune,$36.00,180.00
+R4P7893,RTL Design,L4,Medium,APAC,India,Pune,$40.00,180.00
+R5P7894,RTL Design,L5,Medium,APAC,India,Pune,$44.00,180.00
+R1P8995,RTL Design,L1,Medium,EMEA,Poland,Poland - All,NA,160.00
+R2P8996,RTL Design,L2,Medium,EMEA,Poland,Poland - All,NA,160.00
+R3P8997,RTL Design,L3,Medium,EMEA,Poland,Poland - All,NA,160.00
+R4P8998,RTL Design,L4,Medium,EMEA,Poland,Poland - All,NA,160.00
+R5P8999,RTL Design,L5,Medium,EMEA,Poland,Poland - All,NA,160.00
+R1T7295,RTL Design,L1,Medium,NA,United States,Texas,$102.00,160.00
+R2T7296,RTL Design,L2,Medium,NA,United States,Texas,$120.00,160.00
+R3T7297,RTL Design,L3,Medium,NA,United States,Texas,$150.00,160.00
+R4T7298,RTL Design,L4,Medium,NA,United States,Texas,$165.00,160.00
+R5T7299,RTL Design,L5,Medium,NA,United States,Texas,$180.00,160.00
+R1U7465,RTL Design,L1,Medium,NA,United States,US - Other,$102.00,160.00
+R2U7466,RTL Design,L2,Medium,NA,United States,US - Other,$120.00,160.00
+R3U7467,RTL Design,L3,Medium,NA,United States,US - Other,$150.00,160.00
+R4U7468,RTL Design,L4,Medium,NA,United States,US - Other,$165.00,160.00
+R5U7469,RTL Design,L5,Medium,NA,United States,US - Other,$180.00,160.00
+S1B8865,Silicon - Lab Technical Admin Services,L1,High,APAC,India,Bangalore,$27.00,180.00
+S2B8866,Silicon - Lab Technical Admin Services,L2,High,APAC,India,Bangalore,$33.00,180.00
+S3B8867,Silicon - Lab Technical Admin Services,L3,High,APAC,India,Bangalore,$36.00,180.00
+S4B8868,Silicon - Lab Technical Admin Services,L4,High,APAC,India,Bangalore,$40.00,180.00
+S5B8869,Silicon - Lab Technical Admin Services,L5,High,APAC,India,Bangalore,$44.00,180.00
+S1T7080,Silicon - Lab Technical Admin Services,L1,High,APAC,Taiwan,Taiwan - All,$40.00,160.00
+S2T7081,Silicon - Lab Technical Admin Services,L2,High,APAC,Taiwan,Taiwan - All,$45.00,160.00
+S3T7082,Silicon - Lab Technical Admin Services,L3,High,APAC,Taiwan,Taiwan - All,$50.00,160.00
+S4T7083,Silicon - Lab Technical Admin Services,L4,High,APAC,Taiwan,Taiwan - All,$56.00,160.00
+S5T7084,Silicon - Lab Technical Admin Services,L5,High,APAC,Taiwan,Taiwan - All,$65.00,160.00
+S1C7165,Silicon - Lab Technical Admin Services,L1,High,NA,United States,California,$110.00,160.00
+S2C7166,Silicon - Lab Technical Admin Services,L2,High,NA,United States,California,$130.00,160.00
+S3C7167,Silicon - Lab Technical Admin Services,L3,High,NA,United States,California,$155.00,160.00
+S4C7168,Silicon - Lab Technical Admin Services,L4,High,NA,United States,California,$175.00,160.00
+S5C7169,Silicon - Lab Technical Admin Services,L5,High,NA,United States,California,$195.00,160.00
+S1B8015,Silicon - Lab Technical Admin Services,L1,Low,EMEA,Belgium,Belgium - All,NA,160.00
+S2B8016,Silicon - Lab Technical Admin Services,L2,Low,EMEA,Belgium,Belgium - All,NA,160.00
+S3B8017,Silicon - Lab Technical Admin Services,L3,Low,EMEA,Belgium,Belgium - All,NA,160.00
+S4B8018,Silicon - Lab Technical Admin Services,L4,Low,EMEA,Belgium,Belgium - All,NA,160.00
+S5B8019,Silicon - Lab Technical Admin Services,L5,Low,EMEA,Belgium,Belgium - All,NA,160.00
+S1C8695,Silicon - Lab Technical Admin Services,L1,Low,LatAm,Chile,Chile - All,NA,160.00
+S2C8696,Silicon - Lab Technical Admin Services,L2,Low,LatAm,Chile,Chile - All,NA,160.00
+S3C8697,Silicon - Lab Technical Admin Services,L3,Low,LatAm,Chile,Chile - All,NA,160.00
+S4C8698,Silicon - Lab Technical Admin Services,L4,Low,LatAm,Chile,Chile - All,NA,160.00
+S5C8699,Silicon - Lab Technical Admin Services,L5,Low,LatAm,Chile,Chile - All,NA,160.00
+S1F8100,Silicon - Lab Technical Admin Services,L1,Low,EMEA,France,France - All,$93.00,160.00
+S2F8101,Silicon - Lab Technical Admin Services,L2,Low,EMEA,France,France - All,$106.12,160.00
+S3F8102,Silicon - Lab Technical Admin Services,L3,Low,EMEA,France,France - All,$123.10,160.00
+S4F8103,Silicon - Lab Technical Admin Services,L4,Low,EMEA,France,France - All,$150.39,160.00
+S5F8104,Silicon - Lab Technical Admin Services,L5,Low,EMEA,France,France - All,$178.35,160.00
+S1M8780,Silicon - Lab Technical Admin Services,L1,Low,NA,Mexico,Mexico - All,NA,160.00
+S2M8781,Silicon - Lab Technical Admin Services,L2,Low,NA,Mexico,Mexico - All,NA,160.00
+S3M8782,Silicon - Lab Technical Admin Services,L3,Low,NA,Mexico,Mexico - All,NA,160.00
+S4M8783,Silicon - Lab Technical Admin Services,L4,Low,NA,Mexico,Mexico - All,NA,160.00
+S5M8784,Silicon - Lab Technical Admin Services,L5,Low,NA,Mexico,Mexico - All,NA,160.00
+S1N8185,Silicon - Lab Technical Admin Services,L1,Low,EMEA,Netherlands,Netherlands - All,$75.00,160.00
+S2N8186,Silicon - Lab Technical Admin Services,L2,Low,EMEA,Netherlands,Netherlands - All,$85.00,160.00
+S3N8187,Silicon - Lab Technical Admin Services,L3,Low,EMEA,Netherlands,Netherlands - All,$100.00,160.00
+S4N8188,Silicon - Lab Technical Admin Services,L4,Low,EMEA,Netherlands,Netherlands - All,$120.00,160.00
+S5N8189,Silicon - Lab Technical Admin Services,L5,Low,EMEA,Netherlands,Netherlands - All,$130.00,160.00
+S1P8270,Silicon - Lab Technical Admin Services,L1,Low,EMEA,Portugal,Portugal - All,NA,160.00
+S2P8271,Silicon - Lab Technical Admin Services,L2,Low,EMEA,Portugal,Portugal - All,NA,160.00
+S3P8272,Silicon - Lab Technical Admin Services,L3,Low,EMEA,Portugal,Portugal - All,NA,160.00
+S4P8273,Silicon - Lab Technical Admin Services,L4,Low,EMEA,Portugal,Portugal - All,NA,160.00
+S5P8274,Silicon - Lab Technical Admin Services,L5,Low,EMEA,Portugal,Portugal - All,NA,160.00
+S1R8525,Silicon - Lab Technical Admin Services,L1,Low,EMEA,Romania,Romania - All,NA,160.00
+S2R8526,Silicon - Lab Technical Admin Services,L2,Low,EMEA,Romania,Romania - All,NA,160.00
+S3R8527,Silicon - Lab Technical Admin Services,L3,Low,EMEA,Romania,Romania - All,NA,160.00
+S4R8528,Silicon - Lab Technical Admin Services,L4,Low,EMEA,Romania,Romania - All,NA,160.00
+S5R8529,Silicon - Lab Technical Admin Services,L5,Low,EMEA,Romania,Romania - All,NA,160.00
+S1S8355,Silicon - Lab Technical Admin Services,L1,Low,EMEA,Spain,Spain - All,NA,160.00
+S2S8356,Silicon - Lab Technical Admin Services,L2,Low,EMEA,Spain,Spain - All,NA,160.00
+S3S8357,Silicon - Lab Technical Admin Services,L3,Low,EMEA,Spain,Spain - All,NA,160.00
+S4S8358,Silicon - Lab Technical Admin Services,L4,Low,EMEA,Spain,Spain - All,NA,160.00
+S5S8359,Silicon - Lab Technical Admin Services,L5,Low,EMEA,Spain,Spain - All,NA,160.00
+S1U8610,Silicon - Lab Technical Admin Services,L1,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+S2U8611,Silicon - Lab Technical Admin Services,L2,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+S3U8612,Silicon - Lab Technical Admin Services,L3,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+S4U8613,Silicon - Lab Technical Admin Services,L4,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+S5U8614,Silicon - Lab Technical Admin Services,L5,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+S1U8440,Silicon - Lab Technical Admin Services,L1,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+S2U8441,Silicon - Lab Technical Admin Services,L2,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+S3U8442,Silicon - Lab Technical Admin Services,L3,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+S4U8443,Silicon - Lab Technical Admin Services,L4,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+S5U8444,Silicon - Lab Technical Admin Services,L5,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+S1N7250,Silicon - Lab Technical Admin Services,L1,Low,NA,United States,New York,$110.00,160.00
+S2N7251,Silicon - Lab Technical Admin Services,L2,Low,NA,United States,New York,$130.00,160.00
+S3N7252,Silicon - Lab Technical Admin Services,L3,Low,NA,United States,New York,$155.00,160.00
+S4N7253,Silicon - Lab Technical Admin Services,L4,Low,NA,United States,New York,$175.00,160.00
+S5N7254,Silicon - Lab Technical Admin Services,L5,Low,NA,United States,New York,$195.00,160.00
+S1T7420,Silicon - Lab Technical Admin Services,L1,Low,NA,Canada,Toronto,$98.00,160.00
+S2T7421,Silicon - Lab Technical Admin Services,L2,Low,NA,Canada,Toronto,$115.00,160.00
+S3T7422,Silicon - Lab Technical Admin Services,L3,Low,NA,Canada,Toronto,$130.00,160.00
+S4T7423,Silicon - Lab Technical Admin Services,L4,Low,NA,Canada,Toronto,$145.00,160.00
+S5T7424,Silicon - Lab Technical Admin Services,L5,Low,NA,Canada,Toronto,$165.00,160.00
+S1B9120,Silicon - Lab Technical Admin Services,L1,Medium,LatAm,Brazil,Brazil,NA,160.00
+S2B9121,Silicon - Lab Technical Admin Services,L2,Medium,LatAm,Brazil,Brazil,NA,160.00
+S3B9122,Silicon - Lab Technical Admin Services,L3,Medium,LatAm,Brazil,Brazil,NA,160.00
+S4B9123,Silicon - Lab Technical Admin Services,L4,Medium,LatAm,Brazil,Brazil,NA,160.00
+S5B9124,Silicon - Lab Technical Admin Services,L5,Medium,LatAm,Brazil,Brazil,NA,160.00
+S1G8950,Silicon - Lab Technical Admin Services,L1,Medium,EMEA,Germany,Germany - All,$84.84,160.00
+S2G8951,Silicon - Lab Technical Admin Services,L2,Medium,EMEA,Germany,Germany - All,$96.05,160.00
+S3G8952,Silicon - Lab Technical Admin Services,L3,Medium,EMEA,Germany,Germany - All,$104.69,160.00
+S4G8953,Silicon - Lab Technical Admin Services,L4,Medium,EMEA,Germany,Germany - All,$120.11,160.00
+S5G8954,Silicon - Lab Technical Admin Services,L5,Medium,EMEA,Germany,Germany - All,$136.58,160.00
+S1C7590,Silicon - Lab Technical Admin Services,L1,Medium,APAC,India,Chennai,$27.00,180.00
+S2C7591,Silicon - Lab Technical Admin Services,L2,Medium,APAC,India,Chennai,$33.00,180.00
+S3C7592,Silicon - Lab Technical Admin Services,L3,Medium,APAC,India,Chennai,$36.00,180.00
+S4C7593,Silicon - Lab Technical Admin Services,L4,Medium,APAC,India,Chennai,$40.00,180.00
+S5C7594,Silicon - Lab Technical Admin Services,L5,Medium,APAC,India,Chennai,$44.00,180.00
+S1H7675,Silicon - Lab Technical Admin Services,L1,Medium,APAC,India,Hyderabad,$27.00,180.00
+S2H7676,Silicon - Lab Technical Admin Services,L2,Medium,APAC,India,Hyderabad,$33.00,180.00
+S3H7677,Silicon - Lab Technical Admin Services,L3,Medium,APAC,India,Hyderabad,$36.00,180.00
+S4H7678,Silicon - Lab Technical Admin Services,L4,Medium,APAC,India,Hyderabad,$40.00,180.00
+S5H7679,Silicon - Lab Technical Admin Services,L5,Medium,APAC,India,Hyderabad,$44.00,180.00
+S1M7760,Silicon - Lab Technical Admin Services,L1,Medium,APAC,India,Mumbai,$27.00,180.00
+S2M7761,Silicon - Lab Technical Admin Services,L2,Medium,APAC,India,Mumbai,$33.00,180.00
+S3M7762,Silicon - Lab Technical Admin Services,L3,Medium,APAC,India,Mumbai,$36.00,180.00
+S4M7763,Silicon - Lab Technical Admin Services,L4,Medium,APAC,India,Mumbai,$40.00,180.00
+S5M7764,Silicon - Lab Technical Admin Services,L5,Medium,APAC,India,Mumbai,$44.00,180.00
+S1N7845,Silicon - Lab Technical Admin Services,L1,Medium,APAC,India,New Delhi,$27.00,180.00
+S2N7846,Silicon - Lab Technical Admin Services,L2,Medium,APAC,India,New Delhi,$33.00,180.00
+S3N7847,Silicon - Lab Technical Admin Services,L3,Medium,APAC,India,New Delhi,$36.00,180.00
+S4N7848,Silicon - Lab Technical Admin Services,L4,Medium,APAC,India,New Delhi,$40.00,180.00
+S5N7849,Silicon - Lab Technical Admin Services,L5,Medium,APAC,India,New Delhi,$44.00,180.00
+S1P7930,Silicon - Lab Technical Admin Services,L1,Medium,APAC,India,Pune,$27.00,180.00
+S2P7931,Silicon - Lab Technical Admin Services,L2,Medium,APAC,India,Pune,$33.00,180.00
+S3P7932,Silicon - Lab Technical Admin Services,L3,Medium,APAC,India,Pune,$36.00,180.00
+S4P7933,Silicon - Lab Technical Admin Services,L4,Medium,APAC,India,Pune,$40.00,180.00
+S5P7934,Silicon - Lab Technical Admin Services,L5,Medium,APAC,India,Pune,$44.00,180.00
+S1P9035,Silicon - Lab Technical Admin Services,L1,Medium,EMEA,Poland,Poland - All,NA,160.00
+S2P9036,Silicon - Lab Technical Admin Services,L2,Medium,EMEA,Poland,Poland - All,NA,160.00
+S3P9037,Silicon - Lab Technical Admin Services,L3,Medium,EMEA,Poland,Poland - All,NA,160.00
+S4P9038,Silicon - Lab Technical Admin Services,L4,Medium,EMEA,Poland,Poland - All,NA,160.00
+S5P9039,Silicon - Lab Technical Admin Services,L5,Medium,EMEA,Poland,Poland - All,NA,160.00
+S1T7335,Silicon - Lab Technical Admin Services,L1,Medium,NA,United States,Texas,$102.00,160.00
+S2T7336,Silicon - Lab Technical Admin Services,L2,Medium,NA,United States,Texas,$120.00,160.00
+S3T7337,Silicon - Lab Technical Admin Services,L3,Medium,NA,United States,Texas,$150.00,160.00
+S4T7338,Silicon - Lab Technical Admin Services,L4,Medium,NA,United States,Texas,$165.00,160.00
+S5T7339,Silicon - Lab Technical Admin Services,L5,Medium,NA,United States,Texas,$180.00,160.00
+S1U7505,Silicon - Lab Technical Admin Services,L1,Medium,NA,United States,US - Other,$102.00,160.00
+S2U7506,Silicon - Lab Technical Admin Services,L2,Medium,NA,United States,US - Other,$120.00,160.00
+S3U7507,Silicon - Lab Technical Admin Services,L3,Medium,NA,United States,US - Other,$150.00,160.00
+S4U7508,Silicon - Lab Technical Admin Services,L4,Medium,NA,United States,US - Other,$165.00,160.00
+S5U7509,Silicon - Lab Technical Admin Services,L5,Medium,NA,United States,US - Other,$180.00,160.00
+S1B8855,Silicon Testing - Hardware,L1,High,APAC,India,Bangalore,$27.00,180.00
+S2B8856,Silicon Testing - Hardware,L2,High,APAC,India,Bangalore,$33.00,180.00
+S3B8857,Silicon Testing - Hardware,L3,High,APAC,India,Bangalore,$36.00,180.00
+S4B8858,Silicon Testing - Hardware,L4,High,APAC,India,Bangalore,$40.00,180.00
+S5B8859,Silicon Testing - Hardware,L5,High,APAC,India,Bangalore,$44.00,180.00
+S1T7070,Silicon Testing - Hardware,L1,High,APAC,Taiwan,Taiwan - All,$40.00,160.00
+S2T7071,Silicon Testing - Hardware,L2,High,APAC,Taiwan,Taiwan - All,$45.00,160.00
+S3T7072,Silicon Testing - Hardware,L3,High,APAC,Taiwan,Taiwan - All,$50.00,160.00
+S4T7073,Silicon Testing - Hardware,L4,High,APAC,Taiwan,Taiwan - All,$56.00,160.00
+S5T7074,Silicon Testing - Hardware,L5,High,APAC,Taiwan,Taiwan - All,$65.00,160.00
+S1C7155,Silicon Testing - Hardware,L1,High,NA,United States,California,$110.00,160.00
+S2C7156,Silicon Testing - Hardware,L2,High,NA,United States,California,$130.00,160.00
+S3C7157,Silicon Testing - Hardware,L3,High,NA,United States,California,$155.00,160.00
+S4C7158,Silicon Testing - Hardware,L4,High,NA,United States,California,$175.00,160.00
+S5C7159,Silicon Testing - Hardware,L5,High,NA,United States,California,$195.00,160.00
+S1B8005,Silicon Testing - Hardware,L1,Low,EMEA,Belgium,Belgium - All,NA,160.00
+S2B8006,Silicon Testing - Hardware,L2,Low,EMEA,Belgium,Belgium - All,NA,160.00
+S3B8007,Silicon Testing - Hardware,L3,Low,EMEA,Belgium,Belgium - All,NA,160.00
+S4B8008,Silicon Testing - Hardware,L4,Low,EMEA,Belgium,Belgium - All,NA,160.00
+S5B8009,Silicon Testing - Hardware,L5,Low,EMEA,Belgium,Belgium - All,NA,160.00
+S1C8685,Silicon Testing - Hardware,L1,Low,LatAm,Chile,Chile - All,NA,160.00
+S2C8686,Silicon Testing - Hardware,L2,Low,LatAm,Chile,Chile - All,NA,160.00
+S3C8687,Silicon Testing - Hardware,L3,Low,LatAm,Chile,Chile - All,NA,160.00
+S4C8688,Silicon Testing - Hardware,L4,Low,LatAm,Chile,Chile - All,NA,160.00
+S5C8689,Silicon Testing - Hardware,L5,Low,LatAm,Chile,Chile - All,NA,160.00
+S1F8090,Silicon Testing - Hardware,L1,Low,EMEA,France,France - All,NA,160.00
+S2F8091,Silicon Testing - Hardware,L2,Low,EMEA,France,France - All,NA,160.00
+S3F8092,Silicon Testing - Hardware,L3,Low,EMEA,France,France - All,NA,160.00
+S4F8093,Silicon Testing - Hardware,L4,Low,EMEA,France,France - All,NA,160.00
+S5F8094,Silicon Testing - Hardware,L5,Low,EMEA,France,France - All,NA,160.00
+S1M8770,Silicon Testing - Hardware,L1,Low,NA,Mexico,Mexico - All,NA,160.00
+S2M8771,Silicon Testing - Hardware,L2,Low,NA,Mexico,Mexico - All,NA,160.00
+S3M8772,Silicon Testing - Hardware,L3,Low,NA,Mexico,Mexico - All,NA,160.00
+S4M8773,Silicon Testing - Hardware,L4,Low,NA,Mexico,Mexico - All,NA,160.00
+S5M8774,Silicon Testing - Hardware,L5,Low,NA,Mexico,Mexico - All,NA,160.00
+S1N8175,Silicon Testing - Hardware,L1,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+S2N8176,Silicon Testing - Hardware,L2,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+S3N8177,Silicon Testing - Hardware,L3,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+S4N8178,Silicon Testing - Hardware,L4,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+S5N8179,Silicon Testing - Hardware,L5,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+S1P8260,Silicon Testing - Hardware,L1,Low,EMEA,Portugal,Portugal - All,NA,160.00
+S2P8261,Silicon Testing - Hardware,L2,Low,EMEA,Portugal,Portugal - All,NA,160.00
+S3P8262,Silicon Testing - Hardware,L3,Low,EMEA,Portugal,Portugal - All,NA,160.00
+S4P8263,Silicon Testing - Hardware,L4,Low,EMEA,Portugal,Portugal - All,NA,160.00
+S5P8264,Silicon Testing - Hardware,L5,Low,EMEA,Portugal,Portugal - All,NA,160.00
+S1R8515,Silicon Testing - Hardware,L1,Low,EMEA,Romania,Romania - All,NA,160.00
+S2R8516,Silicon Testing - Hardware,L2,Low,EMEA,Romania,Romania - All,NA,160.00
+S3R8517,Silicon Testing - Hardware,L3,Low,EMEA,Romania,Romania - All,NA,160.00
+S4R8518,Silicon Testing - Hardware,L4,Low,EMEA,Romania,Romania - All,NA,160.00
+S5R8519,Silicon Testing - Hardware,L5,Low,EMEA,Romania,Romania - All,NA,160.00
+S1S8345,Silicon Testing - Hardware,L1,Low,EMEA,Spain,Spain - All,NA,160.00
+S2S8346,Silicon Testing - Hardware,L2,Low,EMEA,Spain,Spain - All,NA,160.00
+S3S8347,Silicon Testing - Hardware,L3,Low,EMEA,Spain,Spain - All,NA,160.00
+S4S8348,Silicon Testing - Hardware,L4,Low,EMEA,Spain,Spain - All,NA,160.00
+S5S8349,Silicon Testing - Hardware,L5,Low,EMEA,Spain,Spain - All,NA,160.00
+S1U8600,Silicon Testing - Hardware,L1,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+S2U8601,Silicon Testing - Hardware,L2,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+S3U8602,Silicon Testing - Hardware,L3,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+S4U8603,Silicon Testing - Hardware,L4,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+S5U8604,Silicon Testing - Hardware,L5,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+S1U8430,Silicon Testing - Hardware,L1,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+S2U8431,Silicon Testing - Hardware,L2,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+S3U8432,Silicon Testing - Hardware,L3,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+S4U8433,Silicon Testing - Hardware,L4,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+S5U8434,Silicon Testing - Hardware,L5,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+S1N7240,Silicon Testing - Hardware,L1,Low,NA,United States,New York,$110.00,160.00
+S2N7241,Silicon Testing - Hardware,L2,Low,NA,United States,New York,$130.00,160.00
+S3N7242,Silicon Testing - Hardware,L3,Low,NA,United States,New York,$155.00,160.00
+S4N7243,Silicon Testing - Hardware,L4,Low,NA,United States,New York,$175.00,160.00
+S5N7244,Silicon Testing - Hardware,L5,Low,NA,United States,New York,$195.00,160.00
+S1T7410,Silicon Testing - Hardware,L1,Low,NA,Canada,Toronto,$98.00,160.00
+S2T7411,Silicon Testing - Hardware,L2,Low,NA,Canada,Toronto,$115.00,160.00
+S3T7412,Silicon Testing - Hardware,L3,Low,NA,Canada,Toronto,$130.00,160.00
+S4T7413,Silicon Testing - Hardware,L4,Low,NA,Canada,Toronto,$145.00,160.00
+S5T7414,Silicon Testing - Hardware,L5,Low,NA,Canada,Toronto,$165.00,160.00
+S1B9110,Silicon Testing - Hardware,L1,Medium,LatAm,Brazil,Brazil,NA,160.00
+S2B9111,Silicon Testing - Hardware,L2,Medium,LatAm,Brazil,Brazil,NA,160.00
+S3B9112,Silicon Testing - Hardware,L3,Medium,LatAm,Brazil,Brazil,NA,160.00
+S4B9113,Silicon Testing - Hardware,L4,Medium,LatAm,Brazil,Brazil,NA,160.00
+S5B9114,Silicon Testing - Hardware,L5,Medium,LatAm,Brazil,Brazil,NA,160.00
+S1G8940,Silicon Testing - Hardware,L1,Medium,EMEA,Germany,Germany - All,NA,160.00
+S2G8941,Silicon Testing - Hardware,L2,Medium,EMEA,Germany,Germany - All,NA,160.00
+S3G8942,Silicon Testing - Hardware,L3,Medium,EMEA,Germany,Germany - All,NA,160.00
+S4G8943,Silicon Testing - Hardware,L4,Medium,EMEA,Germany,Germany - All,NA,160.00
+S5G8944,Silicon Testing - Hardware,L5,Medium,EMEA,Germany,Germany - All,NA,160.00
+S1C7580,Silicon Testing - Hardware,L1,Medium,APAC,India,Chennai,$27.00,180.00
+S2C7581,Silicon Testing - Hardware,L2,Medium,APAC,India,Chennai,$33.00,180.00
+S3C7582,Silicon Testing - Hardware,L3,Medium,APAC,India,Chennai,$36.00,180.00
+S4C7583,Silicon Testing - Hardware,L4,Medium,APAC,India,Chennai,$40.00,180.00
+S5C7584,Silicon Testing - Hardware,L5,Medium,APAC,India,Chennai,$44.00,180.00
+S1H7665,Silicon Testing - Hardware,L1,Medium,APAC,India,Hyderabad,$27.00,180.00
+S2H7666,Silicon Testing - Hardware,L2,Medium,APAC,India,Hyderabad,$33.00,180.00
+S3H7667,Silicon Testing - Hardware,L3,Medium,APAC,India,Hyderabad,$36.00,180.00
+S4H7668,Silicon Testing - Hardware,L4,Medium,APAC,India,Hyderabad,$40.00,180.00
+S5H7669,Silicon Testing - Hardware,L5,Medium,APAC,India,Hyderabad,$44.00,180.00
+S1M7750,Silicon Testing - Hardware,L1,Medium,APAC,India,Mumbai,$27.00,180.00
+S2M7751,Silicon Testing - Hardware,L2,Medium,APAC,India,Mumbai,$33.00,180.00
+S3M7752,Silicon Testing - Hardware,L3,Medium,APAC,India,Mumbai,$36.00,180.00
+S4M7753,Silicon Testing - Hardware,L4,Medium,APAC,India,Mumbai,$40.00,180.00
+S5M7754,Silicon Testing - Hardware,L5,Medium,APAC,India,Mumbai,$44.00,180.00
+S1N7835,Silicon Testing - Hardware,L1,Medium,APAC,India,New Delhi,$27.00,180.00
+S2N7836,Silicon Testing - Hardware,L2,Medium,APAC,India,New Delhi,$33.00,180.00
+S3N7837,Silicon Testing - Hardware,L3,Medium,APAC,India,New Delhi,$36.00,180.00
+S4N7838,Silicon Testing - Hardware,L4,Medium,APAC,India,New Delhi,$40.00,180.00
+S5N7839,Silicon Testing - Hardware,L5,Medium,APAC,India,New Delhi,$44.00,180.00
+S1P7920,Silicon Testing - Hardware,L1,Medium,APAC,India,Pune,$27.00,180.00
+S2P7921,Silicon Testing - Hardware,L2,Medium,APAC,India,Pune,$33.00,180.00
+S3P7922,Silicon Testing - Hardware,L3,Medium,APAC,India,Pune,$36.00,180.00
+S4P7923,Silicon Testing - Hardware,L4,Medium,APAC,India,Pune,$40.00,180.00
+S5P7924,Silicon Testing - Hardware,L5,Medium,APAC,India,Pune,$44.00,180.00
+S1P9025,Silicon Testing - Hardware,L1,Medium,EMEA,Poland,Poland - All,NA,160.00
+S2P9026,Silicon Testing - Hardware,L2,Medium,EMEA,Poland,Poland - All,NA,160.00
+S3P9027,Silicon Testing - Hardware,L3,Medium,EMEA,Poland,Poland - All,NA,160.00
+S4P9028,Silicon Testing - Hardware,L4,Medium,EMEA,Poland,Poland - All,NA,160.00
+S5P9029,Silicon Testing - Hardware,L5,Medium,EMEA,Poland,Poland - All,NA,160.00
+S1T7325,Silicon Testing - Hardware,L1,Medium,NA,United States,Texas,$102.00,160.00
+S2T7326,Silicon Testing - Hardware,L2,Medium,NA,United States,Texas,$120.00,160.00
+S3T7327,Silicon Testing - Hardware,L3,Medium,NA,United States,Texas,$150.00,160.00
+S4T7328,Silicon Testing - Hardware,L4,Medium,NA,United States,Texas,$165.00,160.00
+S5T7329,Silicon Testing - Hardware,L5,Medium,NA,United States,Texas,$180.00,160.00
+S1U7495,Silicon Testing - Hardware,L1,Medium,NA,United States,US - Other,$102.00,160.00
+S2U7496,Silicon Testing - Hardware,L2,Medium,NA,United States,US - Other,$120.00,160.00
+S3U7497,Silicon Testing - Hardware,L3,Medium,NA,United States,US - Other,$150.00,160.00
+S4U7498,Silicon Testing - Hardware,L4,Medium,NA,United States,US - Other,$165.00,160.00
+S5U7499,Silicon Testing - Hardware,L5,Medium,NA,United States,US - Other,$180.00,160.00
+S1B8860,Silicon Testing - Software,L1,High,APAC,India,Bangalore,$27.00,180.00
+S2B8861,Silicon Testing - Software,L2,High,APAC,India,Bangalore,$33.00,180.00
+S3B8862,Silicon Testing - Software,L3,High,APAC,India,Bangalore,$36.00,180.00
+S4B8863,Silicon Testing - Software,L4,High,APAC,India,Bangalore,$40.00,180.00
+S5B8864,Silicon Testing - Software,L5,High,APAC,India,Bangalore,$44.00,180.00
+S1T7075,Silicon Testing - Software,L1,High,APAC,Taiwan,Taiwan - All,$40.00,160.00
+S2T7076,Silicon Testing - Software,L2,High,APAC,Taiwan,Taiwan - All,$45.00,160.00
+S3T7077,Silicon Testing - Software,L3,High,APAC,Taiwan,Taiwan - All,$50.00,160.00
+S4T7078,Silicon Testing - Software,L4,High,APAC,Taiwan,Taiwan - All,$56.00,160.00
+S5T7079,Silicon Testing - Software,L5,High,APAC,Taiwan,Taiwan - All,$65.00,160.00
+S1C7160,Silicon Testing - Software,L1,High,NA,United States,California,$110.00,160.00
+S2C7161,Silicon Testing - Software,L2,High,NA,United States,California,$130.00,160.00
+S3C7162,Silicon Testing - Software,L3,High,NA,United States,California,$155.00,160.00
+S4C7163,Silicon Testing - Software,L4,High,NA,United States,California,$175.00,160.00
+S5C7164,Silicon Testing - Software,L5,High,NA,United States,California,$195.00,160.00
+S1B8010,Silicon Testing - Software,L1,Low,EMEA,Belgium,Belgium - All,NA,160.00
+S2B8011,Silicon Testing - Software,L2,Low,EMEA,Belgium,Belgium - All,NA,160.00
+S3B8012,Silicon Testing - Software,L3,Low,EMEA,Belgium,Belgium - All,NA,160.00
+S4B8013,Silicon Testing - Software,L4,Low,EMEA,Belgium,Belgium - All,NA,160.00
+S5B8014,Silicon Testing - Software,L5,Low,EMEA,Belgium,Belgium - All,NA,160.00
+S1C8690,Silicon Testing - Software,L1,Low,LatAm,Chile,Chile - All,NA,160.00
+S2C8691,Silicon Testing - Software,L2,Low,LatAm,Chile,Chile - All,NA,160.00
+S3C8692,Silicon Testing - Software,L3,Low,LatAm,Chile,Chile - All,NA,160.00
+S4C8693,Silicon Testing - Software,L4,Low,LatAm,Chile,Chile - All,NA,160.00
+S5C8694,Silicon Testing - Software,L5,Low,LatAm,Chile,Chile - All,NA,160.00
+S1F8095,Silicon Testing - Software,L1,Low,EMEA,France,France - All,NA,160.00
+S2F8096,Silicon Testing - Software,L2,Low,EMEA,France,France - All,NA,160.00
+S3F8097,Silicon Testing - Software,L3,Low,EMEA,France,France - All,NA,160.00
+S4F8098,Silicon Testing - Software,L4,Low,EMEA,France,France - All,NA,160.00
+S5F8099,Silicon Testing - Software,L5,Low,EMEA,France,France - All,NA,160.00
+S1M8775,Silicon Testing - Software,L1,Low,NA,Mexico,Mexico - All,NA,160.00
+S2M8776,Silicon Testing - Software,L2,Low,NA,Mexico,Mexico - All,NA,160.00
+S3M8777,Silicon Testing - Software,L3,Low,NA,Mexico,Mexico - All,NA,160.00
+S4M8778,Silicon Testing - Software,L4,Low,NA,Mexico,Mexico - All,NA,160.00
+S5M8779,Silicon Testing - Software,L5,Low,NA,Mexico,Mexico - All,NA,160.00
+S1N8180,Silicon Testing - Software,L1,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+S2N8181,Silicon Testing - Software,L2,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+S3N8182,Silicon Testing - Software,L3,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+S4N8183,Silicon Testing - Software,L4,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+S5N8184,Silicon Testing - Software,L5,Low,EMEA,Netherlands,Netherlands - All,NA,160.00
+S1P8265,Silicon Testing - Software,L1,Low,EMEA,Portugal,Portugal - All,NA,160.00
+S2P8266,Silicon Testing - Software,L2,Low,EMEA,Portugal,Portugal - All,NA,160.00
+S3P8267,Silicon Testing - Software,L3,Low,EMEA,Portugal,Portugal - All,NA,160.00
+S4P8268,Silicon Testing - Software,L4,Low,EMEA,Portugal,Portugal - All,NA,160.00
+S5P8269,Silicon Testing - Software,L5,Low,EMEA,Portugal,Portugal - All,NA,160.00
+S1R8520,Silicon Testing - Software,L1,Low,EMEA,Romania,Romania - All,NA,160.00
+S2R8521,Silicon Testing - Software,L2,Low,EMEA,Romania,Romania - All,NA,160.00
+S3R8522,Silicon Testing - Software,L3,Low,EMEA,Romania,Romania - All,NA,160.00
+S4R8523,Silicon Testing - Software,L4,Low,EMEA,Romania,Romania - All,NA,160.00
+S5R8524,Silicon Testing - Software,L5,Low,EMEA,Romania,Romania - All,NA,160.00
+S1S8350,Silicon Testing - Software,L1,Low,EMEA,Spain,Spain - All,NA,160.00
+S2S8351,Silicon Testing - Software,L2,Low,EMEA,Spain,Spain - All,NA,160.00
+S3S8352,Silicon Testing - Software,L3,Low,EMEA,Spain,Spain - All,NA,160.00
+S4S8353,Silicon Testing - Software,L4,Low,EMEA,Spain,Spain - All,NA,160.00
+S5S8354,Silicon Testing - Software,L5,Low,EMEA,Spain,Spain - All,NA,160.00
+S1U8605,Silicon Testing - Software,L1,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+S2U8606,Silicon Testing - Software,L2,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+S3U8607,Silicon Testing - Software,L3,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+S4U8608,Silicon Testing - Software,L4,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+S5U8609,Silicon Testing - Software,L5,Low,EMEA,Ukraine,Ukraine - All,NA,160.00
+S1U8435,Silicon Testing - Software,L1,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+S2U8436,Silicon Testing - Software,L2,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+S3U8437,Silicon Testing - Software,L3,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+S4U8438,Silicon Testing - Software,L4,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+S5U8439,Silicon Testing - Software,L5,Low,EMEA,United Kingdom,United Kingdom - All,NA,160.00
+S1N7245,Silicon Testing - Software,L1,Low,NA,United States,New York,$110.00,160.00
+S2N7246,Silicon Testing - Software,L2,Low,NA,United States,New York,$130.00,160.00
+S3N7247,Silicon Testing - Software,L3,Low,NA,United States,New York,$155.00,160.00
+S4N7248,Silicon Testing - Software,L4,Low,NA,United States,New York,$175.00,160.00
+S5N7249,Silicon Testing - Software,L5,Low,NA,United States,New York,$195.00,160.00
+S1T7415,Silicon Testing - Software,L1,Low,NA,Canada,Toronto,$98.00,160.00
+S2T7416,Silicon Testing - Software,L2,Low,NA,Canada,Toronto,$115.00,160.00
+S3T7417,Silicon Testing - Software,L3,Low,NA,Canada,Toronto,$130.00,160.00
+S4T7418,Silicon Testing - Software,L4,Low,NA,Canada,Toronto,$145.00,160.00
+S5T7419,Silicon Testing - Software,L5,Low,NA,Canada,Toronto,$165.00,160.00
+S1B9115,Silicon Testing - Software,L1,Medium,LatAm,Brazil,Brazil,NA,160.00
+S2B9116,Silicon Testing - Software,L2,Medium,LatAm,Brazil,Brazil,NA,160.00
+S3B9117,Silicon Testing - Software,L3,Medium,LatAm,Brazil,Brazil,NA,160.00
+S4B9118,Silicon Testing - Software,L4,Medium,LatAm,Brazil,Brazil,NA,160.00
+S5B9119,Silicon Testing - Software,L5,Medium,LatAm,Brazil,Brazil,NA,160.00
+S1G8945,Silicon Testing - Software,L1,Medium,EMEA,Germany,Germany - All,NA,160.00
+S2G8946,Silicon Testing - Software,L2,Medium,EMEA,Germany,Germany - All,NA,160.00
+S3G8947,Silicon Testing - Software,L3,Medium,EMEA,Germany,Germany - All,NA,160.00
+S4G8948,Silicon Testing - Software,L4,Medium,EMEA,Germany,Germany - All,NA,160.00
+S5G8949,Silicon Testing - Software,L5,Medium,EMEA,Germany,Germany - All,NA,160.00
+S1C7585,Silicon Testing - Software,L1,Medium,APAC,India,Chennai,$27.00,180.00
+S2C7586,Silicon Testing - Software,L2,Medium,APAC,India,Chennai,$33.00,180.00
+S3C7587,Silicon Testing - Software,L3,Medium,APAC,India,Chennai,$36.00,180.00
+S4C7588,Silicon Testing - Software,L4,Medium,APAC,India,Chennai,$40.00,180.00
+S5C7589,Silicon Testing - Software,L5,Medium,APAC,India,Chennai,$44.00,180.00
+S1H7670,Silicon Testing - Software,L1,Medium,APAC,India,Hyderabad,$27.00,180.00
+S2H7671,Silicon Testing - Software,L2,Medium,APAC,India,Hyderabad,$33.00,180.00
+S3H7672,Silicon Testing - Software,L3,Medium,APAC,India,Hyderabad,$36.00,180.00
+S4H7673,Silicon Testing - Software,L4,Medium,APAC,India,Hyderabad,$40.00,180.00
+S5H7674,Silicon Testing - Software,L5,Medium,APAC,India,Hyderabad,$44.00,180.00
+S1M7755,Silicon Testing - Software,L1,Medium,APAC,India,Mumbai,$27.00,180.00
+S2M7756,Silicon Testing - Software,L2,Medium,APAC,India,Mumbai,$33.00,180.00
+S3M7757,Silicon Testing - Software,L3,Medium,APAC,India,Mumbai,$36.00,180.00
+S4M7758,Silicon Testing - Software,L4,Medium,APAC,India,Mumbai,$40.00,180.00
+S5M7759,Silicon Testing - Software,L5,Medium,APAC,India,Mumbai,$44.00,180.00
+S1N7840,Silicon Testing - Software,L1,Medium,APAC,India,New Delhi,$27.00,180.00
+S2N7841,Silicon Testing - Software,L2,Medium,APAC,India,New Delhi,$33.00,180.00
+S3N7842,Silicon Testing - Software,L3,Medium,APAC,India,New Delhi,$36.00,180.00
+S4N7843,Silicon Testing - Software,L4,Medium,APAC,India,New Delhi,$40.00,180.00
+S5N7844,Silicon Testing - Software,L5,Medium,APAC,India,New Delhi,$44.00,180.00
+S1P7925,Silicon Testing - Software,L1,Medium,APAC,India,Pune,$27.00,180.00
+S2P7926,Silicon Testing - Software,L2,Medium,APAC,India,Pune,$33.00,180.00
+S3P7927,Silicon Testing - Software,L3,Medium,APAC,India,Pune,$36.00,180.00
+S4P7928,Silicon Testing - Software,L4,Medium,APAC,India,Pune,$40.00,180.00
+S5P7929,Silicon Testing - Software,L5,Medium,APAC,India,Pune,$44.00,180.00
+S1P9030,Silicon Testing - Software,L1,Medium,EMEA,Poland,Poland - All,NA,160.00
+S2P9031,Silicon Testing - Software,L2,Medium,EMEA,Poland,Poland - All,NA,160.00
+S3P9032,Silicon Testing - Software,L3,Medium,EMEA,Poland,Poland - All,NA,160.00
+S4P9033,Silicon Testing - Software,L4,Medium,EMEA,Poland,Poland - All,NA,160.00
+S5P9034,Silicon Testing - Software,L5,Medium,EMEA,Poland,Poland - All,NA,160.00
+S1T7330,Silicon Testing - Software,L1,Medium,NA,United States,Texas,$102.00,160.00
+S2T7331,Silicon Testing - Software,L2,Medium,NA,United States,Texas,$120.00,160.00
+S3T7332,Silicon Testing - Software,L3,Medium,NA,United States,Texas,$150.00,160.00
+S4T7333,Silicon Testing - Software,L4,Medium,NA,United States,Texas,$165.00,160.00
+S5T7334,Silicon Testing - Software,L5,Medium,NA,United States,Texas,$180.00,160.00
+S1U7500,Silicon Testing - Software,L1,Medium,NA,United States,US - Other,$102.00,160.00
+S2U7501,Silicon Testing - Software,L2,Medium,NA,United States,US - Other,$120.00,160.00
+S3U7502,Silicon Testing - Software,L3,Medium,NA,United States,US - Other,$150.00,160.00
+S4U7503,Silicon Testing - Software,L4,Medium,NA,United States,US - Other,$165.00,160.00
+S5U7504,Silicon Testing - Software,L5,Medium,NA,United States,US - Other,$180.00,160.00
